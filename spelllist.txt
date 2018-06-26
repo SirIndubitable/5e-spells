@@ -35,9 +35,9 @@ Earthquake
 Etherealness
 Find the Path
 Finger of Death
-Fireball
 Fire Bolt
 Fire Storm
+Fireball
 Flame Strike
 Flaming Sphere
 Fly
@@ -54,7 +54,7 @@ Harm
 Haste
 Heal
 Healing Word
-Heroesâ€™ Feast
+Heroes’ Feast
 Hold Person
 Holy Aura
 Ice Storm
@@ -81,8 +81,8 @@ Maze
 Meteor Swarm
 Minor Illusion
 Misty Step
-Mordenkainenâ€™s Sword
-Ottoâ€™s Irresistible Dance
+Mordenkainen’s Sword
+Otto’s Irresistible Dance
 Passwall
 Poison Spray
 Power Word Kill

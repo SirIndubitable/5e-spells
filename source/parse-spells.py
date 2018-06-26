@@ -57,13 +57,21 @@ def parse_files():
 
 
 parser = argparse.ArgumentParser(description='Parses spells into json')
-parser.add_argument(dest='spell_dest', type=str,
-                    help='destination of all the spells json file')
+parser.add_argument('-json', dest='json_dest', type=str,
+                    help='destination of the spells json file')
+parser.add_argument('-list', dest='list_dest', type=str,
+                    help='destination of the flat list of spells file')
 
 args = parser.parse_args()
-
 spells_dict = parse_files()
-json.dumps(spells_dict)
-f = open(args.spell_dest, 'w')
-f.write(json.dumps(spells_dict, indent=3, sort_keys=True))
-f.close()
+
+if args.json_dest is not None:
+    f = open(args.json_dest, 'w')
+    f.write(json.dumps(spells_dict, indent=3, sort_keys=True))
+    f.close()
+
+if args.list_dest is not None:
+    f = open(args.list_dest, 'w')
+    for spell_name in sorted(spells_dict.keys()):
+        f.write(spell_name + '\n')
+    f.close()
