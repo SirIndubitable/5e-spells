@@ -1,0 +1,9 @@
+Animal Messenger
+2nd-level enchantment
+Casting Time: 1 action (Ritual)
+Range: 30 feet
+Components: V, S, M (Morsel of food)
+Duration: 24 hours
+Choose a Tiny beast you can see with in range. You specify a location, which you must have visited, and a recipient who matches a general description. You speak a message of up to twenty-five words. The target beast travels for the duration of the spell toward the specified location.
+When the messenger arrives, it delivers your message to the creature that you described. The messenger speaks only to a creature matching the description you gave. If the messenger doesn't reach its destination before the spell ends, the message is lost.
+At Higher Levels: The duration of the spell increases by 48 hours for each slot level above 2nd.

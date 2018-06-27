@@ -1,0 +1,8 @@
+Arms of Hadar
+1st-level conjuration
+Casting Time: 1 action
+Range: Self (10ft radius)
+Components: V, S
+Duration: Instantaneous
+Tendrils of dark energy batter all creatures within 10 feet of you. They must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can't take reactions until its next turn. On a successful save, the creature takes half damage and suffers no other effect.
+At Higher Levels: The damage increases by 1d6 for each slot level above 1st.

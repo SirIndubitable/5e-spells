@@ -1,0 +1,10 @@
+Alter Self
+2nd-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 1 hour
+When you cast the spell, choose one of the following options. While the spell lasts, you can end one option as an action to gain the benefits of a different one.
+• Aquatic Adaptation: You can breathe underwater and gain a swimming speed equal to your walking speed.
+• Change Appearance: You transform your appearance. You decide what you look like. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same. At any time for the duration of the spell, you can use your action to change your appearance in this way again.
+• Natural Weapons: Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to a natural weapon you create, and you are proficient with your unarmed strikes. The weapon is magic and you have a +1 bonus to the attack and damage rolls you make with it.

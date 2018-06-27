@@ -1,0 +1,8 @@
+Beast Sense
+2nd-level divination
+Casting Time: 1 action (Ritual)
+Range: Touch
+Components: S
+Duration: Concentration, up to 1 hour
+Touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears. You can use your action to return to your normal senses. While perceiving through the beast's senses, you gain the benefits of any special senses it has.
+You are blinded and deafened to your own surroundings.

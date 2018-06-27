@@ -1,0 +1,8 @@
+Compelled Duel
+1st-level enchantment
+Casting Time: 1 bonus action
+Range: 30 feet
+Components: V
+Duration: Concentration, up to 1 minute
+One creature that you can see must make a Wisdom save. On a failed save, the target has disadvantage on attack rolls against creatures other than you, and must make a Wisdom save each time it tries to move to a space that is more than 30 feet away from you. If it succeeds, the spell doesn't restrict its movement for that turn.
+The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target

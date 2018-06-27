@@ -39,7 +39,7 @@ def add_spell(spellDict, spell):
     spell_info["range"] = next(spell_iter).replace('Range: ', '').strip()
     spell_info["components"] = next(spell_iter).replace('Components: ', '').strip()
     spell_info["duration"] = next(spell_iter).replace('Duration: ', '').strip()
-    spell_info["description"] = " ".join(map(str.strip, spell_iter))
+    spell_info["description"] = "".join(spell_iter)
     spellDict[spell_name] = spell_info
 
 

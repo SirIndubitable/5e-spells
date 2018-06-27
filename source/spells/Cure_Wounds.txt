@@ -1,0 +1,8 @@
+Cure Wounds
+1st-level evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+A creature you touch regains 1d8 + your spellcasting modifier of hit points. This spell has no effect on undead or constructs.
+At Higher Levels: The healing increases by 1d8 for each slot level above 1st.

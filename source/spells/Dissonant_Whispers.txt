@@ -1,0 +1,8 @@
+Dissonant Whispers
+1st-level enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V
+Duration: Instantaneous
+The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground. On a successful save, the target takes half as much damage and doesn't have to move. A deafened creature automatically succeeds.
+At Higher Levels: The damage increases by 1d6 for each slot level above 1st.

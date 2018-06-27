@@ -1,0 +1,9 @@
+Searing Smite
+1st-level evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, up to 1 minute
+The next time you hit a creature with a melee weapon attack, the attack deals an extra 1d6 fire damage to the target and sets them on fire. The fire goes out if the spell is ended.
+At the start of each of its turns, the target must make a Constitution saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spell ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames, the spell ends.
+At Higher Levels: The initial extra damage dealt by the attack increases by 1d6 for each slot above 1st.

@@ -1,38 +1,62 @@
 Acid Splash
 Aid
+Alarm
+Alter Self
+Animal Friendship
+Animal Messenger
 Antimagic Field
 Arcane Eye
 Arcane Lock
+Armor of Agathys
+Arms of Hadar
 Astral Projection
 Augury
+Bane
+Barkskin
 Beacon of Hope
+Beast Sense
 Blade Barrier
 Bless
 Blur
 Burning Hands
 Chain Lightning
 Charm Person
+Chromatic Orb
+Color Spray
 Command
 Commune
+Compelled Duel
 Comprehend Languages
 Cone of Cold
 Counterspell
+Create or Destroy Water
 Cure Wounds
 Dancing Lights
 Darkness
 Death Ward
 Delayed Blast Fireball
+Detect Evil And Good
 Detect Magic
+Detect Poison And Disease
 Dimension Door
 Disguise Self
 Disintegrate
 Dispel Magic
+Dissonant Whispers
 Divination
+Divine Favor
 Dominate Monster
 Dominate Person
 Dream
 Earthquake
+Ensnaring Strike
+Entangle
 Etherealness
+Expeditious Retreat
+Faerie Fire
+False Life
+Feather Fall
+Find Familiar
 Find the Path
 Finger of Death
 Fire Bolt
@@ -41,33 +65,44 @@ Fireball
 Flame Strike
 Flaming Sphere
 Fly
+Fog Cloud
 Foresight
 Freedom of Movement
 Gate
 Globe of Invulnerability
+Goodberry
+Grease
 Greater Invisibility
 Greater Restoration
 Guardian of Faith
 Guidance
 Guiding Bolt
+Hail of Thorns
 Harm
 Haste
 Heal
 Healing Word
+Hellish Rebuke
 Heroes’ Feast
+Heroism
+Hex
 Hold Person
 Holy Aura
+Hunters Mark
 Ice Storm
 Identify
+Illusory Script
 Imprisonment
 Inflict Wounds
 Invisibility
+Jump
 Knock
 Lesser Restoration
 Levitate
 Light
 Lightning Bolt
 Locate Creature
+Longstrider
 Mage Armor
 Mage Hand
 Magic Missile
@@ -89,9 +124,12 @@ Power Word Kill
 Power Word Stun
 Prayer of Healing
 Prestidigitation
+Protection From Evil And Good
 Protection from Energy
+Purify Food And Drink
 Raise Dead
 Ray of Frost
+Ray of Sickness
 Regenerate
 Remove Curse
 Resistance
@@ -99,6 +137,7 @@ Resurrection
 Revivify
 Sacred Flame
 Sanctuary
+Searing Smite
 Shatter
 Shield
 Shield of Faith
@@ -107,6 +146,7 @@ Silence
 Silent Image
 Sleep
 Spare the Dying
+Speak With Animals
 Speak with Dead
 Spider Climb
 Spirit Guardians
@@ -114,13 +154,19 @@ Spiritual Weapon
 Stoneskin
 Suggestion
 Sunburst
+Tasha's Hideous Laughter
 Teleport
+Tensor's Floating Disk
 Thaumaturgy
+Thunderous Smite
 Thunderwave
 Time Stop
 True Resurrection
 True Seeing
+Unseen Servant
 Wall of Fire
 Wall of Stone
 Warding Bond
 Web
+Witch Bolt
+Wrathful smite

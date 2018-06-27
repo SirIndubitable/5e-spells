@@ -1,0 +1,7 @@
+Barkskin
+2nd-level transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (Oak bark)
+Duration: Concentation, up to 1 hour
+Touch a willing creature. Until the spell ends, the target's AC can't be less than 16, regardless of what kind of armor they're wearing.

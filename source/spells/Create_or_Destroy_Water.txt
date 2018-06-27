@@ -1,0 +1,10 @@
+Create or Destroy Water
+1st-level transmutation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M (Water (create)/sand (destroy))
+Duration: Instantaneous
+You either create or destroy water.
+• Create: You create up to 10 gallons of clean water in an open container. Alternatively, the water falls as rain in a 30-foot cube and extinguishes exposed flames.
+• Destroy: You destroy up to 10 gallons of water in an open container. Alternatively, you destroy fog in a 30-foot cube.
+At Higher Levels: You create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.

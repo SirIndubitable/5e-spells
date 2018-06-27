@@ -1,0 +1,8 @@
+Chromatic Orb
+1st-level evocation
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (50gp diamond)
+Duration: Instantaneous
+Make a ranged spell attack against a creature you can see. You choose the damage type: acid, cold, fire, lightning, poison, or thunder. If the attack hits, the creature takes 3d8 damage of the type you chose.
+At Higher Levels: The damage increases by 1d8 for each slot level above 1st.

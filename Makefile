@@ -1,2 +1,2 @@
-spells.json: source\parse-spells.pl source\spelllist.txt source\spelldescs.txt
-	perl6 source\\parse-spells.pl | json_pp -json_opt pretty,utf8,canonical > spells.json
+spells.json: source/parse-spells.py $(wildcard source/spells/*.txt)
+	python source/parse-spells.py -json="spells.json" -list="spelllist.txt"

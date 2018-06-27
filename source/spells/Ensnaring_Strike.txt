@@ -1,0 +1,9 @@
+Ensnaring Strike
+1st-level conjuration
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, up to 1 minute
+The next time you hit a creature with a weapon attack, the target must succeed on a Strength save or be restrained until the spell ends. A Large or larger creature has advantage on this saving throw.
+While restrained by this spell, the target takes 1d6 piercing damage at the start of each of its turns. The creature restrained or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed.
+At Higher Levels: The damage increases by 1d6 for each slot level above 1st. 
