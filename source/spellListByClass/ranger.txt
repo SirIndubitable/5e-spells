@@ -1,0 +1,57 @@
+Absorb Elements
+Alarm
+Animal Friendship
+Beast Bond
+Cure Wounds
+Detect Magic
+Detect Poison and Disease
+Ensnaring Strike
+Fog Cloud
+Goodberry
+Hail of Thorns
+Hunters Mark
+Jump
+Longstrider
+Snare
+Speak with Animals
+Sudden Awakening
+Wild Cunning
+Zephyr Strike
+Animal Messenger
+Barkskin
+Beast Sense
+Cordon of Arrows
+Darkvision
+Find Traps
+Healing Spirit
+Lesser Restoration
+Locate Animals or Plants
+Locate Object
+Pass without Trace
+Protection from Poison
+Silence
+Spike Growth
+Conjure Animals
+Conjure Barrage
+Daylight
+Flame Arrows
+Lightning Arrow
+Nondetection
+Plant Growth
+Protection from Energy
+Speak with Plants
+Water Breathing
+Water Walk
+Wind Wall
+Conjure Woodland Beings
+Freedom of Movement
+Grasping Vine
+Guardian of Nature
+Locate Creature
+Stoneskin
+Commune with Nature
+Conjure Volley
+Steel Wind Strike
+Swift Quiver
+Tree Stride
+Wrath of Nature

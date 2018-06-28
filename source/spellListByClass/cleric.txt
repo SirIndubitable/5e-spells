@@ -1,0 +1,115 @@
+Guidance
+Light
+Mending
+Resistance
+Sacred Flame
+Spare the Dying
+Thaumaturgy
+Toll the Dead
+Virtue
+Word of Radiance
+Bane
+Bless
+Ceremony
+Command
+Create or Destroy Water
+Cure Wounds
+Detect Evil and Good
+Detect Magic
+Detect Poison and Disease
+Guiding Bolt
+Guiding Hand
+Healing Word
+Inflict Wounds
+Protection from Evil and Good
+Purify Food and Drink
+Sanctuary
+Shield of Faith
+Aid
+Augury
+Blindness/Deafness
+Calm Emotions
+Continual Flame
+Enhance Ability
+Find Traps
+Gentle Repose
+Hold Person
+Lesser Restoration
+Locate Object
+Prayer of Healing
+Protection from Poison
+Silence
+Spiritual Weapon
+Warding Bond
+Zone of Truth
+Animate Dead
+Beacon of Hope
+Bestow Curse
+Clairvoyance
+Create Food and Water
+Daylight
+Dispel Magic
+Feign Death
+Glyph of Warding
+Life Transference
+Magic Circle
+Mass Healing Word
+Meld into Stone
+Protection from Energy
+Remove Curse
+Revivify
+Sending
+Speak with Dead
+Spirit Guardians
+Tongues
+Water Walk
+Banishment
+Control Water
+Death Ward
+Divination
+Freedom of Movement
+Guardian of Faith
+Locate Creature
+Stone Shape
+Commune
+Contagion
+Dawn
+Dispel Evil and Good
+Flame Strike
+Geas
+Greater Restoration
+Hallow
+Holy Weapon
+Insect Plague
+Legend Lore
+Mass Cure Wounds
+Planar Binding
+Raise Dead
+Scrying
+Blade Barrier
+Create Undead
+Find the Path
+Forbiddance
+Harm
+Heal
+Heroes' Feast
+Planar Ally
+True Seeing
+Word of Recall
+Conjure Celestial
+Divine Word
+Etherealness
+Fire Storm
+Plane Shift
+Regenerate
+Resurrection
+Symbol
+Temple of the Gods
+Antimagic Field
+Control Weather
+Earthquake
+Holy Aura
+Astral Projection
+Gate
+Mass Heal
+True Resurrection

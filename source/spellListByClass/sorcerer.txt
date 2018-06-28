@@ -1,0 +1,208 @@
+Acid Splash
+Blade Ward
+Booming Blade
+Chill Touch
+Control Flames
+Create Bonfire
+Dancing Lights
+Fire Bolt
+Friends
+Frostbite
+Green-Flame Blade
+Gust
+Infestation
+Light
+Lightning Lure
+Mage Hand
+Mending
+Message
+Minor Illusion
+Mold Earth
+On/Off
+Poison Spray
+Prestidigitation
+Ray of Frost
+Shape Water
+Shocking Grasp
+Sword Burst
+Thunderclap
+True Strike
+Absorb Elements
+Burning Hands
+Catapult
+Chaos Bolt
+Charm Person
+Chromatic Orb
+Color Spray
+Comprehend Languages
+Detect Magic
+Disguise Self
+Earth Tremor
+Expeditious Retreat
+False Life
+Feather Fall
+Fog Cloud
+Ice Knife
+Infallible Relay
+Jump
+Mage Armor
+Magic Missile
+Ray of Sickness
+Remote Access
+Shield
+Silent Image
+Sleep
+Sudden Awakening
+Thunderwave
+Witch Bolt
+Aganazzar's Scorcher
+Alter Self
+Arcane Hacking
+Blindness/Deafness
+Blur
+Cloud of Daggers
+Crown of Madness
+Darkness
+Darkvision
+Detect Thoughts
+Digital Phantom
+Dragon's Breath
+Dust Devil
+Earthbind
+Enhance Ability
+Enlarge/Reduce
+Find Vehicle
+Gust of Wind
+Hold Person
+Invisibility
+Knock
+Levitate
+Maximilian's Earthen Grasp
+Mind Spike
+Mirror Image
+Misty Step
+Phantasmal Force
+Pyrotechnics
+Scorching Ray
+See Invisibility
+Shadow Blade
+Shatter
+Snilloc's Snowball Swarm
+Spider Climb
+Suggestion
+Warding Wind
+Web
+Blink
+Catnap
+Clairvoyance
+Conjure Lesser Demon
+Counterspell
+Daylight
+Dispel Magic
+Enemies Abound
+Erupting Earth
+Fear
+Fireball
+Flame Arrows
+Fly
+Gaseous Form
+Haste
+Haywire
+Hypnotic Pattern
+Invisibility to Cameras
+Lightning Bolt
+Major Image
+Melf's Minute Meteors
+Protection from Ballistics
+Protection from Energy
+Sleet Storm
+Slow
+Stinking Cloud
+Thunder Step
+Tidal Wave
+Tongues
+Wall of Water
+Water Breathing
+Water Walk
+Banishment
+Blight
+Charm Monster
+Confusion
+Conjure Barlgura
+Conjure Knowbot
+Conjure Shadow Demon
+Dimension Door
+Dominate Beast
+Greater Invisibility
+Ice Storm
+Polymorph
+Sickening Radiance
+Stoneskin
+Storm Sphere
+Synchronicity
+System Backdoor
+Vitriolic Sphere
+Wall of Fire
+Watery Sphere
+Animate Objects
+Cloudkill
+Commune with City
+Cone of Cold
+Conjure Vrock
+Control Winds
+Creation
+Dominate Person
+Enervation
+Far Step
+Hold Monster
+Immolation
+Insect Plague
+Seeming
+Shutdown
+Skill Empowerment
+Synaptic Static
+Telekinesis
+Teleportation Circle
+Wall of Light
+Wall of Stone
+Arcane Gate
+Chain Lightning
+Circle of Death
+Disintegrate
+Eyebite
+Globe of Invulnerability
+Investiture of Flame
+Investiture of Ice
+Investiture of Stone
+Investiture of Wind
+Mass Suggestion
+Mental Prison
+Move Earth
+Scatter
+Sunbeam
+True Seeing
+Conjure Hezrou
+Crown of Stars
+Delayed Blast Fireball
+Etherealness
+Finger of Death
+Fire Storm
+Plane Shift
+Power Word Pain
+Prismatic Spray
+Reverse Gravity
+Teleport
+Whirlwind
+Abi-Dalzim's Horrid Wilting
+Dominate Monster
+Earthquake
+Incendiary Cloud
+Power Word Stun
+Sunburst
+Gate
+Mass Polymorph
+Meteor Swarm
+Power Word Kill
+Psychic Scream
+Time Stop
+Wish

@@ -1,0 +1,131 @@
+Blade Ward
+Booming Blade
+Chill Touch
+Create Bonfire
+Eldritch Blast
+Friends
+Frostbite
+Green-Flame Blade
+Infestation
+Lightning Lure
+Mage Hand
+Magic Stone
+Minor Illusion
+On/Off
+Poison Spray
+Prestidigitation
+Sword Burst
+Thunderclap
+Toll the Dead
+True Strike
+Armor of Agathys
+Arms of Hadar
+Cause Fear
+Charm Person
+Comprehend Languages
+Expeditious Retreat
+Healing Elixir
+Hellish Rebuke
+Hex
+Illusory Script
+Infallible Relay
+Protection from Evil and Good
+Puppet
+Remote Access
+Sense Emotion
+Unseen Servant
+Witch Bolt
+Arcane Hacking
+Cloud of Daggers
+Crown of Madness
+Darkness
+Digital Phantom
+Earthbind
+Enthrall
+Find Vehicle
+Hold Person
+Invisibility
+Mind Spike
+Mirror Image
+Misty Step
+Ray of Enfeeblement
+Shadow Blade
+Shatter
+Spider Climb
+Suggestion
+Counterspell
+Dispel Magic
+Enemies Abound
+Fear
+Fly
+Gaseous Form
+Haywire
+Hunger of Hadar
+Hypnotic Pattern
+Invisibility to Cameras
+Magic Circle
+Major Image
+Protection from Ballistics
+Remove Curse
+Summon Lesser Demons
+Thunder Step
+Tongues
+Vampiric Touch
+Banishment
+Blight
+Charm Monster
+Conjure Knowbot
+Dimension Door
+Elemental Bane
+Hallucinatory Terrain
+Shadow of Moil
+Sickening Radiance
+Summon Greater Demon
+Synchronicity
+System Backdoor
+Commune with City
+Contact Other Plane
+Danse Macabre
+Dream
+Enervation
+Far Step
+Hold Monster
+Infernal Calling
+Negative Energy Flood
+Scrying
+Shutdown
+Synaptic Static
+Wall of Light
+Arcane Gate
+Circle of Death
+Conjure Fey
+Create Undead
+Eyebite
+Flesh to Stone
+Investiture of Flame
+Investiture of Ice
+Investiture of Stone
+Investiture of Wind
+Mass Suggestion
+Mental Prison
+Scatter
+Soul Cage
+True Seeing
+Crown of Stars
+Etherealness
+Finger of Death
+Forcecage
+Plane Shift
+Power Word Pain
+Demiplane
+Dominate Monster
+Feeblemind
+Glibness
+Maddening Darkness
+Power Word Stun
+Astral Projection
+Foresight
+Imprisonment
+Power Word Kill
+Psychic Scream
+True Polymorph

@@ -1,0 +1,320 @@
+Acid Splash
+Blade Ward
+Booming Blade
+Chill Touch
+Control Flames 
+Create Bonfire 
+Dancing Lights
+Fire Bolt
+Friends
+Frostbite 
+Green-Flame Blade
+Gust 
+Infestation 
+Light
+Lightning Lure
+Mage Hand
+Mending
+Message
+Minor Illusion
+Mold Earth 
+On/Off
+Poison Spray
+Prestidigitation
+Ray of Frost
+Shape Water 
+Shocking Grasp
+Sword Burst
+Thunderclap 
+Toll the Dead 
+True Strike
+Absorb Elements 
+Alarm
+Burning Hands
+Catapult 
+Cause Fear 
+Charm Person
+Chromatic Orb
+Color Spray
+Comprehend Languages
+Detect Magic
+Disguise Self
+Earth Tremor 
+Expeditious Retreat
+False Life
+Feather Fall
+Find Familiar
+Fog Cloud
+Grease
+Guiding Hand
+Healing Elixir
+Ice Knife 
+Identify
+Illusory Script
+Infallible Relay
+Jump
+Longstrider
+Mage Armor
+Magic Missile
+Protection from Evil and Good
+Puppet
+Ray of Sickness
+Remote Access
+Sense Emotion
+Shield
+Silent Image
+Sleep
+Snare 
+Sudden Awakening
+Tasha's Hideous Laughter
+Tenser's Floating Disk
+Thunderwave
+Unseen Servant
+Witch Bolt
+Aganazzar's Scorcher 
+Alter Self
+Arcane Hacking
+Arcane Lock
+Blindness/Deafness
+Blur
+Cloud of Daggers
+Continual Flame
+Crown of Madness
+Darkness
+Darkvision
+Detect Thoughts
+Digital Phantom
+Dragon's Breath
+Dust Devil 
+Earthbind 
+Enlarge/Reduce
+Flaming Sphere
+Find Vehicle
+Gentle Repose
+Gust of Wind
+Hold Person
+Invisibility
+Knock
+Levitate
+Locate Object
+Magic Mouth
+Magic Weapon
+Maximilian's Earthen Grasp 
+Melf's Acid Arrow
+Mirror Image
+Mind Spike
+Misty Step
+Nystul's Magic Aura
+Phantasmal Force
+Pyrotechnics 
+Ray of Enfeeblement
+Rope Trick
+Scorching Ray
+See Invisibility
+Shadow Blade
+Shatter
+Skywrite 
+Snilloc's Snowball Swarm 
+Spider Climb
+Suggestion
+Warding Wind
+Web
+Animate Dead
+Bestow Curse
+Blink
+Catnap
+Clairvoyance
+Conjure Lesser Demon
+Counterspell
+Dispel Magic
+Enemies Abound
+Erupting Earth 
+Fear
+Feign Death
+Fireball
+Flame Arrows 
+Fly
+Gaseous Form
+Glyph of Warding
+Haste
+Haywire
+Hypnotic Pattern
+Invisibility to Cameras
+Leomund's Tiny Hut
+Life Transference
+Lightning Bolt
+Magic Circle
+Major Image
+Melf's Minute Meteors 
+Nondetection
+Phantom Steed
+Protection from Ballistics
+Protection from Energy
+Remove Curse
+Sending
+Sleet Storm
+Slow
+Stinking Cloud
+Summon Lesser Demons
+Thunder Step
+Tidal Wave 
+Tiny Servant
+Tongues
+Vampiric Touch
+Wall of Sand 
+Wall of Water 
+Water Breathing
+Arcane Eye
+Banishment
+Blight
+Charm Monster
+Confusion
+Conjure Barlgura
+Conjure Knowbot
+Conjure Minor Elementals
+Conjure Shadow Demon
+Control Water
+Dimension Door
+Elemental Bane 
+Evard's Black Tentacles
+Fabricate
+Fire Shield
+Greater Invisibility
+Hallucinatory Terrain
+Ice Storm
+Leomund's Secret Chest
+Locate Creature
+Mordenkainen's Faithful Hound
+Mordenkainen's Private Sanctum
+Otiluke's Resilient Sphere
+Phantasmal Killer
+Polymorph
+Sickening Radiance
+Stone Shape
+Stoneskin
+Storm Sphere 
+Summon Greater Demon
+Synchronicity
+System Backdoor
+Vitriolic Sphere 
+Wall of Fire
+Watery Sphere 
+Animate Objects
+Bigby's Hand
+Cloudkill
+Commune with City
+Cone of Cold
+Conjure Elemental
+Conjure Vrock
+Contact Other Plane
+Control Winds 
+Creation
+Danse Macabre
+Dawn
+Dominate Person
+Dream
+Enervation
+Far Step
+Geas
+Hold Monster
+Immolation 
+Infernal Calling
+Legend Lore
+Mislead
+Modify Memory
+Negative Energy Flood
+Passwall
+Planar Binding
+Rary's Telepathic Bond
+Scrying
+Seeming
+Shutdown
+Skill Empowerment
+Steel Wind Strike
+Synaptic Static
+Telekinesis
+Teleportation Circle
+Transmute Rock 
+Wall of Force
+Wall of Light
+Wall of Stone
+Arcane Gate
+Chain Lightning
+Circle of Death
+Contingency
+Create Homunculus
+Create Undead
+Disintegrate
+Drawmij's Instant Summons
+Eyebite
+Flesh to Stone
+Globe of Invulnerability
+Guards and Wards
+Investiture of Flame 
+Investiture of Ice 
+Investiture of Stone 
+Investiture of Wind 
+Magic Jar
+Mass Suggestion
+Mental Prison
+Move Earth
+Otiluke's Freezing Sphere
+Otto's Irresistible Dance
+Programmed Illusion
+Scatter
+Soul Cage
+Sunbeam
+Tenser's Transformation
+True Seeing
+Wall of Ice
+Conjure Hezrou
+Crown of Stars
+Delayed Blast Fireball
+Etherealness
+Finger of Death
+Forcecage
+Mirage Arcane
+Mordenkainen's Magnificent Mansion
+Mordenkainen's Sword
+Plane Shift
+Power Word Pain
+Prismatic Spray
+Project Image
+Reverse Gravity
+Sequester
+Simulacrum
+Symbol
+Teleport
+Whirlwind 
+Abi-Dalzim's Horrid Wilting 
+Antimagic Field
+Antipathy/Sympathy
+Clone
+Control Weather
+Demiplane
+Dominate Monster
+Feeblemind
+Illusory Dragon
+Incendiary Cloud
+Maddening Darkness
+Maze
+Mighty Fortress
+Mind Blank
+Sunburst
+Telepathy
+Astral Projection
+Foresight
+Gate
+Imprisonment
+Invulnerability
+Mass Polymorph
+Meteor Swarm
+Power Word Kill
+Prismatic Wall
+Psychic Scream
+Shapechange
+Time Stop
+True Polymorph
+Weird
+Wish
+Power Word Stun

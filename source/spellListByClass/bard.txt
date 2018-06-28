@@ -1,0 +1,137 @@
+Blade Ward
+Dancing Lights
+Friends
+Light
+Mage Hand
+Mending
+Message
+Minor Illusion
+Prestidigitation
+Thunderclap 
+True Strike
+Vicious Mockery
+Animal Friendship
+Bane
+Charm Person
+Comprehend Languages
+Cure Wounds
+Detect Magic
+Disguise Self
+Dissonant Whispers
+Earth Tremor 
+Faerie Fire
+Feather Fall
+Guiding Hand
+Healing Word
+Heroism
+Identify
+Illusory Script
+Longstrider
+Puppet
+Sense Emotion
+Silent Image
+Sleep
+Speak with Animals
+Sudden Awakening
+Tasha's Hideous Laughter
+Thunderwave
+Unearthly Chorus
+Unseen Servant
+Animal Messenger
+Blindness/Deafness
+Calm Emotions
+Cloud of Daggers
+Crown of Madness
+Detect Thoughts
+Enhance Ability
+Enthrall
+Heat Metal
+Hold Person
+Invisibility
+Knock
+Lesser Restoration
+Locate Animals or Plants
+Locate Object
+Magic Mouth
+Phantasmal Force
+Pyrotechnics 
+See Invisibility
+Shatter
+Silence
+Skywrite 
+Suggestion
+Warding Wind 
+Zone of Truth
+Bestow Curse
+Catnap
+Clairvoyance
+Dispel Magic
+Enemies Abound
+Fear
+Feign Death
+Glyph of Warding
+Hypnotic Pattern
+Leomund's Tiny Hut
+Major Image
+Nondetection
+Plant Growth
+Sending
+Speak with Dead
+Speak with Plants
+Stinking Cloud
+Tongues
+Charm Monster
+Compulsion
+Confusion
+Dimension Door
+Freedom of Movement
+Greater Invisibility
+Hallucinatory Terrain
+Locate Creature
+Polymorph
+Animate Objects
+Awaken
+Dominate Person
+Dream
+Geas
+Greater Restoration
+Hold Monster
+Legend Lore
+Mass Cure Wounds
+Mislead
+Modify Memory
+Planar Binding
+Raise Dead
+Scrying
+Seeming
+Skill Empowerment
+Synaptic Static
+Teleportation Circle
+Eyebite
+Find the Path
+Guards and Wards
+Mass Suggestion
+Otto's Irresistible Dance
+Programmed Illusion
+True Seeing
+Etherealness
+Forcecage
+Mirage Arcane
+Mordenkainen's Magnificent Mansion
+Mordenkainen's Sword
+Project Image
+Regenerate
+Resurrection
+Symbol
+Teleport
+Dominate Monster
+Feeblemind
+Glibness
+Mind Blank
+Power Word Stun
+Foresight
+Mass Polymorph
+Power Word Heal
+Power Word Kill
+Psychic Scream
+True Polymorph
