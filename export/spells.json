@@ -13,7 +13,8 @@
       "duration": "1 round",
       "level": 1,
       "range": "Self",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": []
    },
    "Acid Splash": {
       "at_higher_levels": "",
@@ -27,7 +28,10 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 211"
+      ]
    },
    "Aganazzar's Scorcher": {
       "at_higher_levels": "The damage increases by 1d8 for each slot level above 2nd.",
@@ -41,7 +45,8 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "30 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Aid": {
       "at_higher_levels": "",
@@ -55,7 +60,10 @@
       "duration": "8 hours",
       "level": 2,
       "range": "30 feet",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 211"
+      ]
    },
    "Alarm": {
       "at_higher_levels": "",
@@ -69,7 +77,10 @@
       "duration": "8 hours",
       "level": 1,
       "range": "30 feet",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 211"
+      ]
    },
    "Alter Self": {
       "at_higher_levels": "",
@@ -83,7 +94,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 2,
       "range": "Self",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 211"
+      ]
    },
    "Animal Friendship": {
       "at_higher_levels": "You can affect one additional beast for each slot level above 1st.",
@@ -98,7 +112,10 @@
       "duration": "24 hours",
       "level": 1,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 212"
+      ]
    },
    "Animal Messenger": {
       "at_higher_levels": "The duration of the spell increases by 48 hours for each slot level above 2nd.",
@@ -113,7 +130,10 @@
       "duration": "24 hours",
       "level": 2,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 212"
+      ]
    },
    "Animate Dead": {
       "at_higher_levels": "You animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones.",
@@ -127,7 +147,10 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "10 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 212"
+      ]
    },
    "Animate Objects": {
       "at_higher_levels": "You can animate two additional objects for each slot level above 5th.",
@@ -142,7 +165,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 5,
       "range": "120 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 213"
+      ]
    },
    "Antilife Shell": {
       "at_higher_levels": "",
@@ -155,7 +181,10 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 5,
       "range": "Self (10ft radius)",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 213"
+      ]
    },
    "Antimagic Field": {
       "at_higher_levels": "",
@@ -169,7 +198,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 8,
       "range": "Self (10-foot-radius sphere)",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 213"
+      ]
    },
    "Arcane Eye": {
       "at_higher_levels": "",
@@ -182,7 +214,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 4,
       "range": "30 feet",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 214"
+      ]
    },
    "Arcane Gate": {
       "at_higher_levels": "",
@@ -197,7 +232,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 6,
       "range": "500 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 214"
+      ]
    },
    "Arcane Hacking": {
       "at_higher_levels": "You can attempt to counteract a spell if its level is equal to or less than the level of the spell slot you used.",
@@ -212,7 +250,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 2,
       "range": "Self",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Arcane Lock": {
       "at_higher_levels": "",
@@ -225,7 +264,10 @@
       "duration": "Until dispelled",
       "level": 2,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 215"
+      ]
    },
    "Armor of Agathys": {
       "at_higher_levels": "Both the temporary hit points and damage increase by 5 for each slot level above 1st.",
@@ -238,7 +280,10 @@
       "duration": "1 hour",
       "level": 1,
       "range": "Self",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 215"
+      ]
    },
    "Arms of Hadar": {
       "at_higher_levels": "The damage increases by 1d6 for each slot level above 1st.",
@@ -251,7 +296,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "Self (10ft radius)",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 215"
+      ]
    },
    "Astral Projection": {
       "at_higher_levels": "",
@@ -266,7 +314,10 @@
       "duration": "Special",
       "level": 9,
       "range": "10 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 215"
+      ]
    },
    "Augury": {
       "at_higher_levels": "",
@@ -279,7 +330,10 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 215"
+      ]
    },
    "Aura of Life": {
       "at_higher_levels": "",
@@ -292,7 +346,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 4,
       "range": "Self (30ft radius)",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 216"
+      ]
    },
    "Aura of Purity": {
       "at_higher_levels": "",
@@ -305,7 +362,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 4,
       "range": "Self (30ft radius)",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 216"
+      ]
    },
    "Aura of Vitality": {
       "at_higher_levels": "",
@@ -318,7 +378,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "Self (30ft radius)",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 216"
+      ]
    },
    "Awaken": {
       "at_higher_levels": "",
@@ -332,7 +395,10 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 216"
+      ]
    },
    "Bane": {
       "at_higher_levels": "You can target one additional creature for each slot level above 1st.",
@@ -346,7 +412,10 @@
       "duration": "Up to 1 minute",
       "level": 1,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 216"
+      ]
    },
    "Banishing Smite": {
       "at_higher_levels": "",
@@ -359,7 +428,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 5,
       "range": "Self",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 216"
+      ]
    },
    "Banishment": {
       "at_higher_levels": "You can target one additional creature for each slot above 4th.",
@@ -376,7 +448,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "60 feet",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 217"
+      ]
    },
    "Barkskin": {
       "at_higher_levels": "",
@@ -390,7 +465,10 @@
       "duration": "Concentation, up to 1 hour",
       "level": 2,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 217"
+      ]
    },
    "Beacon of Hope": {
       "at_higher_levels": "",
@@ -403,7 +481,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 3,
       "range": "30 feet",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 217"
+      ]
    },
    "Beast Bond": {
       "at_higher_levels": "",
@@ -417,7 +498,8 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 1,
       "range": "Touch",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": []
    },
    "Beast Sense": {
       "at_higher_levels": "",
@@ -431,7 +513,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 2,
       "range": "Touch",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 217"
+      ]
    },
    "Bestow Curse": {
       "at_higher_levels": "If you cast this spell using a 4th level slot, the possible duration is extended to 10 minutes. If you use a 5th or 6th level slot, the duration is 8 hours. If you use a 7th or 8th level slot, the duration is 24 hours. If you use a 9th level slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration.",
@@ -446,7 +531,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "Touch",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 218"
+      ]
    },
    "Bigby's Hand": {
       "at_higher_levels": "For each slot level above 5th, Clenched Fist's damage increases by 2d8, and Grasping Hand's increases by 2d6.",
@@ -459,7 +547,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 5,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 218"
+      ]
    },
    "Blade Barrier": {
       "at_higher_levels": "",
@@ -472,7 +563,10 @@
       "duration": "Concentration, up to 10 minutes",
       "level": 6,
       "range": "90 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 218"
+      ]
    },
    "Blade Ward": {
       "at_higher_levels": "",
@@ -488,7 +582,10 @@
       "duration": "1 round",
       "level": 0,
       "range": "Self",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 218"
+      ]
    },
    "Bless": {
       "at_higher_levels": "",
@@ -502,7 +599,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 1,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 219"
+      ]
    },
    "Blight": {
       "at_higher_levels": "The damage increases by 1d8 for each slot level above 4th.",
@@ -518,7 +618,10 @@
       "duration": "Instantaneous",
       "level": 4,
       "range": "30 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 219"
+      ]
    },
    "Blinding Smite": {
       "at_higher_levels": "",
@@ -531,7 +634,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 219"
+      ]
    },
    "Blindness/Deafness": {
       "at_higher_levels": "You can target one additional creature for each slot level above 2nd.",
@@ -547,7 +653,10 @@
       "duration": "1 minute",
       "level": 2,
       "range": "30 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 219"
+      ]
    },
    "Blink": {
       "at_higher_levels": "",
@@ -561,7 +670,10 @@
       "duration": "1 minute",
       "level": 3,
       "range": "Self",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 219"
+      ]
    },
    "Blur": {
       "at_higher_levels": "",
@@ -575,7 +687,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 2,
       "range": "Self",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 219"
+      ]
    },
    "Bones of the Earth": {
       "at_higher_levels": "You can create two additional pillars for each slot level above 6th.",
@@ -588,7 +703,8 @@
       "duration": "Instantaneous",
       "level": 6,
       "range": "120 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Booming Blade": {
       "at_higher_levels": "",
@@ -603,7 +719,8 @@
       "duration": "1 round",
       "level": 0,
       "range": "5 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Branding Smite": {
       "at_higher_levels": "The extra damage increases by 1d6 for each slot level above 2nd.",
@@ -616,7 +733,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 219"
+      ]
    },
    "Burning Hands": {
       "at_higher_levels": "",
@@ -630,7 +750,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "Self (15-foot cone)",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 220"
+      ]
    },
    "Call Lightning": {
       "at_higher_levels": "The damage increases by 1d10 for each slot level above 3rd.",
@@ -643,7 +766,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 3,
       "range": "120 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 220"
+      ]
    },
    "Calm Emotions": {
       "at_higher_levels": "",
@@ -657,7 +783,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 221"
+      ]
    },
    "Catapult": {
       "at_higher_levels": "The maximum weigh increases by 5 pounds and the damage increases by 1d8 for each slot level above 1st.",
@@ -671,7 +800,8 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "60 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Catnap": {
       "at_higher_levels": "You can target one additional willing creature for each slot level above 3rd.",
@@ -686,7 +816,8 @@
       "duration": "10 minutes",
       "level": 3,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": []
    },
    "Cause Fear": {
       "at_higher_levels": "You can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.",
@@ -700,7 +831,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 1,
       "range": "60 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": []
    },
    "Ceremony": {
       "at_higher_levels": "",
@@ -714,7 +846,8 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": []
    },
    "Chain Lightning": {
       "at_higher_levels": "",
@@ -728,7 +861,10 @@
       "duration": "Instantaneous",
       "level": 6,
       "range": "150 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 221"
+      ]
    },
    "Chaos Bolt": {
       "at_higher_levels": "Each target takes 1d6 extra damage of the type rolled for each slot level above 1st.",
@@ -741,7 +877,8 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Charm Monster": {
       "at_higher_levels": "You can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other.",
@@ -758,7 +895,8 @@
       "duration": "1 hour",
       "level": 4,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": []
    },
    "Charm Person": {
       "at_higher_levels": "",
@@ -775,7 +913,10 @@
       "duration": "1 hour",
       "level": 1,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 221"
+      ]
    },
    "Chill Touch": {
       "at_higher_levels": "",
@@ -790,7 +931,10 @@
       "duration": "1 round",
       "level": 0,
       "range": "120 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 221"
+      ]
    },
    "Chromatic Orb": {
       "at_higher_levels": "The damage increases by 1d8 for each slot level above 1st.",
@@ -804,7 +948,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "90 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 221"
+      ]
    },
    "Circle of Death": {
       "at_higher_levels": "The damage increases by 2d6 for each slot level above 6th.",
@@ -819,7 +966,10 @@
       "duration": "Instantaneous",
       "level": 6,
       "range": "150 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 221"
+      ]
    },
    "Circle of Power": {
       "at_higher_levels": "",
@@ -832,7 +982,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 5,
       "range": "Self (30ft radius)",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 221"
+      ]
    },
    "Clairvoyance": {
       "at_higher_levels": "",
@@ -848,7 +1001,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 3,
       "range": "1 mile",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 222"
+      ]
    },
    "Cloud of Daggers": {
       "at_higher_levels": "The damage increases by 2d4 for each slot level above 2nd.",
@@ -864,7 +1020,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 222"
+      ]
    },
    "Cloudkill": {
       "at_higher_levels": "The damage increases by 1d8 for each slot level above 5th.",
@@ -878,7 +1037,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 5,
       "range": "120 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 222"
+      ]
    },
    "Color Spray": {
       "at_higher_levels": "",
@@ -892,7 +1054,10 @@
       "duration": "1 round",
       "level": 1,
       "range": "Self (15ft cone)",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 222"
+      ]
    },
    "Command": {
       "at_higher_levels": "",
@@ -906,7 +1071,10 @@
       "duration": "1 round",
       "level": 1,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 223"
+      ]
    },
    "Commune": {
       "at_higher_levels": "",
@@ -919,7 +1087,10 @@
       "duration": "1 minute",
       "level": 5,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 223"
+      ]
    },
    "Commune with City": {
       "at_higher_levels": "",
@@ -934,7 +1105,8 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": []
    },
    "Commune with Nature": {
       "at_higher_levels": "",
@@ -948,7 +1120,10 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 224"
+      ]
    },
    "Compelled Duel": {
       "at_higher_levels": "",
@@ -961,7 +1136,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 1,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 224"
+      ]
    },
    "Comprehend Languages": {
       "at_higher_levels": "",
@@ -977,7 +1155,10 @@
       "duration": "1 hour",
       "level": 1,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 224"
+      ]
    },
    "Compulsion": {
       "at_higher_levels": "",
@@ -990,7 +1171,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 224"
+      ]
    },
    "Cone of Cold": {
       "at_higher_levels": "The damage increases by 1d8 for each slot level above 5th.",
@@ -1004,7 +1188,10 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "Self (60-foot cone)",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 224"
+      ]
    },
    "Confusion": {
       "at_higher_levels": "The radius of the sphere increases by 5 feet for each slot level above 4th.",
@@ -1020,7 +1207,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "90 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 224"
+      ]
    },
    "Conjure Animals": {
       "at_higher_levels": "Twice as many creatures appear with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.",
@@ -1034,7 +1224,10 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 3,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 225"
+      ]
    },
    "Conjure Barrage": {
       "at_higher_levels": "",
@@ -1047,7 +1240,10 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "Self (60ft cone)",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 225"
+      ]
    },
    "Conjure Celestial": {
       "at_higher_levels": "If you cast this spell using a 9th-level slot, you can summon a celestial up to CR 5.",
@@ -1060,7 +1256,10 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 7,
       "range": "90 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 225"
+      ]
    },
    "Conjure Elemental": {
       "at_higher_levels": "The challenge rating increases by 1 for each slot level above 5th.",
@@ -1074,7 +1273,10 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 5,
       "range": "90 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 225"
+      ]
    },
    "Conjure Fey": {
       "at_higher_levels": "The challenge rating increases by 1 for each slot level above the 6th.",
@@ -1088,7 +1290,10 @@
       "duration": "Concentration,, up to 1 hour",
       "level": 6,
       "range": "90 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 226"
+      ]
    },
    "Conjure Hezrou": {
       "at_higher_levels": "",
@@ -1102,7 +1307,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 7,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Conjure Knowbot": {
       "at_higher_levels": "The spell's duration increases to 1 hour. Additionally, your telepathic bond's range is 1000 feet. If you leave the range, the knowbot continues performing its last command until the spell expires.",
@@ -1117,7 +1323,8 @@
       "duration": "10 minutes",
       "level": 4,
       "range": "Touch",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Conjure Minor Elementals": {
       "at_higher_levels": "Twice as many elementals appear if you cast this spell with a 6th-level slot, and three times as many appear with an 8th-level slot.",
@@ -1131,7 +1338,10 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 4,
       "range": "90 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 226"
+      ]
    },
    "Conjure Volley": {
       "at_higher_levels": "",
@@ -1144,7 +1354,10 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "150 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 226"
+      ]
    },
    "Conjure Vrock": {
       "at_higher_levels": "",
@@ -1158,7 +1371,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 5,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Conjure Woodland Beings": {
       "at_higher_levels": "When you cast this spell using higher-level slots, more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.",
@@ -1172,7 +1386,10 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 4,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 226"
+      ]
    },
    "Contact Other Plane": {
       "at_higher_levels": "",
@@ -1186,7 +1403,10 @@
       "duration": "1 minute",
       "level": 5,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 226"
+      ]
    },
    "Contagion": {
       "at_higher_levels": "",
@@ -1200,7 +1420,10 @@
       "duration": "7 days",
       "level": 5,
       "range": "Touch",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 227"
+      ]
    },
    "Contingency": {
       "at_higher_levels": "",
@@ -1213,7 +1436,10 @@
       "duration": "10 days",
       "level": 6,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 227"
+      ]
    },
    "Continual Flame": {
       "at_higher_levels": "",
@@ -1227,7 +1453,10 @@
       "duration": "Until dispelled",
       "level": 2,
       "range": "Touch",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 227"
+      ]
    },
    "Control Flames": {
       "at_higher_levels": "",
@@ -1242,7 +1471,8 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "60 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Control Water": {
       "at_higher_levels": "",
@@ -1257,7 +1487,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 4,
       "range": "300 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 227"
+      ]
    },
    "Control Weather": {
       "at_higher_levels": "",
@@ -1272,7 +1505,10 @@
       "duration": "Concentration, Up to 8 hours",
       "level": 8,
       "range": "Self (5-mile radius)",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 228"
+      ]
    },
    "Control Winds": {
       "at_higher_levels": "",
@@ -1287,7 +1523,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 5,
       "range": "300 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Cordon of Arrows": {
       "at_higher_levels": "The amount of ammunition that can be affected increases by two for each slot above 2nd.",
@@ -1300,7 +1537,10 @@
       "duration": "8 hours",
       "level": 2,
       "range": "5 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 228"
+      ]
    },
    "Counterspell": {
       "at_higher_levels": "The interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.",
@@ -1315,7 +1555,10 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "60 feet",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 228"
+      ]
    },
    "Create Bonfire": {
       "at_higher_levels": "",
@@ -1331,7 +1574,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 0,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Create Food and Water": {
       "at_higher_levels": "",
@@ -1345,7 +1589,10 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "30 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 229"
+      ]
    },
    "Create Homunculus": {
       "at_higher_levels": "",
@@ -1358,7 +1605,8 @@
       "duration": "Instantaneous",
       "level": 6,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Create Undead": {
       "at_higher_levels": "With a 7th-level spell slot, you can control up to four ghouls. With an 8th-level slot, five ghouls, or two ghasts or wights. With a 9th-level slot, six ghouls, three ghasts or wights, or two mummies.",
@@ -1373,7 +1621,10 @@
       "duration": "Instantaneous",
       "level": 6,
       "range": "10 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 229"
+      ]
    },
    "Create or Destroy Water": {
       "at_higher_levels": "You create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.",
@@ -1387,7 +1638,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 229"
+      ]
    },
    "Creation": {
       "at_higher_levels": "The cube increases by 5 feet for each slot level above 5th.",
@@ -1401,7 +1655,10 @@
       "duration": "Varies",
       "level": 5,
       "range": "30 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 229"
+      ]
    },
    "Crown of Madness": {
       "at_higher_levels": "",
@@ -1417,7 +1674,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "120 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 229"
+      ]
    },
    "Crown of Stars": {
       "at_higher_levels": "The number of motes increases by two for each slot level above 7th.",
@@ -1432,7 +1692,8 @@
       "duration": "1 hour",
       "level": 7,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Crusader's Mantle": {
       "at_higher_levels": "",
@@ -1445,7 +1706,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "Self (30ft radius)",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 230"
+      ]
    },
    "Cure Wounds": {
       "at_higher_levels": "The healing increases by 1d8 for each slot level above 1st.",
@@ -1462,7 +1726,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "Touch",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 230"
+      ]
    },
    "Dancing Lights": {
       "at_higher_levels": "",
@@ -1477,7 +1744,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 0,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 230"
+      ]
    },
    "Danse Macabre": {
       "at_higher_levels": "You animate up to two additional corpses for each slot level above 5th",
@@ -1491,7 +1761,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 5,
       "range": "60 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": []
    },
    "Darkness": {
       "at_higher_levels": "",
@@ -1506,7 +1777,10 @@
       "duration": "Concentration, up to 10 minutes",
       "level": 2,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 230"
+      ]
    },
    "Darkvision": {
       "at_higher_levels": "",
@@ -1522,7 +1796,10 @@
       "duration": "8 hours",
       "level": 2,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 230"
+      ]
    },
    "Dawn": {
       "at_higher_levels": "",
@@ -1536,7 +1813,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 5,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Daylight": {
       "at_higher_levels": "",
@@ -1553,7 +1831,10 @@
       "duration": "1 hour",
       "level": 3,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 230"
+      ]
    },
    "Death Ward": {
       "at_higher_levels": "",
@@ -1567,7 +1848,10 @@
       "duration": "8 hours",
       "level": 4,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 230"
+      ]
    },
    "Delayed Blast Fireball": {
       "at_higher_levels": "",
@@ -1581,7 +1865,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 7,
       "range": "150 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 230"
+      ]
    },
    "Destructive Wave": {
       "at_higher_levels": "",
@@ -1594,7 +1881,10 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "Self (30ft radius)",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 231"
+      ]
    },
    "Detect Evil and Good": {
       "at_higher_levels": "",
@@ -1608,7 +1898,10 @@
       "duration": "Up to 10 minutes",
       "level": 1,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 231"
+      ]
    },
    "Detect Magic": {
       "at_higher_levels": "",
@@ -1627,7 +1920,10 @@
       "duration": "Concentration, up to 10 minutes",
       "level": 1,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 231"
+      ]
    },
    "Detect Poison and Disease": {
       "at_higher_levels": "",
@@ -1643,7 +1939,10 @@
       "duration": "Up to 10 minutes",
       "level": 1,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 231"
+      ]
    },
    "Detect Thoughts": {
       "at_higher_levels": "",
@@ -1658,7 +1957,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 231"
+      ]
    },
    "Digital Phantom": {
       "at_higher_levels": "",
@@ -1673,7 +1975,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 2,
       "range": "Self",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": []
    },
    "Dimension Door": {
       "at_higher_levels": "",
@@ -1689,7 +1992,10 @@
       "duration": "Instantaneous",
       "level": 4,
       "range": "500 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 233"
+      ]
    },
    "Disguise Self": {
       "at_higher_levels": "",
@@ -1704,7 +2010,10 @@
       "duration": "1 hour",
       "level": 1,
       "range": "Self",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 233"
+      ]
    },
    "Disintegrate": {
       "at_higher_levels": "",
@@ -1718,7 +2027,10 @@
       "duration": "Instantaneous",
       "level": 6,
       "range": "60 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 233"
+      ]
    },
    "Dispel Evil and Good": {
       "at_higher_levels": "",
@@ -1732,7 +2044,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 5,
       "range": "Self",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 233"
+      ]
    },
    "Dispel Magic": {
       "at_higher_levels": "",
@@ -1751,7 +2066,10 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "120 feet",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 234"
+      ]
    },
    "Dissonant Whispers": {
       "at_higher_levels": "The damage increases by 1d6 for each slot level above 1st.",
@@ -1764,7 +2082,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 234"
+      ]
    },
    "Divination": {
       "at_higher_levels": "",
@@ -1777,7 +2098,10 @@
       "duration": "Instantaneous",
       "level": 4,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 234"
+      ]
    },
    "Divine Favor": {
       "at_higher_levels": "",
@@ -1790,7 +2114,10 @@
       "duration": "Up to 1 minute",
       "level": 1,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 234"
+      ]
    },
    "Divine Word": {
       "at_higher_levels": "",
@@ -1803,7 +2130,10 @@
       "duration": "Instantaneous",
       "level": 7,
       "range": "30 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 234"
+      ]
    },
    "Dominate Beast": {
       "at_higher_levels": "When you cast this spell using a 5th-level slot, the duration is up to 10 minutes. At a 6th-level slot, the duration is up to 1 hour. At a slot of 7th or higher, the duration is up to 8 hours.",
@@ -1817,7 +2147,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 234"
+      ]
    },
    "Dominate Monster": {
       "at_higher_levels": "",
@@ -1833,7 +2166,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 8,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 235"
+      ]
    },
    "Dominate Person": {
       "at_higher_levels": "",
@@ -1848,7 +2184,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 5,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 235"
+      ]
    },
    "Dragon's Breath": {
       "at_higher_levels": "The damage increases by 1d6 for each slot level above 2nd.",
@@ -1862,7 +2201,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Dream": {
       "at_higher_levels": "",
@@ -1877,7 +2217,10 @@
       "duration": "8 hours",
       "level": 5,
       "range": "Special",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 236"
+      ]
    },
    "Druidcraft": {
       "at_higher_levels": "",
@@ -1890,7 +2233,10 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 236"
+      ]
    },
    "Dust Devil": {
       "at_higher_levels": "The damage increases by 1d8 for each slot level above 2nd.",
@@ -1905,7 +2251,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Earth Tremor": {
       "at_higher_levels": "The damage increases by 1d6 for each slot level above 1st.",
@@ -1921,7 +2268,8 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "10 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Earthbind": {
       "at_higher_levels": "",
@@ -1937,7 +2285,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "300 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Earthquake": {
       "at_higher_levels": "",
@@ -1952,7 +2301,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 8,
       "range": "500 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 236"
+      ]
    },
    "Eldritch Blast": {
       "at_higher_levels": "",
@@ -1965,7 +2317,10 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 237"
+      ]
    },
    "Elemental Bane": {
       "at_higher_levels": "You can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.",
@@ -1980,7 +2335,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "90 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Elemental Weapon": {
       "at_higher_levels": "When you cast this spell using a 5th or 6th level spell slot, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4.",
@@ -1993,7 +2349,10 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 3,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 237"
+      ]
    },
    "Enemies Abound": {
       "at_higher_levels": "",
@@ -2009,7 +2368,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "120 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": []
    },
    "Enervation": {
       "at_higher_levels": "The damage increases by 1d8 for each slot level above 5th.",
@@ -2024,7 +2384,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 5,
       "range": "60 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": []
    },
    "Enhance Ability": {
       "at_higher_levels": "You can target one additional creature for each slot level above 2nd.",
@@ -2040,7 +2401,10 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 2,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 237"
+      ]
    },
    "Enlarge/Reduce": {
       "at_higher_levels": "",
@@ -2054,7 +2418,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 237"
+      ]
    },
    "Ensnaring Strike": {
       "at_higher_levels": "The damage increases by 1d6 for each slot level above 1st.",
@@ -2067,7 +2434,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 1,
       "range": "Self",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 237"
+      ]
    },
    "Entangle": {
       "at_higher_levels": "",
@@ -2080,7 +2450,10 @@
       "duration": "Up to 1 minute",
       "level": 1,
       "range": "90 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 238"
+      ]
    },
    "Enthrall": {
       "at_higher_levels": "",
@@ -2094,7 +2467,10 @@
       "duration": "1 minute",
       "level": 2,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 238"
+      ]
    },
    "Erupting Earth": {
       "at_higher_levels": "The damage increases by 1d12 for each slot level above 3rd.",
@@ -2109,7 +2485,8 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "120 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Etherealness": {
       "at_higher_levels": "",
@@ -2126,7 +2503,10 @@
       "duration": "Up to 8 hours",
       "level": 7,
       "range": "Self",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 238"
+      ]
    },
    "Evard's Black Tentacles": {
       "at_higher_levels": "",
@@ -2139,7 +2519,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "90 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 238"
+      ]
    },
    "Expeditious Retreat": {
       "at_higher_levels": "",
@@ -2154,7 +2537,10 @@
       "duration": "Up to 10 minutes",
       "level": 1,
       "range": "Self",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 238"
+      ]
    },
    "Fabricate": {
       "at_higher_levels": "",
@@ -2167,7 +2553,10 @@
       "duration": "Instantaneous",
       "level": 4,
       "range": "120 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 239"
+      ]
    },
    "Faerie Fire": {
       "at_higher_levels": "",
@@ -2181,7 +2570,10 @@
       "duration": "Up to 1 minute",
       "level": 1,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 239"
+      ]
    },
    "False Life": {
       "at_higher_levels": "",
@@ -2195,7 +2587,10 @@
       "duration": "1 hour",
       "level": 1,
       "range": "Self",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 239"
+      ]
    },
    "Far Step": {
       "at_higher_levels": "",
@@ -2210,7 +2605,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 5,
       "range": "Self",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Fear": {
       "at_higher_levels": "",
@@ -2226,7 +2622,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "Self (30ft cone)",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 239"
+      ]
    },
    "Feather Fall": {
       "at_higher_levels": "",
@@ -2241,7 +2640,10 @@
       "duration": "1 minute",
       "level": 1,
       "range": "60 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 239"
+      ]
    },
    "Feign Death": {
       "at_higher_levels": "",
@@ -2257,7 +2659,10 @@
       "duration": "1 hour",
       "level": 3,
       "range": "Touch",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 240"
+      ]
    },
    "Find Familiar": {
       "at_higher_levels": "",
@@ -2270,7 +2675,10 @@
       "duration": "1 hour",
       "level": 1,
       "range": "10 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 240"
+      ]
    },
    "Find Greater Steed": {
       "at_higher_levels": "",
@@ -2283,7 +2691,8 @@
       "duration": "Instantaneous",
       "level": 4,
       "range": "30 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Find Steed": {
       "at_higher_levels": "",
@@ -2296,7 +2705,10 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "30 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 240"
+      ]
    },
    "Find Traps": {
       "at_higher_levels": "",
@@ -2311,7 +2723,10 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "120 feet",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 241"
+      ]
    },
    "Find Vehicle": {
       "at_higher_levels": "When you cast this spell using a 3rd or 4th level slot, you can conjure a nonmilitary water vehicle large enough to carry six medium creatures. If you use a 5th or 6th level slot, you can conjure a nonmilitary air vehicle large enough to carry ten medium creatures. If you use 7th level or higher, you can conjure any type of vehicle.",
@@ -2327,7 +2742,8 @@
       "duration": "8 hours",
       "level": 2,
       "range": "30 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Find the Path": {
       "at_higher_levels": "",
@@ -2342,7 +2758,10 @@
       "duration": "Concentration, up to 1 day",
       "level": 6,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 240"
+      ]
    },
    "Finger of Death": {
       "at_higher_levels": "",
@@ -2357,7 +2776,10 @@
       "duration": "Instantaneous",
       "level": 7,
       "range": "60 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 241"
+      ]
    },
    "Fire Bolt": {
       "at_higher_levels": "",
@@ -2371,7 +2793,10 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 242"
+      ]
    },
    "Fire Shield": {
       "at_higher_levels": "",
@@ -2384,7 +2809,10 @@
       "duration": "10 minutes",
       "level": 4,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 242"
+      ]
    },
    "Fire Storm": {
       "at_higher_levels": "",
@@ -2399,7 +2827,10 @@
       "duration": "Instantaneous",
       "level": 7,
       "range": "150 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 242"
+      ]
    },
    "Fireball": {
       "at_higher_levels": "",
@@ -2413,7 +2844,10 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "150 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 241"
+      ]
    },
    "Flame Arrows": {
       "at_higher_levels": "The number of pieces of ammunition you can affect with this spell increases by two for each slot level above 3rd.",
@@ -2429,7 +2863,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 3,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Flame Blade": {
       "at_higher_levels": "The damage increases by 1d6 for every two slot levels above 2nd.",
@@ -2442,7 +2877,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 2,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 242"
+      ]
    },
    "Flame Strike": {
       "at_higher_levels": "",
@@ -2455,7 +2893,10 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 242"
+      ]
    },
    "Flaming Sphere": {
       "at_higher_levels": "",
@@ -2469,7 +2910,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 2,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 242"
+      ]
    },
    "Fly": {
       "at_higher_levels": "",
@@ -2484,7 +2928,10 @@
       "duration": "Concentration, up to 10 minutes",
       "level": 3,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 243"
+      ]
    },
    "Fog Cloud": {
       "at_higher_levels": "",
@@ -2500,7 +2947,10 @@
       "duration": "Up to 1 hour",
       "level": 1,
       "range": "120 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 243"
+      ]
    },
    "Forbiddance": {
       "at_higher_levels": "",
@@ -2513,7 +2963,10 @@
       "duration": "1 day",
       "level": 6,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 243"
+      ]
    },
    "Foresight": {
       "at_higher_levels": "",
@@ -2529,7 +2982,10 @@
       "duration": "8 hours",
       "level": 9,
       "range": "Touch",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 244"
+      ]
    },
    "Freedom of Movement": {
       "at_higher_levels": "",
@@ -2545,7 +3001,10 @@
       "duration": "1 hour",
       "level": 4,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 244"
+      ]
    },
    "Friends": {
       "at_higher_levels": "",
@@ -2561,7 +3020,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 0,
       "range": "Self",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 244"
+      ]
    },
    "Frostbite": {
       "at_higher_levels": "",
@@ -2577,7 +3039,8 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Gaseous Form": {
       "at_higher_levels": "",
@@ -2592,7 +3055,10 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 3,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 244"
+      ]
    },
    "Gate": {
       "at_higher_levels": "",
@@ -2607,7 +3073,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 9,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 244"
+      ]
    },
    "Geas": {
       "at_higher_levels": "When you cast this using a 7th or 8th level spell slot, the duration is 1 year. If you use a 9th level slot, the spell lasts until it is ended by one of the spells mentioned above.",
@@ -2624,7 +3093,10 @@
       "duration": "30 days",
       "level": 5,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 244"
+      ]
    },
    "Gentle Repose": {
       "at_higher_levels": "",
@@ -2638,7 +3110,10 @@
       "duration": "10 days",
       "level": 2,
       "range": "Touch",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 245"
+      ]
    },
    "Giant Insect": {
       "at_higher_levels": "",
@@ -2651,7 +3126,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 4,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 245"
+      ]
    },
    "Globe of Invulnerability": {
       "at_higher_levels": "",
@@ -2665,7 +3143,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 6,
       "range": "Self (10-foot radius)",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 245"
+      ]
    },
    "Glyph of Warding": {
       "at_higher_levels": "The damage of an explosive rune glyph increases by 1d8 for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.",
@@ -2680,7 +3161,10 @@
       "duration": "Until dispelled/triggered",
       "level": 3,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 245"
+      ]
    },
    "Goodberry": {
       "at_higher_levels": "",
@@ -2694,7 +3178,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 246"
+      ]
    },
    "Grasping Vine": {
       "at_higher_levels": "",
@@ -2708,7 +3195,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "30 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 246"
+      ]
    },
    "Grease": {
       "at_higher_levels": "",
@@ -2721,7 +3211,10 @@
       "duration": "1 minute",
       "level": 1,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 246"
+      ]
    },
    "Greater Invisibility": {
       "at_higher_levels": "",
@@ -2736,7 +3229,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 4,
       "range": "Touch",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 246"
+      ]
    },
    "Greater Restoration": {
       "at_higher_levels": "",
@@ -2751,7 +3247,10 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 246"
+      ]
    },
    "Green-Flame Blade": {
       "at_higher_levels": "",
@@ -2766,7 +3265,8 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "5 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Guardian of Faith": {
       "at_higher_levels": "",
@@ -2779,7 +3279,10 @@
       "duration": "8 hours",
       "level": 4,
       "range": "30 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 246"
+      ]
    },
    "Guardian of Nature": {
       "at_higher_levels": "",
@@ -2793,7 +3296,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "Self",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Guidance": {
       "at_higher_levels": "",
@@ -2807,7 +3311,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 0,
       "range": "Touch",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 248"
+      ]
    },
    "Guiding Bolt": {
       "at_higher_levels": "",
@@ -2820,7 +3327,10 @@
       "duration": "1 round",
       "level": 1,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 248"
+      ]
    },
    "Guiding Hand": {
       "at_higher_levels": "",
@@ -2836,7 +3346,8 @@
       "duration": "Concentration, Up to 8 hours",
       "level": 1,
       "range": "5 feet",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": []
    },
    "Gust": {
       "at_higher_levels": "",
@@ -2851,7 +3362,8 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Gust of Wind": {
       "at_higher_levels": "",
@@ -2866,7 +3378,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "Self (60ft line)",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 248"
+      ]
    },
    "Hail of Thorns": {
       "at_higher_levels": "The damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).",
@@ -2879,7 +3394,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 1,
       "range": "Self",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 249"
+      ]
    },
    "Hallow": {
       "at_higher_levels": "",
@@ -2892,7 +3410,10 @@
       "duration": "Until dispelled",
       "level": 5,
       "range": "Touch",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 249"
+      ]
    },
    "Hallucinatory Terrain": {
       "at_higher_levels": "",
@@ -2908,7 +3429,10 @@
       "duration": "24 hours",
       "level": 4,
       "range": "300 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 249"
+      ]
    },
    "Harm": {
       "at_higher_levels": "",
@@ -2921,7 +3445,10 @@
       "duration": "Instantaneous",
       "level": 6,
       "range": "60 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 249"
+      ]
    },
    "Haste": {
       "at_higher_levels": "",
@@ -2935,7 +3462,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 3,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 250"
+      ]
    },
    "Haywire": {
       "at_higher_levels": "The radius of the sphere increases by 5 feet for each slot level above 3rd.",
@@ -2950,7 +3480,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 3,
       "range": "90 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": []
    },
    "Heal": {
       "at_higher_levels": "When you cast this spell using a spell slot of 7th level or higher, the amount of Healing increases by 10 for each slot level above 6th.",
@@ -2964,7 +3495,10 @@
       "duration": "Instantaneous",
       "level": 6,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 250"
+      ]
    },
    "Healing Elixir": {
       "at_higher_levels": "",
@@ -2978,7 +3512,8 @@
       "duration": "24 hours",
       "level": 1,
       "range": "Self",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Healing Spirit": {
       "at_higher_levels": "The healing increases by 1d6 for each slot level above 2nd.",
@@ -2992,7 +3527,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Healing Word": {
       "at_higher_levels": "When you cast this spell using a spell slot of 2nd level or higher, the Healing increases by 1d4 for each slot level above 1st.",
@@ -3007,7 +3543,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 250"
+      ]
    },
    "Heat Metal": {
       "at_higher_levels": "The damage increases by 1d8 for each slot level above 2nd.",
@@ -3021,7 +3560,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "60 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 250"
+      ]
    },
    "Hellish Rebuke": {
       "at_higher_levels": "",
@@ -3034,7 +3576,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 250"
+      ]
    },
    "Heroes' Feast": {
       "at_higher_levels": "",
@@ -3048,7 +3593,10 @@
       "duration": "Instantaneous",
       "level": 6,
       "range": "30 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 250"
+      ]
    },
    "Heroism": {
       "at_higher_levels": "",
@@ -3062,7 +3610,10 @@
       "duration": "Up to 1 minute",
       "level": 1,
       "range": "Touch",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 250"
+      ]
    },
    "Hex": {
       "at_higher_levels": "When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.",
@@ -3075,7 +3626,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 1,
       "range": "90 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 251"
+      ]
    },
    "Hold Monster": {
       "at_higher_levels": "You can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.",
@@ -3091,7 +3645,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 5,
       "range": "90 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 251"
+      ]
    },
    "Hold Person": {
       "at_higher_levels": "",
@@ -3109,7 +3666,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 2,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 251"
+      ]
    },
    "Holy Aura": {
       "at_higher_levels": "",
@@ -3122,7 +3682,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 8,
       "range": "Self",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 251"
+      ]
    },
    "Holy Weapon": {
       "at_higher_levels": "",
@@ -3136,7 +3699,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 5,
       "range": "Touch",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Hunger of Hadar": {
       "at_higher_levels": "",
@@ -3149,7 +3713,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "150 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 251"
+      ]
    },
    "Hunters Mark": {
       "at_higher_levels": "When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.",
@@ -3162,7 +3729,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 1,
       "range": "90 feet",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 251"
+      ]
    },
    "Hypnotic Pattern": {
       "at_higher_levels": "",
@@ -3178,7 +3748,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "120 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 252"
+      ]
    },
    "Ice Knife": {
       "at_higher_levels": "The cold damage increases by 1d6 for each slot level above first.",
@@ -3193,7 +3766,8 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Ice Storm": {
       "at_higher_levels": "",
@@ -3208,7 +3782,10 @@
       "duration": "Instantaneous",
       "level": 4,
       "range": "300 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 252"
+      ]
    },
    "Identify": {
       "at_higher_levels": "",
@@ -3222,7 +3799,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "Touch",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 252"
+      ]
    },
    "Illusory Script": {
       "at_higher_levels": "",
@@ -3237,7 +3817,10 @@
       "duration": "10 days",
       "level": 1,
       "range": "Touch",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 252"
+      ]
    },
    "Immolation": {
       "at_higher_levels": "",
@@ -3251,7 +3834,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 5,
       "range": "90 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Imprisonment": {
       "at_higher_levels": "",
@@ -3265,7 +3849,10 @@
       "duration": "Until dispelled",
       "level": 9,
       "range": "30 feet",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 252"
+      ]
    },
    "Infallible Relay": {
       "at_higher_levels": "",
@@ -3280,7 +3867,8 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 1,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": []
    },
    "Infernal Calling": {
       "at_higher_levels": "The challenge rating increases by 1 for each slot level above 5th.",
@@ -3294,7 +3882,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 5,
       "range": "90 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Infestation": {
       "at_higher_levels": "",
@@ -3310,7 +3899,8 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "30 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Inflict Wounds": {
       "at_higher_levels": "",
@@ -3323,7 +3913,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "Touch",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 253"
+      ]
    },
    "Insect Plague": {
       "at_higher_levels": "The damage increases by 1d10 for each slot level above the 5th.",
@@ -3338,7 +3931,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 5,
       "range": "300 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 254"
+      ]
    },
    "Invisibility": {
       "at_higher_levels": "",
@@ -3354,7 +3950,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 2,
       "range": "Touch",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 254"
+      ]
    },
    "Invisibility to Cameras": {
       "at_higher_levels": "",
@@ -3369,7 +3968,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "10 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": []
    },
    "Jump": {
       "at_higher_levels": "",
@@ -3385,7 +3985,10 @@
       "duration": "1 minute",
       "level": 1,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 254"
+      ]
    },
    "Knock": {
       "at_higher_levels": "",
@@ -3400,7 +4003,10 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "60 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 254"
+      ]
    },
    "Legend Lore": {
       "at_higher_levels": "",
@@ -3415,7 +4021,10 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 254"
+      ]
    },
    "Leomund's Secret Chest": {
       "at_higher_levels": "",
@@ -3428,7 +4037,10 @@
       "duration": "Instantaneous",
       "level": 4,
       "range": "Touch",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 254"
+      ]
    },
    "Leomund's Tiny Hut": {
       "at_higher_levels": "",
@@ -3442,7 +4054,10 @@
       "duration": "8 hours",
       "level": 3,
       "range": "Self (10ft radius hemisphere)",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 255"
+      ]
    },
    "Lesser Restoration": {
       "at_higher_levels": "",
@@ -3459,7 +4074,10 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 255"
+      ]
    },
    "Levitate": {
       "at_higher_levels": "",
@@ -3473,7 +4091,10 @@
       "duration": "Concentration, up to 10 minutes",
       "level": 2,
       "range": "60 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 255"
+      ]
    },
    "Life Transference": {
       "at_higher_levels": "The damage increases by 1d8 for each slot level above 3rd.",
@@ -3487,7 +4108,8 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "30 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": []
    },
    "Light": {
       "at_higher_levels": "",
@@ -3503,7 +4125,10 @@
       "duration": "1 hour",
       "level": 0,
       "range": "Touch",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 255"
+      ]
    },
    "Lightning Arrow": {
       "at_higher_levels": "The damage for both effects of the spell increases by 1d8 for each slot level above 3rd.",
@@ -3516,7 +4141,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "Self",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 255"
+      ]
    },
    "Lightning Bolt": {
       "at_higher_levels": "",
@@ -3530,7 +4158,10 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "Self (100-foot line)",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 255"
+      ]
    },
    "Lightning Lure": {
       "at_higher_levels": "",
@@ -3545,7 +4176,8 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "15 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Locate Animals or Plants": {
       "at_higher_levels": "",
@@ -3560,7 +4192,10 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 256"
+      ]
    },
    "Locate Creature": {
       "at_higher_levels": "",
@@ -3578,7 +4213,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 4,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 256"
+      ]
    },
    "Locate Object": {
       "at_higher_levels": "",
@@ -3596,7 +4234,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 2,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 256"
+      ]
    },
    "Longstrider": {
       "at_higher_levels": "",
@@ -3612,7 +4253,10 @@
       "duration": "1 hour",
       "level": 1,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 256"
+      ]
    },
    "Maelstrom": {
       "at_higher_levels": "",
@@ -3625,7 +4269,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 5,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Mage Armor": {
       "at_higher_levels": "",
@@ -3639,7 +4284,10 @@
       "duration": "8 hours",
       "level": 1,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 256"
+      ]
    },
    "Mage Hand": {
       "at_higher_levels": "",
@@ -3655,7 +4303,10 @@
       "duration": "1 minute",
       "level": 0,
       "range": "30 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 256"
+      ]
    },
    "Magic Circle": {
       "at_higher_levels": "The duration increases by 1 hour for each slot level above 3rd.",
@@ -3671,7 +4322,10 @@
       "duration": "1 hour",
       "level": 3,
       "range": "10 feet",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 256"
+      ]
    },
    "Magic Missile": {
       "at_higher_levels": "When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot above 1st.",
@@ -3685,7 +4339,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 257"
+      ]
    },
    "Magic Mouth": {
       "at_higher_levels": "",
@@ -3699,7 +4356,10 @@
       "duration": "Until dispelled",
       "level": 2,
       "range": "30 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 257"
+      ]
    },
    "Magic Stone": {
       "at_higher_levels": "",
@@ -3713,7 +4373,8 @@
       "duration": "1 minute",
       "level": 0,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Magic Weapon": {
       "at_higher_levels": "",
@@ -3727,7 +4388,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 2,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 257"
+      ]
    },
    "Major Image": {
       "at_higher_levels": "",
@@ -3743,7 +4407,10 @@
       "duration": "Concentration, up to 10 minutes",
       "level": 3,
       "range": "120 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 258"
+      ]
    },
    "Mass Cure Wounds": {
       "at_higher_levels": "When you cast this spell using a spell slot of 6th level or higher, the Healing increases by 1d8 for each slot level above 5th.",
@@ -3758,7 +4425,10 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 258"
+      ]
    },
    "Mass Heal": {
       "at_higher_levels": "",
@@ -3771,7 +4441,10 @@
       "duration": "Instantaneous",
       "level": 9,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 258"
+      ]
    },
    "Mass Healing Word": {
       "at_higher_levels": "When you cast this spell using a spell slot of 4th level or higher, the Healing increases by 1d4 for each slot level above 3rd.",
@@ -3784,7 +4457,10 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 258"
+      ]
    },
    "Mass Suggestion": {
       "at_higher_levels": "",
@@ -3800,7 +4476,10 @@
       "duration": "24 hours",
       "level": 6,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 258"
+      ]
    },
    "Maximilian's Earthen Grasp": {
       "at_higher_levels": "",
@@ -3814,7 +4493,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Maze": {
       "at_higher_levels": "",
@@ -3827,7 +4507,10 @@
       "duration": "Concentration, up to 10 minutes",
       "level": 8,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 258"
+      ]
    },
    "Meld into Stone": {
       "at_higher_levels": "",
@@ -3841,7 +4524,10 @@
       "duration": "8 hours",
       "level": 3,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 259"
+      ]
    },
    "Melf's Acid Arrow": {
       "at_higher_levels": "The both damages increases by 1d4 for each slot level above 2nd.",
@@ -3854,7 +4540,10 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "90 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 259"
+      ]
    },
    "Melf's Minute Meteors": {
       "at_higher_levels": "The number of meteors created increases by two for each slot level above 3rd.",
@@ -3868,7 +4557,8 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 3,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Mending": {
       "at_higher_levels": "",
@@ -3885,7 +4575,10 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 259"
+      ]
    },
    "Mental Prison": {
       "at_higher_levels": "",
@@ -3900,7 +4593,8 @@
       "duration": "Concentration,, up to 1 minute",
       "level": 6,
       "range": "60 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": []
    },
    "Message": {
       "at_higher_levels": "",
@@ -3915,7 +4609,10 @@
       "duration": "1 round",
       "level": 0,
       "range": "120 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 259"
+      ]
    },
    "Meteor Swarm": {
       "at_higher_levels": "",
@@ -3929,7 +4626,10 @@
       "duration": "Instantaneous",
       "level": 9,
       "range": "1 mile",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 259"
+      ]
    },
    "Mind Spike": {
       "at_higher_levels": "The damage increases by 1d8 for each slot level above 2nd.",
@@ -3944,7 +4644,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 2,
       "range": "60 feet",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": []
    },
    "Minor Illusion": {
       "at_higher_levels": "",
@@ -3960,7 +4661,10 @@
       "duration": "1 minute",
       "level": 0,
       "range": "30 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 260"
+      ]
    },
    "Mirror Image": {
       "at_higher_levels": "",
@@ -3975,7 +4679,10 @@
       "duration": "1 minute",
       "level": 2,
       "range": "Self",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 260"
+      ]
    },
    "Mislead": {
       "at_higher_levels": "",
@@ -3989,7 +4696,10 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 5,
       "range": "Self",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 260"
+      ]
    },
    "Misty Step": {
       "at_higher_levels": "",
@@ -4004,7 +4714,10 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "Self",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 260"
+      ]
    },
    "Modify Memory": {
       "at_higher_levels": "You can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time (9th level).",
@@ -4018,7 +4731,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 5,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 261"
+      ]
    },
    "Mold Earth": {
       "at_higher_levels": "",
@@ -4033,7 +4749,8 @@
       "duration": "Instantaneous/1 hour",
       "level": 0,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Moonbeam": {
       "at_higher_levels": "The damage increases by 1d10 for each slot level above 2nd.",
@@ -4046,7 +4763,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 261"
+      ]
    },
    "Mordenkainen's Faithful Hound": {
       "at_higher_levels": "",
@@ -4059,7 +4779,10 @@
       "duration": "8 hours",
       "level": 4,
       "range": "30 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 261"
+      ]
    },
    "Mordenkainen's Private Sanctum": {
       "at_higher_levels": "You can increase the size of the cube by 100 feet for each slot level beyond 4th.",
@@ -4072,7 +4795,10 @@
       "duration": "24 hours",
       "level": 4,
       "range": "120 feet",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 262"
+      ]
    },
    "Mordenkainen's Sword": {
       "at_higher_levels": "",
@@ -4086,7 +4812,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 7,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 262"
+      ]
    },
    "Negative Energy Flood": {
       "at_higher_levels": "",
@@ -4100,7 +4829,8 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "60 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": []
    },
    "Nondetection": {
       "at_higher_levels": "",
@@ -4115,7 +4845,10 @@
       "duration": "8 hours",
       "level": 3,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 263"
+      ]
    },
    "Nystul's Magic Aura": {
       "at_higher_levels": "",
@@ -4128,7 +4861,10 @@
       "duration": "24 hours",
       "level": 2,
       "range": "Touch",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 263"
+      ]
    },
    "On/Off": {
       "at_higher_levels": "",
@@ -4143,7 +4879,8 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "60 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Otiluke's Resilient Sphere": {
       "at_higher_levels": "",
@@ -4156,7 +4893,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "30 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 264"
+      ]
    },
    "Otto's Irresistible Dance": {
       "at_higher_levels": "",
@@ -4170,7 +4910,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 6,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 264"
+      ]
    },
    "Pass without Trace": {
       "at_higher_levels": "",
@@ -4184,7 +4927,10 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 2,
       "range": "Self",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 264"
+      ]
    },
    "Passwall": {
       "at_higher_levels": "",
@@ -4197,7 +4943,10 @@
       "duration": "1 hour",
       "level": 5,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 264"
+      ]
    },
    "Phantasmal Force": {
       "at_higher_levels": "",
@@ -4212,7 +4961,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "60 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 264"
+      ]
    },
    "Phantasmal Killer": {
       "at_higher_levels": "The damage increases by 1d10 for each slot level above 4th.",
@@ -4225,7 +4977,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "120 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 265"
+      ]
    },
    "Phantom Steed": {
       "at_higher_levels": "",
@@ -4238,7 +4993,10 @@
       "duration": "1 hour",
       "level": 3,
       "range": "30 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 265"
+      ]
    },
    "Planar Ally": {
       "at_higher_levels": "",
@@ -4251,7 +5009,10 @@
       "duration": "Instantaneous",
       "level": 6,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 265"
+      ]
    },
    "Planar Binding": {
       "at_higher_levels": "When you cast this spell using a 6th-level slot, the duration increases to 10 days. With a 7th-level slot, 30 days. With an 8th-level slot, 180 days. At 9th-level, a year and a day.",
@@ -4267,7 +5028,10 @@
       "duration": "24 hours",
       "level": 5,
       "range": "60 feet",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 265"
+      ]
    },
    "Plane Shift": {
       "at_higher_levels": "",
@@ -4284,7 +5048,10 @@
       "duration": "Instantaneous",
       "level": 7,
       "range": "Touch",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 266"
+      ]
    },
    "Plant Growth": {
       "at_higher_levels": "",
@@ -4299,7 +5066,10 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "150 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 266"
+      ]
    },
    "Poison Spray": {
       "at_higher_levels": "",
@@ -4315,7 +5085,10 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "10 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 266"
+      ]
    },
    "Polymorph": {
       "at_higher_levels": "",
@@ -4331,7 +5104,10 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 4,
       "range": "60 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 266"
+      ]
    },
    "Power Word Kill": {
       "at_higher_levels": "",
@@ -4347,7 +5123,10 @@
       "duration": "Instantaneous",
       "level": 9,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 266"
+      ]
    },
    "Power Word Stun": {
       "at_higher_levels": "",
@@ -4363,7 +5142,10 @@
       "duration": "Instantaneous",
       "level": 8,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 267"
+      ]
    },
    "Prayer of Healing": {
       "at_higher_levels": "When you cast this spell using a spell slot of 3rd level or higher, the Healing increases by 1d8 for each slot level above 2nd.",
@@ -4376,7 +5158,10 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "30 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 267"
+      ]
    },
    "Prestidigitation": {
       "at_higher_levels": "",
@@ -4392,7 +5177,10 @@
       "duration": "Up to 1 hour",
       "level": 0,
       "range": "10 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 267"
+      ]
    },
    "Primal Savagery": {
       "at_higher_levels": "",
@@ -4405,7 +5193,8 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "Self",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Produce Flame": {
       "at_higher_levels": "",
@@ -4418,7 +5207,10 @@
       "duration": "10 minutes",
       "level": 0,
       "range": "Self",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 269"
+      ]
    },
    "Protection from Ballistics": {
       "at_higher_levels": "",
@@ -4433,7 +5225,8 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 3,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": []
    },
    "Protection from Energy": {
       "at_higher_levels": "",
@@ -4450,7 +5243,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 3,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 270"
+      ]
    },
    "Protection from Evil and Good": {
       "at_higher_levels": "",
@@ -4466,7 +5262,10 @@
       "duration": "Up to 10 minutes",
       "level": 1,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 270"
+      ]
    },
    "Protection from Poison": {
       "at_higher_levels": "",
@@ -4482,7 +5281,10 @@
       "duration": "1 hour",
       "level": 2,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 270"
+      ]
    },
    "Psychic Scream": {
       "at_higher_levels": "",
@@ -4498,7 +5300,8 @@
       "duration": "Instantaneous",
       "level": 9,
       "range": "90 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": []
    },
    "Puppet": {
       "at_higher_levels": "",
@@ -4513,7 +5316,8 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "120 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": []
    },
    "Purify Food and Drink": {
       "at_higher_levels": "",
@@ -4528,7 +5332,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "10 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 270"
+      ]
    },
    "Pyrotechnics": {
       "at_higher_levels": "",
@@ -4543,7 +5350,8 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "60 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Raise Dead": {
       "at_higher_levels": "",
@@ -4558,7 +5366,10 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "Touch",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 270"
+      ]
    },
    "Rary's Telepathic Bond": {
       "at_higher_levels": "",
@@ -4571,7 +5382,10 @@
       "duration": "1 hour",
       "level": 5,
       "range": "30 feet",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 270"
+      ]
    },
    "Ray of Enfeeblement": {
       "at_higher_levels": "",
@@ -4585,7 +5399,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "60 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 271"
+      ]
    },
    "Ray of Frost": {
       "at_higher_levels": "",
@@ -4599,7 +5416,10 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 271"
+      ]
    },
    "Ray of Sickness": {
       "at_higher_levels": "The damage increases by 1d8 for each slot level above 1st.",
@@ -4613,7 +5433,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "60 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 271"
+      ]
    },
    "Regenerate": {
       "at_higher_levels": "",
@@ -4628,7 +5451,10 @@
       "duration": "1 hour",
       "level": 7,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 271"
+      ]
    },
    "Reincarnate": {
       "at_higher_levels": "",
@@ -4641,7 +5467,10 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 271"
+      ]
    },
    "Remote Access": {
       "at_higher_levels": "",
@@ -4656,7 +5485,8 @@
       "duration": "10 minutes",
       "level": 1,
       "range": "120 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Remove Curse": {
       "at_higher_levels": "",
@@ -4672,7 +5502,10 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 271"
+      ]
    },
    "Resistance": {
       "at_higher_levels": "",
@@ -4686,7 +5519,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 0,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 272"
+      ]
    },
    "Resurrection": {
       "at_higher_levels": "",
@@ -4700,7 +5536,10 @@
       "duration": "Instantaneous",
       "level": 7,
       "range": "Touch",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 272"
+      ]
    },
    "Revivify": {
       "at_higher_levels": "",
@@ -4714,7 +5553,10 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "Touch",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 272"
+      ]
    },
    "Rope Trick": {
       "at_higher_levels": "",
@@ -4727,7 +5569,10 @@
       "duration": "1 hour",
       "level": 2,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 272"
+      ]
    },
    "Sacred Flame": {
       "at_higher_levels": "",
@@ -4740,7 +5585,10 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 272"
+      ]
    },
    "Sanctuary": {
       "at_higher_levels": "",
@@ -4753,7 +5601,10 @@
       "duration": "1 minute",
       "level": 1,
       "range": "30 feet",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 272"
+      ]
    },
    "Scorching Ray": {
       "at_higher_levels": "You create one additional ray for each slot level above 2nd.",
@@ -4767,7 +5618,10 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 273"
+      ]
    },
    "Scrying": {
       "at_higher_levels": "",
@@ -4784,7 +5638,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 5,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 273"
+      ]
    },
    "Searing Smite": {
       "at_higher_levels": "The initial extra damage dealt by the attack increases by 1d6 for each slot above 1st.",
@@ -4797,7 +5654,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 1,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 274"
+      ]
    },
    "See Invisibility": {
       "at_higher_levels": "",
@@ -4812,7 +5672,10 @@
       "duration": "1 hour",
       "level": 2,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 274"
+      ]
    },
    "Sending": {
       "at_higher_levels": "",
@@ -4827,7 +5690,10 @@
       "duration": "1 round",
       "level": 3,
       "range": "Unlimited",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 274"
+      ]
    },
    "Sense Emotion": {
       "at_higher_levels": "",
@@ -4842,7 +5708,8 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 1,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": []
    },
    "Shadow Blade": {
       "at_higher_levels": "When you cast this spell at 3rd or 4th level, the damage increases to 3d8. At 5th or 6th level, the damage increases to 4d8. At 7th level or higher, the damage increases to 5d8.",
@@ -4857,7 +5724,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 2,
       "range": "Self",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": []
    },
    "Shadow of Moil": {
       "at_higher_levels": "",
@@ -4870,7 +5738,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "Self",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": []
    },
    "Shape Water": {
       "at_higher_levels": "",
@@ -4885,7 +5754,8 @@
       "duration": "Instantaneous/1 hour",
       "level": 0,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Shatter": {
       "at_higher_levels": "",
@@ -4901,7 +5771,10 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 275"
+      ]
    },
    "Shield": {
       "at_higher_levels": "",
@@ -4915,7 +5788,10 @@
       "duration": "1 round",
       "level": 1,
       "range": "Self",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 275"
+      ]
    },
    "Shield of Faith": {
       "at_higher_levels": "",
@@ -4929,7 +5805,10 @@
       "duration": "Concentration, up to 10 minutes",
       "level": 1,
       "range": "60 feet",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 275"
+      ]
    },
    "Shillelagh": {
       "at_higher_levels": "",
@@ -4942,7 +5821,10 @@
       "duration": "1 minute",
       "level": 0,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 275"
+      ]
    },
    "Shocking Grasp": {
       "at_higher_levels": "",
@@ -4956,7 +5838,10 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "Touch",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 275"
+      ]
    },
    "Shutdown": {
       "at_higher_levels": "",
@@ -4971,7 +5856,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 5,
       "range": "120 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Sickening Radiance": {
       "at_higher_levels": "",
@@ -4986,7 +5872,8 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 4,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Silence": {
       "at_higher_levels": "",
@@ -5001,7 +5888,10 @@
       "duration": "Concentration, up to 10 minutes",
       "level": 2,
       "range": "120 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 275"
+      ]
    },
    "Silent Image": {
       "at_higher_levels": "",
@@ -5016,7 +5906,10 @@
       "duration": "Concentration, up to 10 minutes",
       "level": 1,
       "range": "60 feet",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": [
+         "phb 276"
+      ]
    },
    "Skywrite": {
       "at_higher_levels": "",
@@ -5031,7 +5924,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 2,
       "range": "Sight",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Sleep": {
       "at_higher_levels": "",
@@ -5046,7 +5940,10 @@
       "duration": "1 minute",
       "level": 1,
       "range": "90 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 276"
+      ]
    },
    "Sleet Storm": {
       "at_higher_levels": "",
@@ -5061,7 +5958,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "150 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 276"
+      ]
    },
    "Slow": {
       "at_higher_levels": "",
@@ -5075,7 +5975,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "120 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 277"
+      ]
    },
    "Snare": {
       "at_higher_levels": "",
@@ -5090,7 +5993,8 @@
       "duration": "8 hours",
       "level": 1,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": []
    },
    "Snilloc's Snowball Swarm": {
       "at_higher_levels": "The damage increases by 1d6 for each slot level above 2nd.",
@@ -5104,7 +6008,8 @@
       "duration": "Instantaneous",
       "level": 2,
       "range": "90 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Spare the Dying": {
       "at_higher_levels": "",
@@ -5117,7 +6022,10 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "Touch",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 277"
+      ]
    },
    "Speak with Animals": {
       "at_higher_levels": "",
@@ -5132,7 +6040,10 @@
       "duration": "10 minutes",
       "level": 1,
       "range": "Self",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 277"
+      ]
    },
    "Speak with Dead": {
       "at_higher_levels": "",
@@ -5146,7 +6057,10 @@
       "duration": "10 minutes",
       "level": 3,
       "range": "10 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 277"
+      ]
    },
    "Speak with Plants": {
       "at_higher_levels": "",
@@ -5161,7 +6075,10 @@
       "duration": "10 minutes",
       "level": 3,
       "range": "Self (30ft radius)",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 277"
+      ]
    },
    "Spider Climb": {
       "at_higher_levels": "",
@@ -5176,7 +6093,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 2,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 277"
+      ]
    },
    "Spike Growth": {
       "at_higher_levels": "",
@@ -5190,7 +6110,10 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 2,
       "range": "150 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 277"
+      ]
    },
    "Spirit Guardians": {
       "at_higher_levels": "",
@@ -5203,7 +6126,10 @@
       "duration": "Concentration, up to 10 minutes",
       "level": 3,
       "range": "Self (15-foot radius)",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 278"
+      ]
    },
    "Spiritual Weapon": {
       "at_higher_levels": "",
@@ -5216,7 +6142,10 @@
       "duration": "1 minute",
       "level": 2,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 278"
+      ]
    },
    "Staggering Smite": {
       "at_higher_levels": "",
@@ -5229,7 +6158,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 278"
+      ]
    },
    "Steel Wind Strike": {
       "at_higher_levels": "",
@@ -5243,7 +6175,8 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "30 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Stinking Cloud": {
       "at_higher_levels": "",
@@ -5258,7 +6191,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "90 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 278"
+      ]
    },
    "Stone Shape": {
       "at_higher_levels": "",
@@ -5273,7 +6209,10 @@
       "duration": "Instantaneous",
       "level": 4,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 278"
+      ]
    },
    "Stoneskin": {
       "at_higher_levels": "",
@@ -5289,7 +6228,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 4,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 278"
+      ]
    },
    "Storm Sphere": {
       "at_higher_levels": "The damage increases for each of its effects by 1d6 for each slot level above 4th.",
@@ -5303,7 +6245,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "150 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Sudden Awakening": {
       "at_higher_levels": "",
@@ -5319,7 +6262,8 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "10 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": []
    },
    "Suggestion": {
       "at_higher_levels": "",
@@ -5335,7 +6279,10 @@
       "duration": "Concentration, up to 8 hours",
       "level": 2,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 279"
+      ]
    },
    "Summon Greater Demon": {
       "at_higher_levels": "The challenge rating increases by 1 for each slot level above 4th.",
@@ -5349,7 +6296,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 4,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Summon Lesser Demons": {
       "at_higher_levels": "You summon twice as many demons with a 6th or 7th-level slot. With 8th or 9th level, you summon three times as many.",
@@ -5363,7 +6311,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 3,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Sunburst": {
       "at_higher_levels": "",
@@ -5378,7 +6327,10 @@
       "duration": "Instantaneous",
       "level": 8,
       "range": "150 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 279"
+      ]
    },
    "Swift Quiver": {
       "at_higher_levels": "",
@@ -5391,7 +6343,10 @@
       "duration": "Concentration,, up to 1 minute",
       "level": 5,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 279"
+      ]
    },
    "Sword Burst": {
       "at_higher_levels": "",
@@ -5406,7 +6361,8 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "5 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Symbol": {
       "at_higher_levels": "",
@@ -5421,7 +6377,10 @@
       "duration": "Until dispelled/triggered",
       "level": 7,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 280"
+      ]
    },
    "Synaptic Static": {
       "at_higher_levels": "",
@@ -5437,7 +6396,8 @@
       "duration": "Instantaneous",
       "level": 5,
       "range": "120 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": []
    },
    "Synchronicity": {
       "at_higher_levels": "",
@@ -5452,7 +6412,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 4,
       "range": "Touch",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": []
    },
    "System Backdoor": {
       "at_higher_levels": "You are able to bypass technomagic spells if the spell's level is equal to or less than the level of the spell slot you used.",
@@ -5467,7 +6428,8 @@
       "duration": "Concentration, Up to 1 hour",
       "level": 4,
       "range": "Personal",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Tasha's Hideous Laughter": {
       "at_higher_levels": "",
@@ -5481,7 +6443,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 1,
       "range": "30 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 280"
+      ]
    },
    "Teleport": {
       "at_higher_levels": "",
@@ -5496,7 +6461,10 @@
       "duration": "Instantaneous",
       "level": 7,
       "range": "10 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 281"
+      ]
    },
    "Tenser's Floating Disk": {
       "at_higher_levels": "",
@@ -5509,7 +6477,10 @@
       "duration": "1 hour",
       "level": 1,
       "range": "30 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 282"
+      ]
    },
    "Thaumaturgy": {
       "at_higher_levels": "",
@@ -5522,7 +6493,10 @@
       "duration": "Up to 1 minute",
       "level": 0,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 282"
+      ]
    },
    "Thorn Whip": {
       "at_higher_levels": "",
@@ -5535,7 +6509,10 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 282"
+      ]
    },
    "Thunder Step": {
       "at_higher_levels": "The damage increases by 1d10 for each slot level above 3rd.",
@@ -5550,7 +6527,8 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "90 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Thunderclap": {
       "at_higher_levels": "",
@@ -5567,7 +6545,8 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "Self (5ft radius)",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Thunderous Smite": {
       "at_higher_levels": "",
@@ -5580,7 +6559,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 1,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 282"
+      ]
    },
    "Thunderwave": {
       "at_higher_levels": "",
@@ -5596,7 +6578,10 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "Self (15-foot cube)",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 282"
+      ]
    },
    "Tidal Wave": {
       "at_higher_levels": "",
@@ -5611,7 +6596,8 @@
       "duration": "Instantaneous",
       "level": 3,
       "range": "120 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Time Stop": {
       "at_higher_levels": "",
@@ -5625,7 +6611,10 @@
       "duration": "Instantaneous",
       "level": 9,
       "range": "Self",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 283"
+      ]
    },
    "Tiny Servant": {
       "at_higher_levels": "You can animate two additional objects for each slot level above 3rd. You can command all on the same bonus action.",
@@ -5638,7 +6627,8 @@
       "duration": "8 hours",
       "level": 3,
       "range": "Touch",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Toll the Dead": {
       "at_higher_levels": "",
@@ -5653,7 +6643,8 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "60 feet",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": []
    },
    "Tongues": {
       "at_higher_levels": "",
@@ -5670,7 +6661,10 @@
       "duration": "1 hour",
       "level": 3,
       "range": "Touch",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 283"
+      ]
    },
    "Tree Stride": {
       "at_higher_levels": "",
@@ -5684,7 +6678,10 @@
       "duration": "Concentration,, up to 1 minute",
       "level": 5,
       "range": "Self",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 283"
+      ]
    },
    "True Resurrection": {
       "at_higher_levels": "",
@@ -5698,7 +6695,10 @@
       "duration": "Instantaneous",
       "level": 9,
       "range": "Touch",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 284"
+      ]
    },
    "True Seeing": {
       "at_higher_levels": "",
@@ -5715,7 +6715,10 @@
       "duration": "1 hour",
       "level": 6,
       "range": "Touch",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 284"
+      ]
    },
    "True Strike": {
       "at_higher_levels": "",
@@ -5731,7 +6734,10 @@
       "duration": "Concentration, Up to 1 round",
       "level": 0,
       "range": "30 feet",
-      "school": "Divination"
+      "school": "Divination",
+      "sources": [
+         "phb 284"
+      ]
    },
    "Unearthly Chorus": {
       "at_higher_levels": "",
@@ -5744,7 +6750,8 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 1,
       "range": "Self (30ft radius)",
-      "school": "Illusion"
+      "school": "Illusion",
+      "sources": []
    },
    "Unseen Servant": {
       "at_higher_levels": "",
@@ -5759,7 +6766,10 @@
       "duration": "1 hour",
       "level": 1,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 284"
+      ]
    },
    "Vampiric Touch": {
       "at_higher_levels": "The damage increased by 1d6 for each slot level above 3rd.",
@@ -5773,7 +6783,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "Self",
-      "school": "Necromancy"
+      "school": "Necromancy",
+      "sources": [
+         "phb 285"
+      ]
    },
    "Vicious Mockery": {
       "at_higher_levels": "",
@@ -5786,7 +6799,10 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 285"
+      ]
    },
    "Virtue": {
       "at_higher_levels": "",
@@ -5799,7 +6815,8 @@
       "duration": "1 round",
       "level": 0,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": []
    },
    "Vitriolic Sphere": {
       "at_higher_levels": "The initial damage increases by 2d4 for each slot level above 4th.",
@@ -5813,7 +6830,8 @@
       "duration": "Instantaneous",
       "level": 4,
       "range": "150 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Wall of Fire": {
       "at_higher_levels": "",
@@ -5828,7 +6846,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 4,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 285"
+      ]
    },
    "Wall of Sand": {
       "at_higher_levels": "",
@@ -5841,7 +6862,8 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 3,
       "range": "90 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Wall of Stone": {
       "at_higher_levels": "",
@@ -5856,7 +6878,10 @@
       "duration": "Concentration, up to 10 minutes",
       "level": 5,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 287"
+      ]
    },
    "Wall of Water": {
       "at_higher_levels": "",
@@ -5871,7 +6896,8 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 3,
       "range": "60 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Warding Bond": {
       "at_higher_levels": "",
@@ -5884,7 +6910,10 @@
       "duration": "1 hour",
       "level": 2,
       "range": "Touch",
-      "school": "Abjuration"
+      "school": "Abjuration",
+      "sources": [
+         "phb 287"
+      ]
    },
    "Warding Wind": {
       "at_higher_levels": "",
@@ -5900,7 +6929,8 @@
       "duration": "Concentration, Up to 10 minutes",
       "level": 2,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Water Breathing": {
       "at_higher_levels": "",
@@ -5916,7 +6946,10 @@
       "duration": "24 hours",
       "level": 3,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 287"
+      ]
    },
    "Water Walk": {
       "at_higher_levels": "",
@@ -5932,7 +6965,10 @@
       "duration": "1 hour",
       "level": 3,
       "range": "30 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": [
+         "phb 287"
+      ]
    },
    "Watery Sphere": {
       "at_higher_levels": "",
@@ -5947,7 +6983,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 4,
       "range": "90 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": []
    },
    "Web": {
       "at_higher_levels": "",
@@ -5961,7 +6998,10 @@
       "duration": "Concentration, up to 1 hour",
       "level": 2,
       "range": "60 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 287"
+      ]
    },
    "Wild Cunning": {
       "at_higher_levels": "",
@@ -5975,7 +7015,8 @@
       "duration": "Instantaneous",
       "level": 1,
       "range": "120 feet",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Wind Wall": {
       "at_higher_levels": "",
@@ -5989,7 +7030,10 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 3,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 288"
+      ]
    },
    "Witch Bolt": {
       "at_higher_levels": "The initial damage increases by 1d12 for each slot level above 1st.",
@@ -6004,7 +7048,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 1,
       "range": "30 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 289"
+      ]
    },
    "Word of Radiance": {
       "at_higher_levels": "",
@@ -6017,7 +7064,8 @@
       "duration": "Instantaneous",
       "level": 0,
       "range": "5 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Word of Recall": {
       "at_higher_levels": "",
@@ -6030,7 +7078,10 @@
       "duration": "Instantaneous",
       "level": 6,
       "range": "5 feet",
-      "school": "Conjuration"
+      "school": "Conjuration",
+      "sources": [
+         "phb 289"
+      ]
    },
    "Wrath of Nature": {
       "at_higher_levels": "",
@@ -6044,7 +7095,8 @@
       "duration": "Concentration,, up to 1 minute",
       "level": 5,
       "range": "120 feet",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": []
    },
    "Wrathful Smite": {
       "at_higher_levels": "",
@@ -6057,7 +7109,10 @@
       "duration": "Concentration, up to 1 minute",
       "level": 1,
       "range": "Self",
-      "school": "Evocation"
+      "school": "Evocation",
+      "sources": [
+         "phb 289"
+      ]
    },
    "Zephyr Strike": {
       "at_higher_levels": "",
@@ -6070,7 +7125,8 @@
       "duration": "Concentration, Up to 1 minute",
       "level": 1,
       "range": "Self",
-      "school": "Transmutation"
+      "school": "Transmutation",
+      "sources": []
    },
    "Zone of Truth": {
       "at_higher_levels": "",
@@ -6085,6 +7141,9 @@
       "duration": "10 minutes",
       "level": 2,
       "range": "60 feet",
-      "school": "Enchantment"
+      "school": "Enchantment",
+      "sources": [
+         "phb 289"
+      ]
    }
 }

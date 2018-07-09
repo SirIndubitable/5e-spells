@@ -1,0 +1,361 @@
+Acid Splash: 211
+Blade Ward: 218
+Chill Touch: 221
+Dancing Lights: 230
+Druidcraft: 236
+Eldritch Blast: 237
+Fire Bolt: 242
+Friends: 244
+Guidance: 248
+Light: 255
+Mage Hand: 256
+Mending: 259
+Message: 259
+Minor Illusion: 260
+Poison Spray: 266
+Prestidigitation: 267
+Produce Flame: 269
+Ray of Frost: 271
+Resistance: 272
+Sacred Flame: 272
+Shillelagh: 275
+Shocking Grasp: 275
+Spare the Dying: 277
+Thaumaturgy: 282
+Thorn Whip: 282
+True Strike: 284
+Vicious Mockery: 285
+Alarm: 211
+Animal Friendship: 212
+Armor of Agathys: 215
+Arms of Hadar: 215
+Bane: 216
+Bless: 219
+Burning Hands: 220
+Charm Person: 221
+Chromatic Orb: 221
+Color Spray: 222
+Command: 223
+Compelled Duel: 224
+Comprehend Languages: 224
+Create or Destroy Water: 229
+Cure Wounds: 230
+Detect Evil and Good: 231
+Detect Magic: 231
+Detect Poison and Disease: 231
+Disguise Self: 233
+Dissonant Whispers: 234
+Divine Favor: 234
+Ensnaring Strike: 237
+Entangle: 238
+Expeditious Retreat: 238
+Faerie Fire: 239
+False Life: 239
+Feather Fall: 239
+Find Familiar: 240
+Fog Cloud: 243
+Goodberry: 246
+Grease: 246
+Guiding Bolt: 248
+Hail of Thorns: 249
+Healing Word: 250
+Hellish Rebuke: 250
+Heroism: 250
+Hex: 251
+Hunters Mark: 251
+Identify: 252
+Illusory Script: 252
+Inflict Wounds: 253
+Jump: 254
+Longstrider: 256
+Mage Armor: 256
+Magic Missile: 257
+Protection from Evil and Good: 270
+Purify Food and Drink: 270
+Ray of Sickness: 271
+Sanctuary: 272
+Searing Smite: 274
+Shield: 275
+Shield of Faith: 275
+Silent Image: 276
+Sleep: 276
+Speak with Animals: 277
+Tasha's Hideous Laughter: 280
+Tenser's Floating Disk: 282
+Thunderous Smite: 282
+Thunderwave: 282
+Unseen Servant: 284
+Witch Bolt: 289
+Wrathful Smite: 289
+Aid: 211
+Alter Self: 211
+Animal Messenger: 212
+Arcane Lock: 215
+Augury: 215
+Barkskin: 217
+Beast Sense: 217
+Blindness/Deafness: 219
+Blur: 219
+Branding Smite: 219
+Calm Emotions: 221
+Cloud of Daggers: 222
+Continual Flame: 227
+Cordon of Arrows: 228
+Crown of Madness: 229
+Darkness: 230
+Darkvision: 230
+Detect Thoughts: 231
+Enhance Ability: 237
+Enlarge/Reduce: 237
+Enthrall: 238
+Find Steed: 240
+Find Traps: 241
+Flame Blade: 242
+Flaming Sphere: 242
+Gentle Repose: 245
+Gust of Wind: 248
+Heat Metal: 250
+Hold Person: 251
+Invisibility: 254
+Knock: 254
+Lesser Restoration: 255
+Levitate: 255
+Locate Animals or Plants: 256
+Locate Object: 256
+Magic Mouth: 257
+Magic Weapon: 257
+Melf's Acid Arrow: 259
+Mirror Image: 260
+Misty Step: 260
+Moonbeam: 261
+Nystul's Magic Aura: 263
+Pass without Trace: 264
+Phantasmal Force: 264
+Prayer of Healing: 267
+Protection from Poison: 270
+Ray of Enfeeblement: 271
+Rope Trick: 272
+Scorching Ray: 273
+See Invisibility: 274
+Shatter: 275
+Silence: 275
+Spider Climb: 277
+Spike Growth: 277
+Spiritual Weapon: 278
+Suggestion: 279
+Warding Bond: 287
+Web: 287
+Zone of Truth: 289
+Animate Dead: 212
+Aura of Vitality: 216
+Beacon of Hope: 217
+Bestow Curse: 218
+Blinding Smite: 219
+Blink: 219
+Call Lightning: 220
+Clairvoyance: 222
+Conjure Animals: 225
+Conjure Barrage: 225
+Counterspell: 228
+Create Food and Water: 229
+Crusader's Mantle: 230
+Daylight: 230
+Dispel Magic: 234
+Elemental Weapon: 237
+Fear: 239
+Feign Death: 240
+Fireball: 241
+Fly: 243
+Gaseous Form: 244
+Glyph of Warding: 245
+Haste: 250
+Hunger of Hadar: 251
+Hypnotic Pattern: 252
+Leomund's Tiny Hut: 255
+Lightning Arrow: 255
+Lightning Bolt: 255
+Magic Circle: 256
+Major Image: 258
+Mass Healing Word: 258
+Meld into Stone: 259
+Nondetection: 263
+Phantom Steed: 265
+Plant Growth: 266
+Protection from Energy: 270
+Remove Curse: 271
+Revivify: 272
+Sending: 274
+Sleet Storm: 276
+Slow: 277
+Speak with Dead: 277
+Speak with Plants: 277
+Spirit Guardians: 278
+Stinking Cloud: 278
+Tongues: 283
+Vampiric Touch: 285
+Water Breathing: 287
+Water Walk: 287
+Wind Wall: 288
+Arcane Eye: 214
+Aura of Life: 216
+Aura of Purity: 216
+Banishment: 217
+Blight: 219
+Compulsion: 224
+Confusion: 224
+Conjure Minor Elementals: 226
+Conjure Woodland Beings: 226
+Control Water: 227
+Death Ward: 230
+Dimension Door: 233
+Divination: 234
+Dominate Beast: 234
+Evard's Black Tentacles: 238
+Fabricate: 239
+Fire Shield: 242
+Freedom of Movement: 244
+Giant Insect: 245
+Grasping Vine: 246
+Greater Invisibility: 246
+Guardian of Faith: 246
+Hallucinatory Terrain: 249
+Ice Storm: 252
+Leomund's Secret Chest: 254
+Locate Creature: 256
+Mordenkainen's Faithful Hound: 261
+Mordenkainen's Private Sanctum: 262
+Otiluke's Resilient Sphere: 264
+Phantasmal Killer: 265
+Polymorph: 266
+Staggering Smite: 278
+Stone Shape: 278
+Stoneskin: 278
+Wall of Fire: 285
+Animate Objects: 213
+Antilife Shell: 213
+Awaken: 216
+Banishing Smite: 216
+Bigby's Hand: 218
+Circle of Power: 221
+Cloudkill: 222
+Commune: 223
+Commune with Nature: 224
+Cone of Cold: 224
+Conjure Elemental: 225
+Conjure Volley: 226
+Contact Other Plane: 226
+Contagion: 227
+Creation: 229
+Destructive Wave: 231
+Dispel Evil and Good: 233
+Dominate Person: 235
+Dream: 236
+Flame Strike: 242
+Geas: 244
+Greater Restoration: 246
+Hallow: 249
+Hold Monster: 251
+Insect Plague: 254
+Legend Lore: 254
+Mass Cure Wounds: 258
+Mislead: 260
+Modify Memory: 261
+Passwall: 264
+Planar Binding: 265
+Raise Dead: 270
+Rary's Telepathic Bond: 270
+Reincarnate: 271
+Scrying: 273
+Seeming: 274
+Swift Quiver: 279
+Telekinesis: 280
+Teleportation Circle: 282
+Tree Stride: 283
+Wall of Force: 285
+Wall of Stone: 287
+Arcane Gate: 214
+Blade Barrier: 218
+Chain Lightning: 221
+Circle of Death: 221
+Conjure Fey: 226
+Contingency: 227
+Create Undead: 229
+Disintegrate: 233
+Drawmij's Instant Summons: 235
+Eyebite: 238
+Find the Path: 240
+Flesh to Stone: 243
+Forbiddance: 243
+Globe of Invulnerability: 245
+Guards and Wards: 248
+Harm: 249
+Heal: 250
+Heroes' Feast: 250
+Magic Jar: 257
+Mass Suggestion: 258
+Move Earth: 263
+Otiluke's Freezing Sphere: 263
+Otto's Irresistible Dance: 264
+Planar Ally: 265
+Programmed Illusion: 269
+Sunbeam: 279
+Transport via Plants: 283
+True Seeing: 284
+Wall of Ice: 285
+Wall of Thorns: 287
+Wind Walk: 288
+Word of Recall: 289
+Conjure Celestial: 225
+Delayed Blast Fireball: 230
+Divine Word: 234
+Etherealness: 238
+Finger of Death: 241
+Fire Storm: 242
+Forcecage: 243
+Mirage Arcane: 260
+Mordenkainen's Magnificent Mansion: 261
+Mordenkainen's Sword: 262
+Plane Shift: 266
+Prismatic Spray: 267
+Project Image: 270
+Regenerate: 271
+Resurrection: 272
+Reverse Gravity: 272
+Sequester: 274
+Simulacrum: 276
+Symbol: 280
+Teleport: 281
+Animal Shapes: 212
+Antimagic Field: 213
+Antipathy/Sympathy: 214
+Clone: 222
+Control Weather: 228
+Demiplane: 231
+Dominate Monster: 235
+Earthquake: 236
+Feeblemind: 239
+Glibness: 245
+Holy Aura: 251
+Incendiary Cloud: 253
+Maze: 258
+Mind Blank: 259
+Power Word Stun: 267
+Sunburst: 279
+Telepathy: 281
+Tsunami: 284
+Astral Projection: 215
+Foresight: 244
+Gate: 244
+Imprisonment: 252
+Mass Heal: 258
+Meteor Swarm: 259
+Power Word Heal: 266
+Power Word Kill: 266
+Prismatic Wall: 267
+Shapechange: 274
+Storm of Vengeance: 279
+Time Stop: 283
+True Polymorph: 283
+True Resurrection: 284
+Weird: 288
+Wish: 288

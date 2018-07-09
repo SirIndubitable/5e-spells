@@ -18,6 +18,7 @@ class Spell:
         self.Description = ''
         self.AtHigherLevels = ''
         self.Classes = list()
+        self.Sources = list()
 
     def set_level_and_school(self, level_and_school):
         """
@@ -76,6 +77,7 @@ class Spell:
         if 'Duration' in info_dict:
             self.Duration = info_dict['Duration'].replace('Conc.', 'Concentration,')
 
+    # print this spell for debugging purposes
     def print(self):
         print('Name: ' + self.Name)
         print('Level: ' + str(self.Level))
@@ -87,6 +89,7 @@ class Spell:
         print('Description: ' + self.Description)
         print('At Higher Levels: ' + self.AtHigherLevels)
 
+    # write the spell to a file in the format we expect to parse it in parse-spells.py
     def write(self, file):
         file.write(self.Name + '\n')
         file.write(self.get_level_and_school() + '\n')
@@ -113,6 +116,7 @@ class Spell:
         return this_spell
 
 
+# print the spell in json format
 class SpellEncoder(json.JSONEncoder):
     def default(self, obj):
         # return obj.__dict__
@@ -126,4 +130,5 @@ class SpellEncoder(json.JSONEncoder):
             "level": obj.Level,
             "range": obj.Range,
             "school": obj.School,
+            "sources": obj.Sources,
         }

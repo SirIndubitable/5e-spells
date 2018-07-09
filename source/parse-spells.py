@@ -81,6 +81,15 @@ def add_spell(spellDict, spell):
     created_spells.add(spell_name)
 
 
+@spell_list_parser('spellsBySource')
+def add_sources(file_name, file_line):
+    spell_name, spell_page = file_line.split(': ')
+    if spell_name in spells_dict:
+        spell_location = file_name + ' ' + spell_page.strip()
+        spells_dict[spell_name].Sources.append(spell_location)
+    return spell_name
+
+
 @spell_list_parser('spellListByClass')
 def add_classes(file_name, file_line):
     spell_name = file_line.strip()
@@ -124,11 +133,12 @@ if args.doctest:
 
 parse_spell_files()
 add_classes()
+add_sources()
 
 error_spells = get_alphanumeric_intersection(missing_spells, created_spells)
 if len(error_spells) > 0:
     print("Errors with: \n")
-    print('\n'.join())
+    print('\n'.join(error_spells))
 
 #print("Missing spells: \n")
 #print('\n'.join(sorted(missing_spells)))
