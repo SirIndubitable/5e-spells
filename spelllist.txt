@@ -35,9 +35,9 @@ Dancing Lights
 Darkness
 Death Ward
 Delayed Blast Fireball
-Detect Evil And Good
+Detect Evil and Good
 Detect Magic
-Detect Poison And Disease
+Detect Poison and Disease
 Dimension Door
 Disguise Self
 Disintegrate
@@ -83,7 +83,7 @@ Haste
 Heal
 Healing Word
 Hellish Rebuke
-Heroes’ Feast
+Heroes' Feast
 Heroism
 Hex
 Hold Person
@@ -116,17 +116,17 @@ Maze
 Meteor Swarm
 Minor Illusion
 Misty Step
-Mordenkainen’s Sword
-Otto’s Irresistible Dance
+Mordenkainen's Sword
+Otto's Irresistible Dance
 Passwall
 Poison Spray
 Power Word Kill
 Power Word Stun
 Prayer of Healing
 Prestidigitation
-Protection From Evil And Good
 Protection from Energy
-Purify Food And Drink
+Protection from Evil and Good
+Purify Food and Drink
 Raise Dead
 Ray of Frost
 Ray of Sickness
@@ -146,7 +146,7 @@ Silence
 Silent Image
 Sleep
 Spare the Dying
-Speak With Animals
+Speak with Animals
 Speak with Dead
 Spider Climb
 Spirit Guardians
@@ -156,7 +156,7 @@ Suggestion
 Sunburst
 Tasha's Hideous Laughter
 Teleport
-Tensor's Floating Disk
+Tenser's Floating Disk
 Thaumaturgy
 Thunderous Smite
 Thunderwave
@@ -169,4 +169,4 @@ Wall of Stone
 Warding Bond
 Web
 Witch Bolt
-Wrathful smite
+Wrathful Smite

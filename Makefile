@@ -1,2 +1,5 @@
-spells.json: source/parse-spells.py $(wildcard source/spells/*.txt)
+spells.json: source/parse-spells.py $(wildcard source/spells/*.txt)  $(wildcard source/spellListByClass/*.txt)
 	python source/parse-spells.py -json="spells.json" -list="spelllist.txt" -class="List of all 5e spells.txt"
+
+test: 
+	python source/parse-spells.py --doctest
