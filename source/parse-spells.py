@@ -2,6 +2,8 @@ import argparse
 import re
 import json
 import os
+from spell import Spell
+from spell import SpellEncoder
 
 
 missing_spells = set()
@@ -54,22 +56,6 @@ def get_next_spell(next_spell, spell_itr):
     return current_spell, next_spell
 
 
-def parse_type(line):
-    """Parses the school and level out of the standard string
-
-    >>> parse_type("Conjuration cantrip")
-    (0, 'Conjuration')
-    >>> parse_type("2nd-level abjuration")
-    (2, 'Abjuration')
-    """
-    words = line.split()
-    # if the first word doesn't contain a number, it's probably a cantrip
-    if re.search(r'\d', words[0]):
-        return int(words[0][0]), words[1].capitalize()
-    else:
-        return 0, words[0].capitalize()
-
-
 def parse_value(line, valueName):
     """Parses the value out of the line
 
@@ -84,15 +70,14 @@ def parse_value(line, valueName):
 def add_spell(spellDict, spell):
     spell_iter = iter(spell)
     spell_name = next(spell_iter).strip()
-    spell_info = dict()
-    spell_info["level"], spell_info["school"] = parse_type(next(spell_iter))
-    spell_info["casting_time"] = parse_value(next(spell_iter), 'Casting Time')
-    spell_info["range"] = parse_value(next(spell_iter), 'Range')
-    spell_info["components"] = parse_value(next(spell_iter), 'Components')
-    spell_info["duration"] = parse_value(next(spell_iter), 'Duration')
-    spell_info["description"] = "".join(spell_iter)
-    spell_info['classes'] = list()
-    spellDict[spell_name] = spell_info
+    spell = Spell(spell_name)
+    spell.set_level_and_school(next(spell_iter))
+    spell.CastTime = parse_value(next(spell_iter), 'Casting Time')
+    spell.Range = parse_value(next(spell_iter), 'Range')
+    spell.Components = parse_value(next(spell_iter), 'Components')
+    spell.Duration = parse_value(next(spell_iter), 'Duration')
+    spell._set_description("".join(spell_iter))
+    spellDict[spell_name] = spell
     created_spells.add(spell_name)
 
 
@@ -100,7 +85,7 @@ def add_spell(spellDict, spell):
 def add_classes(file_name, file_line):
     spell_name = file_line.strip()
     if spell_name in spells_dict:
-        spells_dict[spell_name]['classes'].append(file_name)
+        spells_dict[spell_name].Classes.append(file_name)
     return spell_name
 
 
@@ -150,7 +135,7 @@ if len(error_spells) > 0:
 
 if args.json_dest is not None:
     f = open(args.json_dest, 'w')
-    f.write(json.dumps(spells_dict, indent=3, sort_keys=True))
+    f.write(json.dumps(spells_dict, cls=SpellEncoder, indent=3, sort_keys=True))
     f.close()
 
 if args.list_dest is not None:
@@ -166,10 +151,10 @@ if args.class_dest is not None:
     spells_by_level = {0: [], 1: [], 2: [], 3: [], 4: [],
                        5: [], 6: [], 7: [], 8: [], 9: []}
     for spell_name, spell in spells_dict.items():
-        spells_by_level[spell['level']].append(spell_name)
+        spells_by_level[spell.Level].append(spell_name)
     for spell_level in sorted(spells_by_level.keys()):
         f.write(spell_level_string[spell_level] + '\n')
-        for spell in spells_by_level[spell_level]:
-            f.write(spell + ' (' + ', '.join(spells_dict[spell]['classes']) + ')\n')
+        for spell_name in spells_by_level[spell_level]:
+            f.write(spell_name + ' (' + ', '.join(spells_dict[spell_name].Classes) + ')\n')
         f.write('\n')
     f.close()
