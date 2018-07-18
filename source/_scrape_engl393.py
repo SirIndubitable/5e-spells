@@ -7,6 +7,7 @@ def get_soup(spell_name):
     spell_url = spell_name.replace(' ', '_')
     spell_url = quote(spell_url)
     page_path = 'http://engl393-dnd5th.wikia.com/wiki/' + spell_url
+    print('parsing page: ' + page_path)
     page = urlopen(page_path)
     return BeautifulSoup(page, 'html.parser')
 
@@ -27,7 +28,7 @@ def get_level_and_type(soup):
     info_box = soup.find('div', attrs={'class': 'WikiaArticle'})
     table = info_box.find('table')
     caption = table.find('caption')
-    return caption.text.strip().split()
+    return caption.text.strip()
 
 
 def get_description(soup):

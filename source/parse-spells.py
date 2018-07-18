@@ -76,7 +76,7 @@ def add_spell(spellDict, spell):
     spell.Range = parse_value(next(spell_iter), 'Range')
     spell.Components = parse_value(next(spell_iter), 'Components')
     spell.Duration = parse_value(next(spell_iter), 'Duration')
-    spell._set_description("".join(spell_iter))
+    spell.set_description("".join(spell_iter))
     spellDict[spell_name] = spell
     created_spells.add(spell_name)
 
