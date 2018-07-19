@@ -1,0 +1,8 @@
+Synaptic Static
+5th-level Enchantment
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+Each creature within a 20-foot-radius sphere centered on a point you choose must make an Intelligence saving throw. A creature with an Intelligence score of 2 or lower is immune. A target takes 8d6 psychic damage on a failed save, or half as much damage on a successful one.
+On a failed save, for one minute it rolls a d6 and subtracts the number from all its attacks, ability checks, and concentration saves. It can repeat the saving throw at the end of its turns.

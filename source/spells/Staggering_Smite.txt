@@ -1,0 +1,7 @@
+Staggering Smite
+4th-level Evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, Up to 1 minute
+The next time you hit with a melee weapon attack during the spell's duration, your attack deals an extra 4d6 psychic damage. The target must make a Wisdom save. On a failure, it has disadvantage on attacks and ability checks, and can't take reactions until the end of its next turn.

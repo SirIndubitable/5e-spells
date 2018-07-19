@@ -1,0 +1,8 @@
+Toll the Dead
+Necromancy cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+The target must pass a Wisdom save or take damage. If it's missing any hit points, the damage is 1d12 necrotic damage; otherwise, it's 1d8.
+The damage increases by one die when you reach 5th, 11th, and 17th level.

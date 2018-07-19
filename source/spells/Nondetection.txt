@@ -1,0 +1,7 @@
+Nondetection
+3rd-level Abjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (25gp diamond dust; consumed)
+Duration: 8 hours
+A target you touch can't be targeted by divination magic or perceived through magical scrying sensors. The target can be a willing creature, place, or object no larger than 10 feet in any dimension.

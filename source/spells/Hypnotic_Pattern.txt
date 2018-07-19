@@ -1,0 +1,8 @@
+Hypnotic Pattern
+3rd-level Illusion
+Casting Time: 1 action
+Range: 120 feet
+Components: S, M (Glowing incense/crystal vial of glowing material)
+Duration: Concentration, Up to 1 minute
+Each creature in a 30-foot cube who can see must make a Wisdom save. On a failure, the creature becomes charmed. While charmed by this spell, the creature is incapacitated and has a speed of 0.
+The spell ends for a creature if it takes any damage or if someone uses an action to snap it out of the trance.

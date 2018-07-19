@@ -1,0 +1,9 @@
+Synchronicity
+4th-level Enchantment
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, Up to 1 hour
+A creature you touch isn't inconvenienced by mundane delays. Traffic lights are always green, there's always a waiting elevator, and a taxi is always around the corner. The target can run at full speed through dense crowds and attacks of opportunity against the target are made with disadvantage.
+The spell also grants advantage to stealth checks, since cover is always available. Additionally, the target has advantage on all ability checks made to drive a vehicle.
+If two or more creatures under the effect of the spell are attempting to avoid being inconvenienced by each other, the creatures make Charisma checks each time the effects would oppose each other. The higher check of the two's spell takes effect.

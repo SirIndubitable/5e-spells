@@ -1,0 +1,8 @@
+Grasping Vine
+4th-level Conjuration
+Casting Time: 1 bonus action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, Up to 1 minute
+You make a vine sprout from the ground in an unoccupied space you can see. When you cast this spell, you can make the vine whip a creature up to 30 feet from it, if you can see the target. The creature must pass a Dexterity save or be pulled 20 feet directly toward the vine.
+Until the spell ends, you can use your bonus action to have the vine lash out again.

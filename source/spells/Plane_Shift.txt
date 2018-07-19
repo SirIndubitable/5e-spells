@@ -1,0 +1,9 @@
+Plane Shift
+7th-level Conjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (250gp forked metal rod attuned to destination plane)
+Duration: Instantaneous
+You and up to eight willing creatures who link hands in a circle are transported to a different plane. You can specify a target destination in general or specific terms, and you appear in or near that destination.
+Alternatively, if you know the sigil sequence of a teleportation circle on another plane, this spell can take you to that circle. If the circle is too small to hold everyone, they appear in the closest unoccupied spaces.
+You can use this spell to banish an unwilling creature to another plane. Make a melee spell attack against a creature in reach. On a hit, the creature must make a Charisma save. If the creature fails, it is transported to a random location on the plane you specify. It must find its own way back to your plane.

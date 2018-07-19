@@ -1,0 +1,8 @@
+Branding Smite
+2nd-level Evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, Up to 1 minute
+The next time you hit a creature with a weapon attack, it deals an extra 2d6 radiant damage. The target becomes visible if it's invisible, and it sheds a 5-foot radius of dim light. They can't become invisible until the spell ends.
+At Higher Levels: The extra damage increases by 1d6 for each slot level above 2nd.

@@ -1,0 +1,8 @@
+Zephyr Strike
+1st-level Transmutation
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, Up to 1 minute
+Your movement doesn't provoke opportunity attacks.
+Before the spell ends, you can give yourself advantage on one weapon attack roll. That attack deals an extra 1d8 force damage. Hit or miss, your walking speed increases by 30 feet until the end of that turn.

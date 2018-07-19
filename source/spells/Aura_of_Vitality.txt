@@ -1,0 +1,7 @@
+Aura of Vitality
+3rd-level Evocation
+Casting Time: 1 action
+Range: Self (30ft radius)
+Components: V
+Duration: Concentration, Up to 1 minute
+You emit a 30-foot radius aura until the spell ends. It is centered on you and moves with you. You can use your bonus action to make yourself or a creature in the aura regain 2d6 hit points.

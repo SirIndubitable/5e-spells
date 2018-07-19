@@ -1,0 +1,9 @@
+Contingency
+6th-level Evocation
+Casting Time: 10 minutes
+Range: Self
+Components: V, S, M (1500gp ivory statuette of yourself)
+Duration: 10 days
+Choose a spell of 5th level or lower that you can cast, has a casting time of 1 action, and can target you. You cast it as part of casting this spell, expending spell slots for both, but the contingent spell doesn’t come into effect. Instead, it takes effect when a certain circumstance that you describe occurs.
+The contingent spell takes effect immediately after the circumstance is met for the first time, and it affects only you, even if it can normally target others. This spell then ends.
+You can only have one casting of this spell active at a time. If you cast it again, the effect of the previous casting ends. This spell also ends if you are ever separated from its material component.

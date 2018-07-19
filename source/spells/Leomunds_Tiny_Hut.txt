@@ -1,0 +1,9 @@
+Leomund's Tiny Hut
+3rd-level Evocation
+Casting Time: 1 minute (Ritual)
+Range: Self (10ft radius hemisphere)
+Components: V, S, M (Crystal bead)
+Duration: 8 hours
+A 10-foot-radius dome appears around you and up to nine Medium or smaller creatures in the area. The spell fails if there is a creature larger than Medium or more than nine creatures. The spell ends if you leave its area.
+The dome is immobile. Until the spell ends, you can make the inside be dimly lit or dark. The outside is opaque of any color you choose, but is transparent on the inside.
+Creatures and objects in the dome's area when you cast the spell can move through it freely. Everything else is unable to enter. Spells and other magical effects can't pass the barrier of the dome on either end. The dome's atmosphere is always comfortable and dry, no matter the outside weather.

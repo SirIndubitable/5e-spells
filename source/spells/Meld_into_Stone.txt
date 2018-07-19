@@ -1,0 +1,8 @@
+Meld into Stone
+3rd-level Transmutation
+Casting Time: 1 action (Ritual)
+Range: Touch
+Components: V, S
+Duration: 8 hours
+You and all you carry touch and meld into a stone object or surface large enough to fully contain your body. This uses your movement. Once in, you cannot be detected by non-magical means. You can't see anything that happens outside of it, and have disadvantage on Perception checks to hear things outside it. You are still aware of time passage. You can also cast spells on yourself. You can use your movement to leave the stone where you entered, but otherwise are immobile.
+Minor damage to the stone doesn't hurt you, but destruction enough to make it no longer fit you expels you from the stone and deals 6d6 bludgeoning damage. If the stone is completely destroyed or transmuted into another substance, you are expelled and take 50 bludgeoning damage. If expelled, you appear and fall prone in the nearest empty space to where you entered.

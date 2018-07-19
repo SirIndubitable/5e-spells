@@ -1,0 +1,7 @@
+Healing Elixir
+1st-level Conjuration
+Casting Time: 1 minute
+Range: Self
+Components: V, S, M (Alchemist's supplies)
+Duration: 24 hours
+You create a healing elixir that appears in your hand. The elixir retains its potency for the duration or until it's consumed. As an action, a creature can drink it or feed it to another creature. It restores 2d4+2 hit points.

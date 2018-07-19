@@ -1,0 +1,8 @@
+Erupting Earth
+3rd-level Transmutation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (Obsidian)
+Duration: Instantaneous
+Choose a point on the ground that you can see. A 20-foot cube centered on that point becomes difficult terrain, and each 5-foot portion requires a minute to clear by hand. Each creature in the cube's area must make a Dexterity save. It takes 3d12 bludgeoning damage on a failure, or half damage on a success.
+At Higher Levels: The damage increases by 1d12 for each slot level above 3rd.

@@ -1,0 +1,7 @@
+Tidal Wave
+3rd-level Conjuration
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (Water)
+Duration: Instantaneous
+A wave of water crashes down on an area. The area can be up to 30 feet long, 10 feet wide, and 10 feet tall. Each creature in the area must make a Dexterity save. On a failure, it takes 4d8 bludgeoning damage and is prone. On a success, it takes half damage and isn't prone. The water spreads across the ground in all directions, extinguishing unprotected flames in its area and an extra 30 feet. It then vanishes.

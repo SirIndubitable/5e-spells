@@ -1,0 +1,8 @@
+Hold Monster
+5th-level Enchantment
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (Straight piece of iron)
+Duration: Concentration, Up to 1 minute
+Choose a creature you can see. It must pass a Wisdom save or be paralyzed. This spell has no effect on undead. At the end of the target's turns, it can make another save, ending the paralysis on a success.
+At Higher Levels: You can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.

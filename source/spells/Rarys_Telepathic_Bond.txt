@@ -1,0 +1,7 @@
+Rary's Telepathic Bond
+5th-level Divination
+Casting Time: 1 action (Ritual)
+Range: 30 feet
+Components: V, S, M (Eggshell from two kinds of creatures)
+Duration: 1 hour
+Up to eight willing creatures you choose that are in range at the time casting form a link and can communicate telepathically, regardless if they have a common language or not. The communication is possible over any distance, but it can't go through different planes. Each target must have an Intelligence of at least 3 to be affected by this spell.

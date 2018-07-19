@@ -1,0 +1,11 @@
+Modify Memory
+5th-level Enchantment
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, Up to 1 minute
+A creature you can see must make a Wisdom save. If you're fighting it, it has advantage. If it fails, it becomes charmed, is incapacitated, and is unaware of its surroundings, though it can still hear you. If it takes any damage or is targeted by another spell, this spell ends, and none of its memories are modified.
+While the charm lasts, you can affect the target's memory of an event it experienced in the last 24 hours that lasted up to 10 minutes. You can erase all memory of it, allow the target to recall it with perfect detail, change the details of it, or create a memory of some other event.
+You must describe to the target how its memories are changed, and it must be able to understand your language. Its mind fills in gaps in your description. If the spell ends before you've finished describing the new memories, the creature is unaffected. Otherwise, the memories take hold when the spell ends.
+A Remove Curse or Greater Restoration restores the creature's true memory.
+At Higher Levels: You can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time (9th level).

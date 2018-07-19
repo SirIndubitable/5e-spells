@@ -1,0 +1,8 @@
+Blink
+3rd-level Transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: 1 minute
+For the duration, roll a d20 at the end of your turns. If you roll 11 or higher, you move to the Ethereal Plane if you aren't already there. At the start of your next turn, or if the spell ends and you're still on the Ethereal Plane, you return to an unoccupied space within 10 feet of where you vanished. If there is no space in range, you return to the next one, chosen at random if there's multiple options. The spell can be dismissed as an action.
+On the Ethereal Plane, you can see up to 60 feet and in shades of gray, and hear the plane you came from. You can only affect and be affected by creatures on the Ethereal Plane, and creatures that aren't there can't perceive or interact with you unless they have an ability that allows it.

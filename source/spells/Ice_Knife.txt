@@ -1,0 +1,8 @@
+Ice Knife
+1st-level Conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: S, M (Water/ice)
+Duration: Instantaneous
+Make a ranged spell attack. On hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet must pass a Dexterity save or take 2d6 cold damage.
+At Higher Levels: The cold damage increases by 1d6 for each slot level above first.

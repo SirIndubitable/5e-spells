@@ -1,0 +1,10 @@
+Danse Macabre
+5th-level Necromancy
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, Up to 1 hour
+Choose up to five Small or Medium corpses you can see to become undead. You decide whether it is a zombie or skeleton, and it gains a bonus to attack and damage rolls equal to your spellcasting ability modifier.
+You can use a bonus action to mentally command them if they're within 60 feet of you. It must be the same command. Decide what action and movement they take during their next turn. If you issue no command, they do nothing except defend themselves. Once given an order, they will continue to follow it until it's complete.
+The creatures are under your control until the spell ends, after which they become inanimate.
+At Higher Levels: You animate up to two additional corpses for each slot level above 5th

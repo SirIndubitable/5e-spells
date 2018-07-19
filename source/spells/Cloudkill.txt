@@ -1,0 +1,10 @@
+Cloudkill
+5th-level Conjuration
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, Up to 10 minutes
+You create a 20-foot-radius sphere of fog centered on a point. It spreads around corners. It lasts for the duration or until strong wind disperses it. Its area is heavily obscured.
+When a creature enters the fog for the first time on a turn or starts its turn there, it must make a Constitution save. It takes 5d8 poison damage on a fail, or half on a success. Creatures are affected even if they hold their breath or don't need to breathe.
+The fog moves 10 feet away from you at the start of each of your turns, rolling along the ground. The vapors sink to the lowest level of the land.
+At Higher Levels: The damage increases by 1d8 for each slot level above 5th.

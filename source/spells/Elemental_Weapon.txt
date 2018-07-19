@@ -1,0 +1,8 @@
+Elemental Weapon
+3rd-level Transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, Up to 1 hour
+Choose one of these damage types: acid, cold, fire, lightning, or thunder. For the duration, a nonmagical weapon you touch has a +1 to attack rolls and deals an extra 1d4 damage of the chosen type.
+At Higher Levels: When you cast this spell using a 5th or 6th level spell slot, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4.

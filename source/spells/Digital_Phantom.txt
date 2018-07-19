@@ -1,0 +1,8 @@
+Digital Phantom
+2nd-level Abjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (Copper wire)
+Duration: Concentration, Up to 1 hour
+You and any other users you choose on your local network gain a +10 bonus to Intelligence checks to avoid detection by administrators, knowbots, tracking software, and other such.
+Additionally, if you or any of the chosen users leave a computer system you're working in, all trace of your presence is erased.

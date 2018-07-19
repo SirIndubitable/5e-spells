@@ -1,0 +1,9 @@
+Crown of Madness
+2nd-level Enchantment
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, Up to 1 minute
+A humanoid of your choice must succeed on a Wisdom saving throw or become charmed by you for the duration. The charmed target must use its action before moving to make a melee attack against a creature other than itself. You choose this target.
+The target can act normally on its turn if you choose no creature or if none are within its reach.
+On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. The target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.

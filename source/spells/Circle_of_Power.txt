@@ -1,0 +1,7 @@
+Circle of Power
+5th-level Abjuration
+Casting Time: 1 action
+Range: Self (30ft radius)
+Components: V
+Duration: Concentration, Up to 10 minutes
+You radiate a sphere of energy with a 30-foot radius. The sphere moves with you, centered on you. For the duration, each ally in the area, yourself included, has advantage on saves against spells and magical effects. Additionally, when a creature succeeds on a save that causes half damage, it takes no damage.

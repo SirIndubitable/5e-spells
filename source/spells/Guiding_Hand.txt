@@ -1,0 +1,7 @@
+Guiding Hand
+1st-level Divination
+Casting Time: 1 minute (Ritual)
+Range: 5 feet
+Components: V, S
+Duration: Concentration, Up to 8 hours
+You create a Tiny incorporeal hand in an unoccupied space you can see. The hand disappears if you teleport or travel to a different plane. When the hand appears, name a major landmark on the same plane as you. Someone must have visited and mapped the site, or else the spell fails. Whenever you move toward the hand, it moves away from you and toward the landmark, always remaining 5 feet away. If you don’t move toward the hand, it remains in place and beckons you to follow it once every 1d4 minutes.

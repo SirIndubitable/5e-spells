@@ -1,0 +1,8 @@
+Reincarnate
+5th-level Transmutation
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M (1000gp rare oils, unguents; consumed)
+Duration: Instantaneous
+Touch a dead humanoid, or a piece of one, that's died in the last 10 days. The spell makes a new adult body for its soul. If the target's soul isn't free or willing to come back to life, the spell fails. 
+The DM picks the new body, or rolls a d100. The number rolled determines the new body for the soul, which may not be the same race as the old body. The creature remembers its old life and retains its capabilities save for its racial traits, which must be changed if it's given a new race.

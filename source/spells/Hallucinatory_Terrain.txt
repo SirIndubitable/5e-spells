@@ -1,0 +1,8 @@
+Hallucinatory Terrain
+4th-level Illusion
+Casting Time: 10 minutes
+Range: 300 feet
+Components: V, S, M (Stone, twig, green plant)
+Duration: 24 hours
+You make natural terrain in a 150-foot cube in range look, sound, and smell like some other natural terrain. Manufactured structures, equipment, and creatures within the area aren't changed in appearance.
+The base terrain is unchanged, so anyone entering the area can see through the illusion. If the difference isn't obvious by touch, a creature can attempt an Investigation check. A creature who learns it's an illusion sees it as a vague image over the terrain.

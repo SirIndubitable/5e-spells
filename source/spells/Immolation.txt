@@ -1,0 +1,8 @@
+Immolation
+5th-level Evocation
+Casting Time: 1 action
+Range: 90 feet
+Components: V
+Duration: Concentration, Up to 1 minute
+Choose a creature you can see to make a Dexterity save. It takes 8d6 fire damage on a failed save, or half as much on a success. Also on a failure, the target is wreathed in fire. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. At the end of its turns, it repeats the save. It takes 4d6 fire damage on a failed save, and ends the spell on a success. The flames can't be extinguished by nonmagical means.
+If this spell kills the target, it's turned to ash.

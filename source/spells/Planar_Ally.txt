@@ -1,0 +1,10 @@
+Planar Ally
+6th-level Conjuration
+Casting Time: 10 minutes
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+You ask a being of cosmic power you know for aid. That entity sends a celestial, elemental, or fiend loyal to it to aid you. It appears in an unoccupied space within range. If you know a specific creature's name, you can request it, though you might get a different creature anyway.
+When the creature appears, it's under no compulsion to behave in any particular way. You can ask the creature to do something in exchange for payment, but it isn't obliged to do so. The requested task can range from simple to complex. You must be able to communicate with the creature to bargain for its services.
+After the creature completes the task or the duration of service expires, the creature returns to its home plane after reporting back to you. If you are unable to agree on a price, the creature returns to its home plane.
+A creature enlisted to join your group counts as a member of it, receiving a full share of experience points.

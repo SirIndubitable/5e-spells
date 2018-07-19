@@ -1,0 +1,12 @@
+Infernal Calling
+5th-level Conjuration
+Casting Time: 1 minute
+Range: 90 feet
+Components: V, S, M (999gp ruby)
+Duration: Concentration, Up to 1 hour
+You summon a devil from the Nine Hells. You choose the devil's type, which must be of challenge rating 6 or lower. The devil appears in an unoccupied space that you can see. It disappears when it drops to 0 hit points or when the spell ends.
+The devil is unfriendly toward you and your companions. Roll initiative for it. It is under the Dungeon Master's control and acts according to its nature.
+On your turn, you can use a free action to issue a verbal command. It obeys the command if the likely outcome is in accordance with its desires. Otherwise, you must make a Charisma check contested by its Insight. You have advantage if you say the devil's true name. If your check fails, the devil becomes immune to your verbal commands, though it can follow them if it chooses. If your check succeeds, the devil carries out your command until it completes the activity, at which point it returns to you to report having done so.
+If your concentration ends before the duration is up, the devil doesn't disappear if it's immune to your verbal commands. Instead, it acts however it chooses for 3d6 minutes, and then disappears.
+If you possess an individual devil's talisman, you can summon that devil if it is of the appropriate challenge rating plus 1, and it obeys all your commands with no Charisma check required.
+At Higher Levels: The challenge rating increases by 1 for each slot level above 5th.

@@ -1,0 +1,7 @@
+Tongues
+3rd-level Divination
+Casting Time: 1 action
+Range: Touch
+Components: V, M (Clay model of ziggurat)
+Duration: 1 hour
+A creature you touch understands any spoken language it hears. When it speaks, any creature that knows at least one language can hear and understand it.

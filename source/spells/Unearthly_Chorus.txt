@@ -1,0 +1,7 @@
+Unearthly Chorus
+1st-level Illusion
+Casting Time: 1 action
+Range: Self (30ft radius)
+Components: V
+Duration: Concentration, Up to 10 minutes
+Music of a style you choose fills the air around you. The music spreads around corners and can be heard from up to 100 feet away. The music moves with you. Until the spell ends, you make Performance checks with advantage. In addition, you can use a bonus action to force a creature that can see and hear the music make a Charisma save. If you're attacking it, it automatically passes. On a failure, the creature becomes friendly to you for as long as it can hear the music and for 1 hour after. You make Deception and Persuasion checks against creatures made friendly by this spell with advantage.

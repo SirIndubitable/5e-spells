@@ -1,0 +1,10 @@
+Find Vehicle
+2nd-level Conjuration
+Casting Time: 10 minutes
+Range: 30 feet
+Components: V, S
+Duration: 8 hours
+You summon a spirit that assumes the form of a nonmilitary land vehicle of your choice. The vehicle has the statistics of a normal vehicle of its sort, though it is celestial, fey, or fiendish (your choice) in origin.
+While driving the vehicle, you are considered proficient with vehicles of its type. You add double your proficiency bonus to ability checks related to driving it. Spells that target yourself can also target your vehicle.
+When the vehicle drops to 0 hit points, it disappears. You can't have more than one vehicle bonded by this spell at a time. As an action, you can release the vehicle from its bond at any time, causing it to disappear.
+At Higher Levels: When you cast this spell using a 3rd or 4th level slot, you can conjure a nonmilitary water vehicle large enough to carry six medium creatures. If you use a 5th or 6th level slot, you can conjure a nonmilitary air vehicle large enough to carry ten medium creatures. If you use 7th level or higher, you can conjure any type of vehicle.

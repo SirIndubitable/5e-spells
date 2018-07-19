@@ -1,0 +1,8 @@
+Circle of Death
+6th-level Necromancy
+Casting Time: 1 action
+Range: 150 feet
+Components: V, S, M (500gp black pearl powder)
+Duration: Instantaneous
+Each creature in a 60-foot-radius sphere from a point within range must make a Constitution saving throw, taking 8d6 necrotic damage on a failed save, or half as much on a success.
+At Higher Levels: The damage increases by 2d6 for each slot level above 6th.

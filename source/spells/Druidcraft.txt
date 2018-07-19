@@ -1,0 +1,7 @@
+Druidcraft
+Transmutation cantrip
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+You create one of the following effects within range:

@@ -1,0 +1,10 @@
+Conjure Vrock
+5th-level Conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (100gp or more gem; consumed)
+Duration: Concentration, Up to 1 hour
+You summon a vrock that appears in an unoccupied space you can see. It disappears when it drops to 0 hit points or when the spell ends.
+The vrock's attitude depends on the value of the gem used as a material component for this spell. Roll initiative for the vrock. At the start of its turn, the DM makes a secret Charisma check for you, with a bonus equal to the gem's value divided by 20. The DC starts at 10 and increases by 2 each round. You can issue orders to the vrock that it will obey if you succeed on the check.
+If you fail on the check, the vrock is no longer controlled and your concentration ends. The vrock takes no actions on its next turn and uses its telepathy to tell creatures it can see that it'll fight in exchange for treasure. The creature that gives the most expensive gem can command it for the next 1d6 rounds. At the end of that time, it offers again. If no one offers anything before the vrock's next turn begins, it attacks the nearest creatures for 1d6 rounds, then returns to the Abyss.
+As part of casting the spell, you can make a circle on the ground using the blood of an intelligent humanoid killed in the last 24 hours. The circle encompasses your space. The summoned vrock can't cross the circle or target anyone in it while the spell lasts.

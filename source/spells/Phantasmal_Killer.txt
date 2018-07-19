@@ -1,0 +1,8 @@
+Phantasmal Killer
+4th-level Illusion
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, Up to 1 minute
+A creature you can see must make a Wisdom saving throw. On a failed save, the target becomes frightened for the duration and takes 4d10 psychic damage at the start of its turns. At the end of its turn, it makes a Wisdom save. On a success, the spell ends.
+At Higher Levels: The damage increases by 1d10 for each slot level above 4th.

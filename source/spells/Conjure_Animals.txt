@@ -1,0 +1,10 @@
+Conjure Animals
+3rd-level Conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, Up to 1 hour
+Fey appear in occupied spaces in range that you see. Choose one of the following options for what appears:
+Each beast is considered fey and beast. It disappears when it drops to 0 hit points or when the spell ends.
+The beasts are friendly to you and your companions. They have their own initiative, but as a group. They obey any verbal commands that you issue to them, no action required. If you don't issue any commands to them, they only defend themselves from hostile creatures.
+At Higher Levels: Twice as many creatures appear with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.

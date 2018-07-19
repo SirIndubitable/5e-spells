@@ -1,0 +1,11 @@
+Find Greater Steed
+4th-level Conjuration
+Casting Time: 10 minutes
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Your summon a steed that takes on a form that you choose: griffon, pegasus, peryton, dire wolf, rhinoceros, or saber-toothed tiger. The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice). If your steed has an intelligence of 5 or less, its intelligence becomes 6 and it gains the ability to understand one language that you speak.
+The steed serves as a mount, and while mounted on your steed, spells that target yourself also target your steed. While the steed is within 1 mile of you, you can communicate with it telepathically.
+When the steed drops to 0 hit points, it disappears. You can dismiss your steed at any time as an action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum.
+The mount disappears temporarily if it reaches 0 hit points or you dismiss it as an action. Casting the spell again re-summons it, and restores all hit points and cures any conditions.
+You cannot have more than one steed from this spell or Find Steed at a time. As an action, you can release the steed from its bond. Whenever it disappears, it leaves behind what it was carrying or wearing.

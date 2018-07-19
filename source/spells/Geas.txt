@@ -1,0 +1,10 @@
+Geas
+5th-level Enchantment
+Casting Time: 1 minute
+Range: 60 feet
+Components: V
+Duration: 30 days
+You place a command on a creature that you can see, forcing it to do or refrain from doing some action or activity you decide. The command can be anything except something that would obviously cause the target to die.
+If the creature can't understand you, this spell has no effect. If it can understand you, it must succeed a Wisdom save or become charmed by you. While the creature is charmed, it takes 5d10 psychic damage each time it does something that directly counters to your instructions, but no more than once each day.
+You can end the spell early by using an action to dismiss it. A Remove Curse, Greater Restoration, or Wish spell also ends it.
+At Higher Levels: When you cast this using a 7th or 8th level spell slot, the duration is 1 year. If you use a 9th level slot, the spell lasts until it is ended by one of the spells mentioned above.

@@ -1,0 +1,8 @@
+Shadow of Moil
+4th-level Necromancy
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (150gp gem with undead eyeball inside)
+Duration: Concentration, Up to 1 minute
+Dim light within 10 feet of you becomes darkness, and bright light becomes dim light. You become heavily obscured to others.
+Until the spell ends, you have resistance to radiant damage. In addition, whenever a creature within 10 feet of you hits you with an attack, it takes 2d8 necrotic damage.

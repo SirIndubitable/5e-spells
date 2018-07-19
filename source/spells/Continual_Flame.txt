@@ -1,0 +1,7 @@
+Continual Flame
+2nd-level Evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (50gp of ruby dust; consumed)
+Duration: Until dispelled
+A flame with a torch's brightness forms on an object you touch. It looks like a normal flame, but it emits no heat and doesn't use oxygen. The flame can be covered or hidden, but not put out.

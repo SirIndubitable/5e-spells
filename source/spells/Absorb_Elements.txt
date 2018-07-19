@@ -1,0 +1,8 @@
+Absorb Elements
+1st-level Abjuration
+Casting Time: 1 reaction
+Range: Self
+Components: S
+Duration: 1 round
+When hit with acid, cold, fire, lightning, or thunder damage, you can use your reaction to have resistance to it until the start of your next turn, including against the triggering attack. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 of the damage type.
+At Higher Levels: The extra damage increases by 1d6 for each slot level above 1st.

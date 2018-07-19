@@ -1,0 +1,7 @@
+Crusader's Mantle
+3rd-level Evocation
+Casting Time: 1 action
+Range: Self (30ft radius)
+Components: V
+Duration: Concentration, Up to 1 minute
+You create 30-foot radius aura around you. The aura moves with you and remains centered on you. While in the aura, you and your allies deal an extra 1d4 radiant damage with weapon attacks.

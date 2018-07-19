@@ -1,0 +1,9 @@
+Call Lightning
+3rd-level Conjuration
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, Up to 10 minutes
+A 10-foot tall, 60-foot radius storm cloud cylinder appears 100 feet above you, with you as the center point. The spell fails if your location can't accommodate the cloud's size or height, or if you can't see 100 feet above you. When you cast the spell, choose a point in range from the cloud for lightning to strike. Each creature within 5 feet must make a Dexterity save, taking 3d10 lightning damage on a fail and half on a success. While the spell persists, you can use your action to call lightning to a point in range again.
+If you're outdoors and in a storm, the spell gives you control of the storm rather than creating a new one. The lightning damage also increases by 1d10.
+At Higher Levels: The damage increases by 1d10 for each slot level above 3rd.

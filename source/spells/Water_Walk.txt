@@ -1,0 +1,7 @@
+Water Walk
+3rd-level Transmutation
+Casting Time: 1 action (Ritual)
+Range: 30 feet
+Components: V, S, M (Cork)
+Duration: 1 hour
+Up to 10 willing creatures you can see gain the ability to move across any liquid surface as if it were harmless solid ground. Molten lava can still deal damage from its heat. If you target a creature submerged in liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.

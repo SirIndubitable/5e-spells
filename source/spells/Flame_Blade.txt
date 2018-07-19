@@ -1,0 +1,10 @@
+Flame Blade
+2nd-level Evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S, M (Sumac leaf)
+Duration: Concentration, Up to 10 minutes
+You create a fiery blade in a free hand. The blade is similar to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can summon the blade again as a bonus action.
+You can use your action to make a melee spell attack with the blade. On hit, the target takes 3d6 fire damage.
+The blade sheds bright light for 10 feet and dim light for an extra 10 feet.
+At Higher Levels: The damage increases by 1d6 for every two slot levels above 2nd.

@@ -1,0 +1,7 @@
+Gentle Repose
+2nd-level Necromancy
+Casting Time: 1 action (Ritual)
+Range: Touch
+Components: V, S, M (Salt and copper on corpse's eyes; must remain for duration)
+Duration: 10 days
+For the duration, the target is protected from decay and can't become undead. The spell also extends the time limit on raising the target from the dead from spells such as Raise Dead.

@@ -1,0 +1,9 @@
+Lightning Arrow
+3rd-level Transmutation
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S
+Duration: Concentration, Up to 1 minute
+The next time you make a ranged weapon attack, the weapon (if thrown) or its ammunition transform into a bolt of lightning. Make the attack roll as normal. The target takes 4d8 lightning damage on a hit, or half damage on a miss. This replaces the weapon's normal attack.
+Hit or miss, each creature within 10 feet of the target must make a Dexterity save. Each creatures takes 2d8 lightning damage on a failed save, or half damage on a success. The weapon or ammunition then returns to its normal form.
+At Higher Levels: The damage for both effects of the spell increases by 1d8 for each slot level above 3rd.

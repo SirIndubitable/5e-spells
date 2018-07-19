@@ -1,0 +1,10 @@
+Conjure Minor Elementals
+4th-level Conjuration
+Casting Time: 1 minute
+Range: 90 feet
+Components: V, S
+Duration: Concentration, Up to 1 hour
+Elementals appear in unoccupied spaces that you can see. Choose one the following options:
+An elemental disappears when it drops to 0 hit points or when the spell ends.
+The elementals are friendly to you and your companions. Roll initiative for the summoned creatures as a group. They obey any verbal commands that you issue to them, no action required from you. If you don't issue a commands, they do nothing but defend themselves from hostile creatures.
+At Higher Levels: Twice as many elementals appear if you cast this spell with a 6th-level slot, and three times as many appear with an 8th-level slot.

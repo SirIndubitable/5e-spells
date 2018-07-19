@@ -1,0 +1,11 @@
+Summon Greater Demon
+4th-level Conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (Vial of blood from humanoid killed in past 24hrs)
+Duration: Concentration, Up to 1 hour
+You summon a demon from the Abyss. You choose the demon. It must be of challenge rating 5 or lower. It appears in an empty space you can see, and it disappears when it drops to 0 hit points.
+Roll initiative for it. When you summon it and on each of your turns, you can issue a verbal command for its next turn without using any action. If you issue no command, it attacks any creature in reach that's attacked it.
+At the end of the demon's turns, it makes a Charisma save. It has disadvantage if you say its true name. On a success, your control of the demon ends and it spends its turns attacking the nearest non-demon. If you stop concentrating, an uncontrolled demon doesn't disappear for 1d6 rounds if it still has hit points.
+As part of casting, you can make a circle on the ground with the material blood. The circle encompasses your space. The demons can't cross or harm the circle, or target anyone in it. Using the blood this way consumes it.
+At Higher Levels: The challenge rating increases by 1 for each slot level above 4th.

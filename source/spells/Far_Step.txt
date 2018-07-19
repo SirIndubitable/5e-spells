@@ -1,0 +1,7 @@
+Far Step
+5th-level Conjuration
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, Up to 1 minute
+You teleport up to 60 feet to an unoccupied space you can see. On your turn, you can use a bonus action to teleport again.

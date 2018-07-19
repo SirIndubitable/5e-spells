@@ -1,0 +1,9 @@
+Forbiddance
+6th-level Abjuration
+Casting Time: 10 minutes (Ritual)
+Range: Touch
+Components: V, S, M (Holy water, rare incense, 1000gp powdered ruby)
+Duration: 1 day
+You create a ward up to 40,000 sq ft big and 30 ft high against magical travel. For the duration, creatures can't teleport into the area or use portals to enter the area. The spell also proofs the area against planar travel.
+In addition, the spell damages celestials, elementals, fey, fiends, and undead. Choose one or more types when you cast the spell. When one enters the spell's area or starts its turn there, it takes 5d10 radiant or necrotic damage-- your choice when you cast this spell. When you cast this spell, you can make a password. A creature that says the password as it enters takes no damage.
+The spell's area can't overlap with another Forbiddance spell. If you cast this spell every day for 30 days in the same location, it lasts until dispelled, and the material components are consumed on the last casting.

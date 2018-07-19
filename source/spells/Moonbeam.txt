@@ -1,0 +1,11 @@
+Moonbeam
+2nd-level Evocation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (Moonseed plant seeds, opalescent feldspar)
+Duration: Concentration, Up to 1 minute
+A beam of light shines in a 5-foot-radius, 40-foot-high cylinder. Until the spell ends, dim light fills the cylinder.
+When a creature enters the spell's area for the first time on a turn or starts its turn there, it must make a Constitution save. It takes 2d10 radiant damage on a failed save, or half as much on a success. 
+A shapechanger makes its save with disadvantage. If it fails, it instantly reverts to its original form and can't change form until it leaves the spell's light.
+On your turn, you can use an action to move the beam up to 60 feet.
+At Higher Levels: The damage increases by 1d10 for each slot level above 2nd.

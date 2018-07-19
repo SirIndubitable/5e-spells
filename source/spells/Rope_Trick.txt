@@ -1,0 +1,10 @@
+Rope Trick
+2nd-level Transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (Powdered corn extract, twisted parchment loop)
+Duration: 1 hour
+You touch a length of rope that is up to 60 feet long. One end of the rope rises into the air until the whole rope hangs above the ground. At the top of the rope, an invisible entrance to an extradimensional space opens.
+The space can be reached by climbing to the top of the rope. The space can hold up to eight Medium or smaller creatures. The rope can be pulled into the space, making it disappear from view.
+Attacks and spells can't cross the entrance of the space, but those inside can see out of it through a 3-by-5-foot window centered on the rope.
+Anything inside the extradimensional space drops out when the spell ends.

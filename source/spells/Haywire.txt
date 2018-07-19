@@ -1,0 +1,9 @@
+Haywire
+3rd-level Enchantment
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S
+Duration: Concentration, Up to 1 hour
+Each electronic device in a 10-foot-radius sphere centered is subject to random behavior while it's in the area. Unheld devices are automatically affected. If a device is being held by a creature, the creature must succeed a Wisdom save or the device is affected by the spell.
+At the start of your turns, roll a d6 for each affected device. The behavior lasts until the start of your next turn unless otherwise stated.
+At Higher Levels: The radius of the sphere increases by 5 feet for each slot level above 3rd.

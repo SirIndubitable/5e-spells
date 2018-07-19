@@ -1,0 +1,10 @@
+Bones of the Earth
+6th-level Transmutation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+Up to six cylindrical stone pillars burst from the ground at a point you can see (you can target the ground under a Medium creature or smaller). Each pillar has a diameter of 5 feet, a height of up to 30 feet, an AC of 5, and 30 hit points. When reduced to 0 hit points, an area within a 10-foot radius of the pillar becomes difficult terrain and lasts until cleared (each 5-foot diameter portion of the area takes 1 minute to clear by hand).
+If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.
+If a pillar is prevented from reaching its full height, a creature on the pillar takes 6d6 bludgeoning damage and is restrained. The restrained creature can use an action to make a Strength or Dexterity check (the creature’s choice) against the spell’s save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.
+At Higher Levels: You can create two additional pillars for each slot level above 6th.

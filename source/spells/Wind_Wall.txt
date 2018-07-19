@@ -1,0 +1,8 @@
+Wind Wall
+3rd-level Evocation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (Tiny fan, exotic feather)
+Duration: Concentration, Up to 1 minute
+You make a wall of wind up to 50 feet long, 15 feet high, and 1 foot thick, and can shape it any way you choose so long as it makes one continuous path along the ground. When the wall appears, each creature in its area must make a Strength save. A creature takes 3d8 bludgeoning damage on a failed save, or half damage on a success. The wind keeps gases at bay.
+Small or smaller flying creatures or objects, or creatures in gaseous form, can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall automatically miss.

@@ -1,0 +1,11 @@
+Dominate Beast
+4th-level Enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, Up to 1 minute
+A beast you can see must succeed on a Wisdom save or be charmed. If you or your companions are fighting it, it has advantage.
+While it's charmed, you have a telepathic link to it if you're on the same plane. You can use this link to issue commands while you are conscious, no action required, which it does its best to obey. You can specify a simple and general course of action. If it completes the order and doesn't receive further orders, it focuses on defending itself.
+You can use your action to take total control of the target. Until the end of your next turn, the beast takes only the actions you decide and nothing you don't allow it to. You can also have the beast use a reaction, but this takes your reaction as well.
+If the beast takes damage, it makes another Wisdom save. On a success, the spell ends.
+At Higher Levels: When you cast this spell using a 5th-level slot, the duration is up to 10 minutes. At a 6th-level slot, the duration is up to 1 hour. At a slot of 7th or higher, the duration is up to 8 hours.

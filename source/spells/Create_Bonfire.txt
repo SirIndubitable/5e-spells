@@ -1,0 +1,9 @@
+Create Bonfire
+Conjuration cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, Up to 1 minute
+A magic bonfire fills a 5-foot cube. Any creature in the fire's space must pass a Dexterity save or take 1d8 fire damage. A creature must also make the save when it moves into the bonfire's space or ends its turn there.
+The bonfire ignites flammable objects in its area that aren't being worn or carried.
+The spell's damage increases by 1d8 when you reach 5th, 11th, and 17th level.

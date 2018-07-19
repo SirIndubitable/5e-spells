@@ -1,0 +1,9 @@
+Tiny Servant
+3rd-level Transmutation
+Casting Time: 1 minute
+Range: Touch
+Components: V, S
+Duration: 8 hours
+Touch a Tiny nonmagical object that isn't attached to or carried by anything. It animates, and sprouts arms and legs. When it drops to 0 hit points, it reverts to its original form, and any remaining damage carries over.
+As a bonus action, you can mentally command the creature if it is within 120 feet of you. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. Once given an order, the servant continues to follow that order until its task is complete.
+At Higher Levels: You can animate two additional objects for each slot level above 3rd. You can command all on the same bonus action.

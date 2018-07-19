@@ -1,0 +1,8 @@
+Enemies Abound
+3rd-level Enchantment
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, Up to 1 minute
+You force one creature you can see to make an Intelligence save. It automatically succeeds if it's immune to being frightened. On a failure, the target regards all creatures it can see as enemies, allies included. Each time the target takes damage, it can repeat the save, ending the effect on a success.
+Whenever the creature chooses a target, it must choose at random from among the creatures it can see within range. If an enemy provokes an opportunity attack, the creature must make that attack if it's able to.

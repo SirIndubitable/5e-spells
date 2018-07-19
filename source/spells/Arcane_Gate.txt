@@ -1,0 +1,9 @@
+Arcane Gate
+6th-level Conjuration
+Casting Time: 1 action
+Range: 500 feet
+Components: V, S
+Duration: Concentration, Up to 10 minutes
+You create two linked portals, one at a point within 10 feet of you, and another at a point within 500 feet. If the space is occupied by a creature, the spell fails and the casting is lost. It lasts for the duration.
+The portals are two-dimensional rings equal to 10 feet in diameter, hovering perpendicular to the ground. A ring is visible only from one side (your choice), which is the side that functions as a portal.
+The portals block vision through them, and passing through a portal from the non-portal side has no effect. On your turn, you can rotate the rings as a bonus action.

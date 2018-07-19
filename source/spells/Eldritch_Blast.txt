@@ -1,0 +1,8 @@
+Eldritch Blast
+Evocation cantrip
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+Make a ranged spell attack. On hit, the target takes 1d10 force damage.
+The spell creates more beams when you reach higher levels: two at 5th, three at 11th, and four at 17th. You can direct the beams at the same or different targets. Make separate attack rolls for each beam.

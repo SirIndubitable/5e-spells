@@ -1,0 +1,8 @@
+Earth Tremor
+1st-level Evocation
+Casting Time: 1 action
+Range: 10 feet
+Components: V, S
+Duration: Instantaneous
+Each creature besides you must make a Dexterity save. On a fail, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth, it becomes difficult terrain until cleared. Each 5-foot diameter portion requires at least 1 minute to clear by hand.
+At Higher Levels: The damage increases by 1d6 for each slot level above 1st.

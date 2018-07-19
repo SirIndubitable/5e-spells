@@ -1,0 +1,7 @@
+Remote Access
+1st-level Transmutation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: 10 minutes
+You can use any electronic device as if you were holding it. This is not telekinesis, but rather, it allows you to simulate a device's functions. You are only able to access functions that a person using the device manually could access, and can only target one device at a time.

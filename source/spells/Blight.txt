@@ -1,0 +1,9 @@
+Blight
+4th-level Necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+A creature you can see must make a Constitution save. It takes 8d8 necrotic damage on a failed save, or half as much on a success. This spell has no effect on undead or constructs.
+If you target a plant creature or magical plant, it saves with disadvantage, and the spell deals maximum damage. If you target a non-magical plant that isn't a creature, it automatically dies.
+At Higher Levels: The damage increases by 1d8 for each slot level above 4th.

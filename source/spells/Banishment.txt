@@ -1,0 +1,10 @@
+Banishment
+4th-level Abjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (Item distasteful to target)
+Duration: Concentration, Up to 1 minute
+A creature you can see must succeed a Charisma save or be banished to another plane of existence.
+If the target is native to the plane you're on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains until the spell ends, to which the target reappears in the space it left or in the nearest unoccupied space if it's occupied.
+If the target is native to a different plane of existence than the one you're on, the target is banished to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn't return.
+At Higher Levels: You can target one additional creature for each slot above 4th.

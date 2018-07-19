@@ -1,0 +1,9 @@
+System Backdoor
+4th-level Transmutation
+Casting Time: 1 minute
+Range: Personal
+Components: V, S, M (Hacking tools)
+Duration: Concentration, Up to 1 hour
+You bypass system security in order to create a login. The login you make allows you administrator-level privileges in any computer not enhanced by technomagic. The login defeats technomagic of 3rd level or lower.
+Once the spell ends, the login and privileges are wiped from the system. System logs still show the activity of the user, but the user identification cannot be found or traced.
+At Higher Levels: You are able to bypass technomagic spells if the spell's level is equal to or less than the level of the spell slot you used.

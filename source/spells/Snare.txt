@@ -1,0 +1,10 @@
+Snare
+1st-level Abjuration
+Casting Time: 1 minute
+Range: Touch
+Components: S, M (25ft of rope; consumed)
+Duration: 8 hours
+As you cast this spell, you use the rope to create a 5-foot radius circle on the ground. When you finish casting, the rope disappears and becomes a magic trap. This trap is nearly invisible. A creature needs to pass a successful Investigation check against your spell save DC to find it.
+The trap triggers when a Small, Medium, or Large creature moves into the spell's radius. That creature must succeed on a Dexterity saving throw or be pulled into the air, leaving it hanging upside down 3 feet above the ground. The creature is restrained.
+The creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Arcana check against your spell save DC. On a success, the restrained effect ends.
+After the trap is triggered, the spell ends when no creature is restrained by it.

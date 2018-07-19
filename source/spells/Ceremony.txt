@@ -1,0 +1,7 @@
+Ceremony
+1st-level Abjuration
+Casting Time: 1 hour (Ritual)
+Range: Touch
+Components: V, S, M (25gp of powdered silver; consumed)
+Duration: Instantaneous
+When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.

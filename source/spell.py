@@ -57,11 +57,13 @@ class Spell:
             components_without_material = components_string.replace(material_components_match.group(0), '')
             components_without_material = components_without_material.strip()
 
-        components.extend(re.split('[\W_]', components_without_material.upper()))
+        components_without_material = components_without_material.upper()
+        if 'V' in components_without_material:
+            components.append('V')
+        if 'S' in components_without_material:
+            components.append('S')
         if material_components_match is not None:
             components.append(material_components_match.group(0))
-        if len(components) > 3:
-            raise Exception(components)
         return components
 
     def _parse_info_dict(self, info_dict):

@@ -1,0 +1,9 @@
+Clairvoyance
+3rd-level Divination
+Casting Time: 10 minutes
+Range: 1 mile
+Components: V, S, M (100gp jeweled horn (hearing)/100gp glass eye (seeing))
+Duration: Concentration, Up to 10 minutes
+You make an invisible sensor in a location you've visited or seen, or in an obvious location that you haven't. The sensor remains for the duration and can’t be interacted with. 
+Choose seeing or hearing. You can see or hear as if you are where the sensor is. As an action, you can switch which sense. 
+If something can see it, it sees a luminous, intangible, fist-sized orb.

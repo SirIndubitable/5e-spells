@@ -1,0 +1,8 @@
+Blindness/Deafness
+2nd-level Necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V
+Duration: 1 minute
+Choose a creature that you can see to make a Constitution save. If it fails, the target is either your choice of blinded or deafened. At the end of its turns, the target can repeat the save. On a success, the spell ends.
+At Higher Levels: You can target one additional creature for each slot level above 2nd.

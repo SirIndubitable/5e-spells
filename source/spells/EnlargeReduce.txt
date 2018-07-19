@@ -1,0 +1,8 @@
+Enlarge/Reduce
+2nd-level Transmutation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M (Powdered iron)
+Duration: Concentration, Up to 1 minute
+Choose a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.
+If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.

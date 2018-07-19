@@ -1,0 +1,7 @@
+Locate Object
+2nd-level Divination
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (Forked twig)
+Duration: Concentration, Up to 10 minutes
+Describe or name an object. You sense the direction to the object's location, as long as it's within 1000 feet of you. If the object is in motion, you know the direction of its movement. The spell can locate a specific object known to you, as long as you've seen it while within 30 feet of it. Alternatively, the spell can locate the nearest object of a particular kind. This spell fails if any thickness of lead blocks a direct path between you and the object.

@@ -1,0 +1,7 @@
+Aura of Purity
+4th-level Abjuration
+Casting Time: 1 action
+Range: Self (30ft radius)
+Components: V
+Duration: Concentration, Up to 10 minutes
+You radiate an aura with a 30-foot radius. The aura moves with you, centered on you. Each ally in the aura, yourself included, can't become diseased, has resistance to poison damage, and has advantage on saving throws against effects that cause blindness, charm, deafness, frighten, paralysis, poison, and stun.

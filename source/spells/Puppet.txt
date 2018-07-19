@@ -1,0 +1,7 @@
+Puppet
+1st-level Enchantment
+Casting Time: 1 action
+Range: 120 feet
+Components: S
+Duration: Instantaneous
+You force one humanoid you can see to make a Constitution save. If it fails, it must move up to its speed in a direction you choose. You can also cause the target to drop whatever it's holding. This spell has no effect on creatures immune to being charmed.

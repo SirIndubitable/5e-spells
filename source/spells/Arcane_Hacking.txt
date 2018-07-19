@@ -1,0 +1,8 @@
+Arcane Hacking
+2nd-level Transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (Hacking tools)
+Duration: Concentration, Up to 1 hour
+You gain advantage on all Intelligence checks using hacking tools to break software encryption or online security when using a foreign system. This spell also allows you to break 2nd-level and lower protective spells by making an Intelligence check against the caster's save DC.
+At Higher Levels: You can attempt to counteract a spell if its level is equal to or less than the level of the spell slot you used.

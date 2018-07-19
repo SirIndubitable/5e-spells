@@ -1,0 +1,11 @@
+Detect Thoughts
+2nd-level Divination
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (Copper piece)
+Duration: Concentration, Up to 1 minute
+When you cast the spell, and as your action on each turn until the spell ends, you can focus your mind on a creature you can see within 30 feet of you. It must have an Intelligence score of at least 4 or your probe fails.
+You initially learn what is on its mind in that moment. As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning, its emotional state, and some long-term worry. If it succeeds, the spell ends.
+Either way, the target knows that you are probing into its mind, and unless you read another creature's thoughts, it can use its action to make an Intelligence check versus your's; if it succeeds, the spell ends.
+You can also use this spell to detect thoughts. When you cast the spell or as your action during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can't detect a creature with an Intelligence of 3 or lower or one that doesn't speak any language.
+Once you detect a creature in this way, you can read its thoughts for the duration even if you can't see it, but it must still be within 30 feet of you.

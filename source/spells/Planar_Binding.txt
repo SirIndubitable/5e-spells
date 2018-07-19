@@ -1,0 +1,9 @@
+Planar Binding
+5th-level Abjuration
+Casting Time: 1 hour
+Range: 60 feet
+Components: V, S, M (1000gp jewel; consumed)
+Duration: 24 hours
+You attempt to bind a celestial, elemental, fey, or fiend to your service. It must be within range for the entire casting of the spell. At completion, it makes a Charisma save. If it fails, it's bound to serve you for the duration. If the creature was brought by another spell, its duration is extended.
+A bound creature must follow your instructions to the best of its ability. It obeys the letter of your instructions, but if it's hostile, it may twist your words to achieve its own goals. If the creature carries out your instructions completely before the spell ends, it reports this to you if you're on the same plane of existence. If you're not, it returns to where you bound it and remains there until the spell ends.
+At Higher Levels: When you cast this spell using a 6th-level slot, the duration increases to 10 days. With a 7th-level slot, 30 days. With an 8th-level slot, 180 days. At 9th-level, a year and a day.

@@ -1,0 +1,9 @@
+Slow
+3rd-level Transmutation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (Molasses)
+Duration: Concentration, Up to 1 minute
+Up to six creatures of your choice in a 40-foot cube must succeed a Wisdom save or have halved speed, a -2 penalty to AC and Dexterity saves, and it can't use reactions. On its turn, it can only use an action or bonus action, not both. It also can't make more than one attack during its turn despite items or abilities.
+If the creature casts a spell with a time of 1 action, roll a d20. On an 11+, the spell can't take effect until the creature's next turn, and it must use its action on that turn to complete the spell. If it can't, the spell is wasted.
+A creature affected by this spell can a make Wisdom save at the end of its turn. On a success, the effect ends.

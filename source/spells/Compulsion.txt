@@ -1,0 +1,9 @@
+Compulsion
+4th-level Enchantment
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, Up to 1 minute
+Creatures of your choice that you can see and that can hear you must make a Wisdom save. It automatically succeeds if it can’t be charmed. 
+Until the spell ends, you can use your bonus action to designate a direction horizontal to you. Each target must use its movement to move in that direction on its turn. It can take its action before it moves. After moving, it can make another Wisdom save. 
+A target isn't compelled to move into a deadly hazard, but is willing to provoke opportunity attacks.

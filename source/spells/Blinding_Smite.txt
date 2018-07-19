@@ -1,0 +1,7 @@
+Blinding Smite
+3rd-level Evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, Up to 1 minute
+The next creature you hit with a melee weapon attack must pass a Constitution save or be blinded until the spell ends. Your attack also deals an extra 3d8 radiant damage. The blinded creature makes a save at the end of its turns, and is no longer blinded on a success.

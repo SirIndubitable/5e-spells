@@ -1,0 +1,7 @@
+Invisibility to Cameras
+3rd-level Illusion
+Casting Time: 1 action
+Range: 10 feet
+Components: V, S, M (Black paper)
+Duration: Concentration, Up to 1 minute
+Up to four creatures of your choice become undetectable to electronic sensors and cameras. Anything the target is wearing or carrying is also undetectable, so long as it's on the target's person. The target is still visible to regular vision.

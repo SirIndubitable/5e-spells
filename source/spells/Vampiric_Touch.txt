@@ -1,0 +1,8 @@
+Vampiric Touch
+3rd-level Necromancy
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, Up to 1 minute
+Make a melee spell attack. On hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the damage dealt. Until the spell ends, you can use your action to make the attack again.
+At Higher Levels: The damage increased by 1d6 for each slot level above 3rd.

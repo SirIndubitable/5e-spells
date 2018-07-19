@@ -1,0 +1,8 @@
+Snilloc's Snowball Swarm
+2nd-level Evocation
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (Ice/white rock)
+Duration: Instantaneous
+Each creature in a 5-foot-radius sphere centered on a point must make a Dexterity save. A creature takes 3d6 cold damage on a failed save, or half as much on a success.
+At Higher Levels: The damage increases by 1d6 for each slot level above 2nd.

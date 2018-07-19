@@ -1,0 +1,7 @@
+Darkvision
+2nd-level Transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (Dried carrot/agate)
+Duration: 8 hours
+You touch a willing creature. For the duration, that creature has 60 feet of darkvision.

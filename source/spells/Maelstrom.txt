@@ -1,0 +1,7 @@
+Maelstrom
+5th-level Evocation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (Funnel-shaped paper/leaf)
+Duration: Concentration, Up to 1 minute
+5-foot-deep, 30-foot radius water swirls centered on a point you can see. The point must be on the ground or in a body of water. The area is difficult terrain. Any creature that starts its turn there must pass a Strength save or take 6d6 bludgeoning damage and be pulled 10 feet toward the center.

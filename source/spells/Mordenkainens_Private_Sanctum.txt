@@ -1,0 +1,9 @@
+Mordenkainen's Private Sanctum
+4th-level Abjuration
+Casting Time: 10 minutes
+Range: 120 feet
+Components: V, S, M (Lead, opaque glass, cotton/cloth, powdered chrysolite)
+Duration: 24 hours
+You make magically secure cube that's as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it. When you cast the spell, you decide what sort of security it provides:
+Casting this spell on the same spot every day for a year makes this effect permanent.
+At Higher Levels: You can increase the size of the cube by 100 feet for each slot level beyond 4th.

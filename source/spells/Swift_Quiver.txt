@@ -1,0 +1,8 @@
+Swift Quiver
+5th-level Transmutation
+Casting Time: 1 bonus action
+Range: Touch
+Components: V, S, M (Quiver with ammo)
+Duration: Concentration,, up to 1 minute
+On each of your turns, you can use a bonus action to make two attacks with a weapon that uses ammunition from a quiver you touch. Each time you make the attack, your quiver replaces the ammunition you used.
+Any ammunition created by this spell disintegrate when it ends. If the quiver leaves your possession, the spell ends.

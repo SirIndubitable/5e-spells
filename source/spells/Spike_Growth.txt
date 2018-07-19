@@ -1,0 +1,7 @@
+Spike Growth
+2nd-level Transmutation
+Casting Time: 1 action
+Range: 150 feet
+Components: V, S, M (7 sharp thorns/twigs)
+Duration: Concentration, Up to 10 minutes
+The ground in a 20-foot radius becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels. Any creature that can't see the area at the time of casting must make a Perception check against your spell save DC to recognize it as hazardous.

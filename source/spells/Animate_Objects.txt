@@ -1,0 +1,11 @@
+Animate Objects
+5th-level Transmutation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, Up to 1 minute
+Choose up to ten nonmagical objects that are not being worn or carried. A Medium target counts as two objects, a Large counts as four, and a Huge counts as eight. You can't animate an object larger than Huge. Each target becomes a creature under your control until the spell ends or it's reduced to 0 hit points. 
+As a bonus action, you can mentally command a creatures if it's within 500 feet of you. You can command multiple at the same time if the command is the same. You decide what action and movement the creature will take during its next turn, or issue a general command. If you issue no commands, it just defends itself against hostile creatures. Once given an order, the creature continues to follow it until it's complete.
+An animated object is a construct with some stats determined by its size. Its Constitution is 10, its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet. If it can't walk, it has a flying speed of 30 feet and hovers. If the object is securely attached to something, its speed is 0. It has blindsight with a radius of 30 feet. When the object drops to 0 hit points, it reverts to its original form, and remaining damage carries over. 
+It can make a single melee attack against a creature within 5 feet of it. The attack is determined by its size and deals bludgeoning damage. The DM can rule that it inflicts slashing or piercing damage based on its form.
+At Higher Levels: You can animate two additional objects for each slot level above 5th.

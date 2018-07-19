@@ -1,0 +1,9 @@
+Magic Mouth
+2nd-level Illusion
+Casting Time: 1 minute (Ritual)
+Range: 30 feet
+Components: V, S, M (Honeycomb, 10gp jade dust; consumed)
+Duration: Until dispelled
+Choose an object that you can see and that isn't being worn or carried by another creature. Then speak a message of 25 words or less. Finally, decide on a circumstance that'll trigger the object to say your message.
+When that circumstance occurs, a mouth appears on the object and recites the message in your voice and volume. When you cast this spell, you can have the spell end after it delivers its message, or it can remain and repeat its message whenever the trigger occurs.
+The triggering circumstance can be as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object.

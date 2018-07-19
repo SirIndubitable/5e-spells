@@ -1,0 +1,9 @@
+Contagion
+5th-level Necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: 7 days
+Make a melee spell attack. On hit, you afflict the creature with a disease of your choice from any of the ones described below.
+At the end of each of the target's turns, it makes a Constitution save. If it fails three times, the disease's effects last for the duration. If it succeeds three times, it recovers from the disease and the spell ends.
+Since this spell induces a natural disease, any effect that deals with disease applies to this spell.

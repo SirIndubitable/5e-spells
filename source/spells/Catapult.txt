@@ -1,0 +1,8 @@
+Catapult
+1st-level Transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: S
+Duration: Instantaneous
+Choose one object weighing up to 5 pounds that isn't being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground. It stops early if it hits a solid surface. If the object would strike a creature, the creature must make a Dexterity save. On a failed save, the object hits the target. The object and anything it strikes take 3d8 bludgeoning damage.
+At Higher Levels: The maximum weigh increases by 5 pounds and the damage increases by 1d8 for each slot level above 1st.

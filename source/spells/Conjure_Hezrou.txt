@@ -1,0 +1,10 @@
+Conjure Hezrou
+7th-level Conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (100gp or more food; consumed)
+Duration: Concentration, Up to 1 hour
+You summon a hezrou that appears in an unoccupied space you can see. It disappears when it drops to 0 hit points or when the spell ends.
+The hezrou's attitude depends on the value of the food used as a material component for this spell. Roll initiative for the hezrou. At the start of its turn, the DM makes a secret Charisma check for you, with a bonus equal to the food's value divided by 20. The DC starts at 10 and increases by 2 each round. You can issue orders to the hezrou that it will obey if you succeed on the check.
+If you fail on the check, your concentration ends and the hezrou is no longer controlled. It focuses on devouring any corpses it can see. If there are none, it attacks the nearest creature and eats anything it kills. If its hit points are reduced to below half its maximum, it returns to the Abyss.
+As part of casting the spell, you can make a circle on the ground using the blood of an intelligent humanoid killed in the last 24 hours. The circle encompasses your space. The summoned hezrou can't cross the circle or target anyone in it while the spell lasts.

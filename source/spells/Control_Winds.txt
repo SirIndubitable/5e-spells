@@ -1,0 +1,7 @@
+Control Winds
+5th-level Transmutation
+Casting Time: 1 action
+Range: 300 feet
+Components: V, S
+Duration: Concentration, Up to 1 hour
+You take control of the air in a 100-foot cube that you can see. Choose one of the following effects. The effect lasts for the duration, unless you use your action to switch to a different effect. You can also temporarily stop the effect or to restart one you've stopped.

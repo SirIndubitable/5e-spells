@@ -1,0 +1,9 @@
+Tree Stride
+5th-level Conjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration,, up to 1 minute
+You can enter a tree and teleport to another of the same kind within 500 feet. Both trees must be living and at least the same size as you. You use 5 feet of movement to enter a tree, but can leave as part of that. You learn the location of trees of the same kind when you enter.
+If you teleport, you appear beside the destination and use another 5 feet of movement. If you have no movement left, you do not teleport and are set beside the tree you entered.
+You can use this once per round for the duration. You must end each turn outside a tree.

@@ -1,0 +1,7 @@
+Banishing Smite
+5th-level Abjuration
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, Up to 1 minute
+The next time you hit with a weapon attack before the spell ends, the attack deals an extra 5d10 force damage. If the attack reduces the target to 50 hit points or less, you banish it. If the target is native to a different plane than the one you're on, the target returns to its home plane. If the target is native to the plane you're on, it vanishes to a harmless demiplane. While there, it's incapacitated. It remains there until the spell ends, to which the target reappears in the space it left or in the nearest unoccupied space if it can't.

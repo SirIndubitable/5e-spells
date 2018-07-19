@@ -1,0 +1,10 @@
+Conjure Elemental
+5th-level Conjuration
+Casting Time: 1 minute
+Range: 90 feet
+Components: V, S, M (Burning incense (air)/soft clay (earth)/sulfur, phosphorus (fire)/water, sand (water))
+Duration: Concentration, Up to 1 hour
+Choose an area of air, earth, fire, or water that fills a 10-foot cube. An elemental of challenge rating 5 or lower appears in an unoccupied space within 10 feet of it. The elemental disappears when it drops to 0 hit points or when the spell ends.
+The elemental is friendly to you and your companions. Roll initiative for it. It obeys any verbal commands that you give, no action required. If you don't issue any commands, it just defends itself from hostile creatures.
+If your concentration is broken, the elemental doesn't disappear. Instead, you lose control of the elemental, it becomes hostile and might attack .It can't be dismissed by you, and disappears 1 hour after you summoned it.
+At Higher Levels: The challenge rating increases by 1 for each slot level above 5th.

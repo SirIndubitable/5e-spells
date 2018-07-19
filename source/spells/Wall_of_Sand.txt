@@ -1,0 +1,7 @@
+Wall of Sand
+3rd-level Evocation
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (Sand)
+Duration: Concentration, Up to 10 minutes
+You make a wall of sand on the ground at a point you can see. You can make the wall up to 30 feet long, 10 feet high, and 10 feet thick. It vanishes when the spell ends. It blocks line of sight but not movement. A creature is blinded while in the wall and must spend 3 feet of movement for every 1 foot it moves.

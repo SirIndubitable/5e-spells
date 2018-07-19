@@ -1,0 +1,8 @@
+Phantom Steed
+3rd-level Illusion
+Casting Time: 1 minute (Ritual)
+Range: 30 feet
+Components: V, S
+Duration: 1 hour
+A Large horse-like creature appears. You decide its appearance, but it is equipped with a saddle, bit, and bridle. Any of the equipment created vanishes if it is carried more than 10 feet away from the steed.
+For the duration, you or a creature you choose can ride the steed. The creature uses the statistics for a riding horse, except it has a speed of 100 feet. It can travel 10 miles in an hour, or 13 miles at a fast pace. When the spell ends, the rider has 1 minute to dismount before it fully vanishes. The spell ends early if you use an action to dismiss it or if it takes any damage.

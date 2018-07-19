@@ -1,0 +1,7 @@
+Create Food and Water
+3rd-level Conjuration
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+You create 45 pounds of food and 30 gallons of water on the ground or in containers. The food spoils if uneaten after 24 hours. The water is clean and doesn't go bad.

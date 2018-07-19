@@ -1,0 +1,8 @@
+Melf's Minute Meteors
+3rd-level Evocation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (Bead of niter, sulfur, and pine tar)
+Duration: Concentration, Up to 10 minutes
+Six tiny meteors orbit around you for the spell's duration. When you cast the spell, and as a bonus action on subsequent turns, you can hurl up to two of the meteors to points you choose within 120 feet. It explodes if it reaches the point or hits a solid surface. Each creature within 5 feet of the explosion must make a Dexterity save. The explosion deals 2d6 fire damage on a failure, or half damage on a success.
+At Higher Levels: The number of meteors created increases by two for each slot level above 3rd.

@@ -1,0 +1,8 @@
+Mending
+Transmutation cantrip
+Casting Time: 1 minute
+Range: Touch
+Components: V, S, M (2 lodestones)
+Duration: Instantaneous
+This spell repairs a single break or tear in an object you touch. As long as the damage is no longer than 1 foot in any dimension, you mend it and leave no trace of the damage.
+This spell can't restore magic to an object.

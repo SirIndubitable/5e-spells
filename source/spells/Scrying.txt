@@ -1,0 +1,9 @@
+Scrying
+5th-level Divination
+Casting Time: 10 minutes
+Range: Self
+Components: V, S, M (1000gp focus)
+Duration: Concentration, Up to 10 minutes
+You can see and hear a creature you choose that's on the same plane as you. The target must make a Wisdom save, modified by how well you know it and the sort of physical connection you have. If it knows you're casting this spell, it can fail the save voluntarily.
+On a successful save, the target isn't affected, and you can't use this spell on it again for 24 hours. On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if it were there. The sensor moves with the target. A creature that can see invisible objects sees it as a luminous fist-sized orb.
+Instead of targeting a creature, you can choose a location you've seen before. When you do, the sensor appears at that location and doesn't move.

@@ -1,0 +1,9 @@
+Control Weather
+8th-level Transmutation
+Casting Time: 10 minutes
+Range: Self (5-mile radius)
+Components: V, S, M (Burning incense, earth and wood in water)
+Duration: Concentration, Up to 8 hours
+You take control of the weather within 5 miles of you. You must be outdoors. Moving to a place where you don't have a clear path to the sky ends the spell early. 
+When you cast the spell, you change the current weather conditions. It takes 1d4x10 minutes for the new conditions to take effect. Once they do, you can change the conditions again. When the spell ends, the weather gradually returns to normal. 
+When you change the weather conditions, find a condition on the table and change its stage by one. When changing the wind, you can change its direction.

@@ -1,0 +1,7 @@
+Pyrotechnics
+2nd-level Transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Choose a nonmagical flame that you can see and that fits in a 5-foot cube. You can extinguish the fire, and you create either fireworks or smoke when you do so.

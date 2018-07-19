@@ -1,0 +1,11 @@
+Watery Sphere
+4th-level Conjuration
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (Water)
+Duration: Concentration, Up to 1 minute
+A 5-foot radius water sphere appears at point you choose. It can hover up to 10 feet off the ground.
+Any creature in the sphere's space must make a Strength saving throw. On a success, it's pushed to the nearest unoccupied space of the creature's choice. On a failure, it's restrained. At the end of its turns, it can repeat the save. A Huge or larger creature succeeds automatically, and a Large or smaller creature can choose to fail.
+The sphere can restrain four Medium or smaller creatures, or one Large creature. If the sphere exceeds this capacity, a random creature that was restrained falls out and lands prone within 5 feet.
+As an action, you can move the sphere up to 30 feet in a straight line. If it moves over a drop-off, it descends until it's hovering by 10 feet. Any creature restrained moves with it. You can ram the sphere into creatures, forcing them to make the save.
+When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet. Any creature restrained is knocked prone in the space where it falls. The water vanishes.

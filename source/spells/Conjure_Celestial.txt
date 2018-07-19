@@ -1,0 +1,8 @@
+Conjure Celestial
+7th-level Conjuration
+Casting Time: 1 minute
+Range: 90 feet
+Components: V, S
+Duration: Concentration, Up to 1 hour
+You summon a celestial of CR 4 or lower, which appears in an unoccupied space that you can see. It disappears when it drops to 0 hit points or when the spell ends. It's friendly to you and your companions. Roll initiative for it. It obeys any verbal commands that you issue to it, no action required by you, as long as they don't go against its alignment. If you don't issue any commands to the celestial, it only defends itself from hostile creatures.
+At Higher Levels: If you cast this spell using a 9th-level slot, you can summon a celestial up to CR 5.

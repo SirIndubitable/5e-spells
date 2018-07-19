@@ -1,0 +1,8 @@
+Sword Burst
+Conjuration cantrip
+Casting Time: 1 action
+Range: 5 feet
+Components: V
+Duration: Instantaneous
+Each creature in range besides you must pass a Dexterity save or take 1d6 force damage.
+The damage increases by 1d6 when you reach 5th, 11th, and 17th level.

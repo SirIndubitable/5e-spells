@@ -1,0 +1,9 @@
+Gaseous Form
+3rd-level Transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (Gauze and smoke)
+Duration: Concentration, Up to 1 hour
+You turn a willing creature you touch and all it's carrying into a mist. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn't affected by this spell.
+While in this form, the target's only movement is 10 feet of flying. It can enter and occupy the space of another creature. It has resistance to nonmagical damage, and it has advantage on Strength, Dexterity, and Constitution saves. It can pass through small openings, though liquids are treated as a solid barrier. The target can't fall and remains hovering even when incapacitated.
+While in the form of a misty cloud, the target can't talk, attack, use spells, or interact with objects. Its objects also can't be interacted with.

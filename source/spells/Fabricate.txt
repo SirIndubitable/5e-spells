@@ -1,0 +1,8 @@
+Fabricate
+4th-level Transmutation
+Casting Time: 10 minutes
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+Choose raw materials that you can see. You can fabricate a Large or smaller object contained in a 10-foot cube or eight connected 5-foot cubes. If you are working with mineral substance, the fabricated object can be no larger than Medium contained within a single 5-foot cube. The quality of objects made by the spell is commensurate with the quality of the raw materials.
+Creatures or magic items can't be created or transmuted by this spell. You also can't use it to create items that require a high degree of craftsmanship unless you have proficiency with the appropriate type of artisan's tools.

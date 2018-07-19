@@ -1,0 +1,7 @@
+Sleet Storm
+3rd-level Conjuration
+Casting Time: 1 action
+Range: 150 feet
+Components: V, S, M (Dust, water)
+Duration: Concentration, Up to 1 minute
+A 20-foot-tall, 40-foot radius cylinder centered on a point you choose is heavily obscured by thick sleet. Exposed flames in the area are doused. The ground becomes difficult terrain. When a creature enters the area for the first time or starts its turn there, it must make a Dexterity save. On a failure, it falls prone. If a creature is concentrating, it must make a Constitution save to maintain it.

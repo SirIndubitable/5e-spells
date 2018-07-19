@@ -1,0 +1,8 @@
+Infallible Relay
+1st-level Divination
+Casting Time: 1 minute
+Range: Self
+Components: V, S, M (Mobile phone)
+Duration: Concentration, Up to 10 minutes
+You can target any creature you've spoken previously to, as long you're on the same plane. When you cast the spell, the nearest functioning telephone or similar device within 100 feet of the target starts ringing. If there is no such device, the spell fails.
+The target must pass a Charisma save or be compelled to answer the call. The call is clear and cannot be dropped until the conversation or duration has ended. You can end the conversation at any time, but the target must pass a Charisma save to end it.

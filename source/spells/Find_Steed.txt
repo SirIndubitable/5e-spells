@@ -1,0 +1,11 @@
+Find Steed
+2nd-level Conjuration
+Casting Time: 10 minutes
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Your summon a steed that takes a form that you choose: warhorse, pony, camel, elk, or mastiff. The steed has the statistics of the form, though it is a celestial, fey, or fiend (your choice). If your steed has an Intelligence of 5 or less, its Intelligence becomes 6 and it gains the ability to understand one language you speak.
+The steed serves as a mount, and while mounted on your steed, spells that target you also target your steed.
+When the steed drops to 0 hit points, it disappears. You can dismiss your steed at any time as an action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum.
+While the steed is within 1 mile of you, you can communicate with it telepathically.
+You cannot have more than one steed from this spell at a time. As an action, you can release the steed from its bond at any time.

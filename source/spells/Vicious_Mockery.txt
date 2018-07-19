@@ -1,0 +1,8 @@
+Vicious Mockery
+Enchantment cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: V
+Duration: Instantaneous
+Choose a target you can see. If it can hear you, it must pass a Wisdom save or take 1d4 psychic damage and have disadvantage on its next attack roll before the end of its next turn.
+The damage increases by 1d4 when you reach 5th, 11th, and 17th level.

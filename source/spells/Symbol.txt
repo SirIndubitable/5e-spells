@@ -1,0 +1,10 @@
+Symbol
+7th-level Abjuration
+Casting Time: 1 minute
+Range: Touch
+Components: V, S, M (Mercury, phosphorus, 1000gp powdered diamond and opal; consumed)
+Duration: Until dispelled/triggered
+You inscribe a glyph either upon a surface or within an object that can be closed to hide it. It can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast the spell, it ends without being triggered. You decide what triggers the glyph when you cast the spell. Once the glyph is triggered, this spell ends.
+You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics, creature kind, or alignment. You can also set conditions for creatures that don't trigger the glyph.
+The glyph is nearly invisible and requires a successful Investigation check to be found.
+When you inscribe the glyph, choose one of the options below. Once triggered, the glyph glows a 60-foot-radius dim light sphere for 10 minutes, after which the spell ends. Each creature in the sphere when the glyph activates, and any creature that enters the sphere or ends its turn there, is affected.

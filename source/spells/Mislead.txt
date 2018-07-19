@@ -1,0 +1,8 @@
+Mislead
+5th-level Illusion
+Casting Time: 1 action
+Range: Self
+Components: S
+Duration: Concentration, Up to 1 hour
+You become invisible, and an illusionary double appears in your space. The invisibility ends if you attack or cast a spell, but the double will persist. You can use an action to move the illusion up to twice your speed and behave in whatever manner you choose. 
+Using a bonus action, you can see and hear through the double as if you are where it is. You are blinded and deafened to your body's surroundings. You can switch back to your own senses using a bonus action.

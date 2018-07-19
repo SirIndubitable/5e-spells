@@ -1,0 +1,9 @@
+Guardian of Nature
+4th-level Transmutation
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, Up to 1 minute
+Choose one of the following forms to transform into. It lasts for the duration.
+Primal Beast:
+Great Tree:

@@ -1,0 +1,9 @@
+Creation
+5th-level Illusion
+Casting Time: 1 minute
+Range: 30 feet
+Components: V, S, M (Piece of matter you're creating)
+Duration: Varies
+You create a nonliving object of matter. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.
+The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration. Using material created by this spell as another spell's material component causes that spell to fail.
+At Higher Levels: The cube increases by 5 feet for each slot level above 5th.

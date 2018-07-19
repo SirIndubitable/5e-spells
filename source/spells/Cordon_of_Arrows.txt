@@ -1,0 +1,9 @@
+Cordon of Arrows
+2nd-level Transmutation
+Casting Time: 1 action
+Range: 5 feet
+Components: V, S, M (Arrows/bolts)
+Duration: 8 hours
+Until the spell ends, whenever a creature other than you comes within 30 feet of four pieces of ammunition set on the ground for the first time on a turn or ends its turn there, they must succeed on a Dexterity save or take 1d6 piercing damage. One of the ammunition is then destroyed. The spell ends if no ammunition remains.
+When you cast this spell, you can designate a creature and the spell will ignore them.
+At Higher Levels: The amount of ammunition that can be affected increases by two for each slot above 2nd.

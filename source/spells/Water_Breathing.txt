@@ -1,0 +1,7 @@
+Water Breathing
+3rd-level Transmutation
+Casting Time: 1 action (Ritual)
+Range: 30 feet
+Components: V, S, M (Reed or straw)
+Duration: 24 hours
+Up to ten willing creatures you can see gain the ability to breathe underwater until the spell ends. Affected creatures also retain their normal method of respiration.

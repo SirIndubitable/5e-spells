@@ -1,0 +1,7 @@
+Destructive Wave
+5th-level Evocation
+Casting Time: 1 action
+Range: Self (30ft radius)
+Components: V
+Duration: Instantaneous
+Each creature you choose must pass a Constitution save or take 5d6 thunder damage and 5d6 radiant or necrotic damage (your choice), and be knocked prone. On a success, it takes half damage and isn't prone.

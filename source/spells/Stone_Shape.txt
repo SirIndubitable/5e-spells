@@ -1,0 +1,7 @@
+Stone Shape
+4th-level Transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (Soft clay)
+Duration: Instantaneous
+Touch a stone object of Medium size or smaller, or a section of stone no more than 5 feet in any dimension, and form it into any shape. The object you create can have up to two hinges and a latch, but finer detail isn't possible.

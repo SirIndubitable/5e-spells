@@ -1,0 +1,7 @@
+True Strike
+Divination cantrip
+Casting Time: 1 action
+Range: 30 feet
+Components: S
+Duration: Concentration, Up to 1 round
+On your next turn, you have advantage on your first attack roll.

@@ -1,0 +1,8 @@
+Thunderclap
+Evocation cantrip
+Casting Time: 1 action
+Range: Self (5ft radius)
+Components: S
+Duration: Instantaneous
+Each creature in range besides you must pass a Constitution save or take 1d6 thunder damage. Thunder can be heard up to 100 feet away.
+The damage increases by 1d6 when you reach 5th, 11th, and 17th level.

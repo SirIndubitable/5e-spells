@@ -1,0 +1,9 @@
+Evard's Black Tentacles
+4th-level Conjuration
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (Tentacle of giant octopus/squid)
+Duration: Concentration, Up to 1 minute
+For the duration, tentacles fill a 20-foot square on ground that you can see and turn it into difficult terrain. 
+When a creature enters the area for the first time or starts its turn there, it must pass a Dexterity save or take 3d6 bludgeoning damage and be restrained until the spell ends. If it's already restrained by the tentacles, it takes 3d6 bludgeoning damage.
+The restrained creature can use its action to make a Strength or Dexterity check of its choice. On a success, it's freed.

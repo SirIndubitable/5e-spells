@@ -1,0 +1,7 @@
+Earthbind
+2nd-level Transmutation
+Casting Time: 1 action
+Range: 300 feet
+Components: V
+Duration: Concentration, Up to 1 minute
+The target must succeed on a Strength save or its flying speed is reduced to 0 feet for the spell's duration. An airborne creature safely descends at 60 feet per round until it reaches the ground or the spell ends.

@@ -1,0 +1,7 @@
+Antilife Shell
+5th-level Abjuration
+Casting Time: 1 action
+Range: Self (10ft radius)
+Components: V, S
+Duration: Concentration, Up to 1 hour
+A barrier extends from you in a 10-foot radius and moves with you. It keeps out creatures other than undead and constructs. An affected creature can't pass or reach through, but cast spells or make ranged or reach attacks through the barrier. If you move so that an affected creature is forced to pass, the spell ends.

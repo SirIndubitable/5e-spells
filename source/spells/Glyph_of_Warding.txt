@@ -1,0 +1,11 @@
+Glyph of Warding
+3rd-level Abjuration
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M (Incense, 200gp powdered diamond; consumed)
+Duration: Until dispelled/triggered
+You inscribe a glyph either upon a surface or within an object that can be closed to hide it. It can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast the spell, it ends without being triggered. You decide what triggers the glyph when you cast the spell. Once the glyph is triggered, this spell ends.
+You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics, creature kind, or alignment. You can also set conditions for creatures that don't trigger the glyph.
+The glyph is nearly invisible and requires a successful Investigation check to be found.
+When you inscribe the glyph, choose explosive runes or a spell glyph.
+At Higher Levels: The damage of an explosive rune glyph increases by 1d8 for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.

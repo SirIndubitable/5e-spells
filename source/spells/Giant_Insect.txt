@@ -1,0 +1,8 @@
+Giant Insect
+4th-level Transmutation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, Up to 10 minutes
+You transform up to ten centipedes, three spiders, five wasps, or one scorpion into its giant versions for the duration. Each creature obeys your verbal commands and act on your turn.
+A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an action to dismiss the effect.

@@ -1,0 +1,7 @@
+Control Water
+4th-level Transmutation
+Casting Time: 1 action
+Range: 300 feet
+Components: V, S, M (Water, dust)
+Duration: Concentration, Up to 10 minutes
+You control any freestanding water inside a cube up to 100 feet on any side. You can choose one of the following effects. As an action, you can repeat the same effect or choose a different one.

@@ -1,0 +1,8 @@
+Fire Shield
+4th-level Evocation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (Phosphorus/firefly)
+Duration: 10 minutes
+You shed bright light in a 10-foot radius and dim light for an additional 10 feet. You can use your action to end the spell early.
+Choose a warm or chill shield. The warm shield grants resistance to cold damage, and the chill shield grants resistance to fire damage. Whenever a creature in 5 feet of you hits you with a melee attack, it takes 2d8 fire damage (warm), or 2d8 cold damage (chill).

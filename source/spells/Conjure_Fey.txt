@@ -1,0 +1,10 @@
+Conjure Fey
+6th-level Conjuration
+Casting Time: 1 minute
+Range: 90 feet
+Components: V, S
+Duration: Concentration,, up to 1 hour
+You summon a CR 6 or lower fey (it can also take the form of a beast). It disappears when it drops to 0 hit points or when the spell ends.
+The fey is friendly to you and your companions for the duration and has its own initiative. It obeys any verbal commands you issue to it, no action required, as long as they don't violate its alignment. If you don't issue any commands to it, it will only defend itself from hostile creatures.
+If your concentration is broken, you lose control of the fey and it becomes hostile towards you and your companions. An uncontrolled fey can't be dismissed by you, and it disappears 1 hour after you summoned it.
+At Higher Levels: The challenge rating increases by 1 for each slot level above the 6th.

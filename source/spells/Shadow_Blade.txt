@@ -1,0 +1,9 @@
+Shadow Blade
+2nd-level Illusion
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S
+Duration: Concentration, Up to 1 minute
+You create a magic sword that lasts until the spell ends. It counts as a simple melee weapon that you're proficient with. It deals 2d8 psychic damage, and has the finesse, light, and thrown properties (range 20/60). When you attack in dim light or darkness, you have advantage.
+If you drop the weapon or throw it, it disappears at the end of the turn. While the spell persists, you can use a bonus action to make the sword reappear in your hand.
+At Higher Levels: When you cast this spell at 3rd or 4th level, the damage increases to 3d8. At 5th or 6th level, the damage increases to 4d8. At 7th level or higher, the damage increases to 5d8.

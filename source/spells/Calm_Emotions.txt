@@ -1,0 +1,8 @@
+Calm Emotions
+2nd-level Enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, Up to 1 minute
+Each humanoid in a 20-foot-radius sphere must make a Charisma save. A creature can choose to fail this save. If a creature fails its saving throw, choose one of the following effects:
+When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.

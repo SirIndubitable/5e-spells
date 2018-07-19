@@ -1,0 +1,7 @@
+Beast Bond
+1st-level Divination
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (Fur wrapped in cloth)
+Duration: Concentration, Up to 10 minutes
+You make a telepathic link with one beast that is friendly or charmed by you. The spell fails if the beast's Intelligence is 4 or higher. The link is active while you and the beast can see each other. Through telepathy, the beast can understand you, and can communicate simple emotions and concepts. Also while the link is active, the beast has advantage on attacks against any creature it can see within 5 feet of you.

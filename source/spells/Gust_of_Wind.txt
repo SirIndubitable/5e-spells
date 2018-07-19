@@ -1,0 +1,10 @@
+Gust of Wind
+2nd-level Evocation
+Casting Time: 1 action
+Range: Self (60ft line)
+Components: V, S, M (Legume seed)
+Duration: Concentration, Up to 1 minute
+A strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose. Each creature that starts its turn in the line must pass a Strength save or be pushed 15 feet away in the line's direction.
+Any creature in the line must spend 2 feet of movement for every 1 foot when moving closer to you.
+The gust disperses gas or vapor, and it extinguishes unprotected flames. Protected flames have a 50 percent chance of being extinguished.
+As a bonus action, you can change the line's direction.

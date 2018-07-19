@@ -1,0 +1,10 @@
+Create Undead
+6th-level Necromancy
+Casting Time: 1 minute
+Range: 10 feet
+Components: V, S, M (Per corpse: Clay pot with grave dirt, clay pot with water, 150gp black onyx)
+Duration: Instantaneous
+This spell can only be cast at night. Up to three corpses of Medium or Small humanoids you choose become ghouls under your control.
+You can mentally command a ghoul as a bonus action if they are within 120 feet of you. You can command multiples at once if you issue the same command. You decide what action the ghoul will take and where it will move during its next turn, or issue a general command. If you issue no commands, the ghoul only defends itself against hostile creatures. Once given an order, the ghoul will follow it until its task is complete.
+The ghouls are under your control for 24 hours. To maintain control of the ghouls for another 24 hours, you must recast this spell on up to three of them before the current 24 hours end.
+At Higher Levels: With a 7th-level spell slot, you can control up to four ghouls. With an 8th-level slot, five ghouls, or two ghasts or wights. With a 9th-level slot, six ghouls, three ghasts or wights, or two mummies.

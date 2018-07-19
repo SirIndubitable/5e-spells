@@ -1,0 +1,8 @@
+Message
+Transmutation cantrip
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (Copper wire)
+Duration: 1 round
+You point your finger toward a creature and whisper a message. It hears the message and can reply in a whisper only you can hear.
+You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magic silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell can travel freely around corners and openings.

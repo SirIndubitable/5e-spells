@@ -1,0 +1,10 @@
+Speak with Plants
+3rd-level Transmutation
+Casting Time: 1 action
+Range: Self (30ft radius)
+Components: V, S
+Duration: 10 minutes
+You can question plants in 30 feet of you about events in the spell's area within the past day. You can also turn difficult terrain caused by plant growth into ordinary terrain and vice versa. It lasts for the duration.
+Plants might be able to perform other tasks on your behalf, at the DM's discretion. The spell doesn't enable plants to uproot themselves, but they can freely move branches, tendrils, and stalks.
+If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it. 
+This spell can cause a plants created by Entangle to release a restrained creature.

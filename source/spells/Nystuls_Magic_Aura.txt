@@ -1,0 +1,7 @@
+Nystul's Magic Aura
+2nd-level Illusion
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (Square of silk)
+Duration: 24 hours
+Touch a creature or object. When you cast the spell, choose one or both of the following effects. The effect lasts for the duration. If you cast this spell on the same target with the same effect every day for 30 days, the illusion lasts until it's dispelled.

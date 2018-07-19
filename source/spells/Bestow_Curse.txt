@@ -1,0 +1,8 @@
+Bestow Curse
+3rd-level Necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, Up to 1 minute
+Touch a creature and make them do a Wisdom save. On failure, they suffer from one of the following effects while the spell lasts:
+At Higher Levels: If you cast this spell using a 4th level slot, the possible duration is extended to 10 minutes. If you use a 5th or 6th level slot, the duration is 8 hours. If you use a 7th or 8th level slot, the duration is 24 hours. If you use a 9th level slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration.

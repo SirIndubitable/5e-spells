@@ -1,0 +1,8 @@
+Mold Earth
+Transmutation cantrip
+Casting Time: 1 action
+Range: 30 feet
+Components: S
+Duration: Instantaneous/1 hour
+Choose a portion of dirt or stone that you can see and fits in a 5-foot cube. You change it in one of the following ways:
+If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss an effect as an action.

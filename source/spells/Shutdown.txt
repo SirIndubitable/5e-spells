@@ -1,0 +1,7 @@
+Shutdown
+5th-level Transmutation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, Up to 1 minute
+This spell shuts down all electronic devices that are not held by or under the direct control of a creature. If it is, the creature must pass a Constitution save to stop the device from being shut down. While the spell is active, no electronic device in range can be started or restarted.

@@ -1,0 +1,10 @@
+Bigby's Hand
+5th-level Evocation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (Eggshell, snakeskin glove)
+Duration: Concentration, Up to 1 minute
+You create a Large hand of force in an unoccupied space that you can see. It moves at your command, mimicking the movements of your own hand.
+The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hp, the spell ends. It has a Strength of 26 and a Dexterity of 10. The hand doesn't fill its space.
+When you cast the spell, and as a bonus action on your turns, the hand can move up to 60 feet and cause one of the following effects:
+At Higher Levels: For each slot level above 5th, Clenched Fist's damage increases by 2d8, and Grasping Hand's increases by 2d6.

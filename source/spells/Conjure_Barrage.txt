@@ -1,0 +1,7 @@
+Conjure Barrage
+3rd-level Conjuration
+Casting Time: 1 action
+Range: Self (60ft cone)
+Components: V, S, M (Ammunition/thrown weapon)
+Duration: Instantaneous
+Throw a nonmagical weapon or ammunition. A cone of identical weapons that shoot forward and then disappear. Each creature in a 60-foot cone must make a Dexterity save. It deals 3d8 damage on a failed save, or half on a successful one. The damage type is the same as the weapon's.

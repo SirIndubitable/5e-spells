@@ -1,0 +1,7 @@
+Friends
+Enchantment cantrip
+Casting Time: 1 action
+Range: Self
+Components: S, M (Make-up applied to face)
+Duration: Concentration, Up to 1 minute
+For the duration, you have advantage on Charisma checks on one creature of your choice that isn't hostile. When the spell ends, the creature realizes that you used magic to influence it and becomes hostile.

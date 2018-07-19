@@ -1,0 +1,8 @@
+Green-Flame Blade
+Evocation cantrip
+Casting Time: 1 action
+Range: 5 feet
+Components: V, M (A weapon)
+Duration: Instantaneous
+Make a melee attack with a weapon. On hit, the target suffers the attack's normal effects and fire leaps to a different creature you can see within 5 feet of the original target. The fire deals damage equal to your spellcasting ability modifier.
+At 5th level, the melee attack deals an extra 1d8 fire damage to the target, and the flame increases to 1d8 + your spellcasting ability modifier. Both damages increase by 1d8 at 11th and 17th level.

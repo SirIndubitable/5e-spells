@@ -1,0 +1,8 @@
+Fear
+3rd-level Illusion
+Casting Time: 1 action
+Range: Self (30ft cone)
+Components: V, S, M (White feather/hen's heart)
+Duration: Concentration, Up to 1 minute
+Each creature in a 30-foot cone must succeed on a Wisdom save or drop whatever it's holding and become frightened for the duration.
+An affected creature must take the Dash action and move away from you by the safest route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight on you, it can make a Wisdom save. On a success, the spell ends for it.

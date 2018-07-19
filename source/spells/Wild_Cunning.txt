@@ -1,0 +1,7 @@
+Wild Cunning
+1st-level Transmutation
+Casting Time: 1 action (Ritual)
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+When you cast this spell, choose one of the following effects:

@@ -1,0 +1,7 @@
+Conjure Volley
+5th-level Conjuration
+Casting Time: 1 action
+Range: 150 feet
+Components: V, S, M (Ammunition/thrown weapon)
+Duration: Instantaneous
+You fire non-magical ammunition or throw a non-magical weapon and choose a point within range. Duplicates of the weapon fall from above and then disappear. Each creature in a 40-foot-radius, 20-foot-high cylinder centered on the point must make a Dexterity save. A creature takes 8d8 damage on a failed save, or half damage on a success. The damage type is the same as that of the ammunition or weapon.

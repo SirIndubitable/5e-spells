@@ -1,0 +1,8 @@
+Confusion
+4th-level Enchantment
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (3 nut shells)
+Duration: Concentration, Up to 1 minute
+Each creature in a 10-foot-radius sphere centered on a point you choose must succeed on a Wisdom save. On a success, nothing happens. On a failure, an affected target can't take reactions and must roll a d10 at the start of each of its turns. This determines its action that turn. At the end its turns, it can make a Wisdom save. If it succeeds, the spell ends for it.
+At Higher Levels: The radius of the sphere increases by 5 feet for each slot level above 4th.

@@ -1,0 +1,9 @@
+Insect Plague
+5th-level Conjuration
+Casting Time: 1 action
+Range: 300 feet
+Components: V, S, M (Sugar, grain, fat)
+Duration: Concentration, Up to 10 minutes
+Locusts fill a 20-foot-radius sphere. It spreads around corners, remains for the duration, and its area is lightly obscured and difficult terrain.
+When the swarm appears, each creature in its area must make a Constitution save. A creature takes 4d10 piercing damage on a fail, or half on a success. It must also make this saving throw when it enters the spell's area for the first time or ends its turn there.
+At Higher Levels: The damage increases by 1d10 for each slot level above the 5th.

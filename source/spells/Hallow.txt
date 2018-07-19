@@ -1,0 +1,9 @@
+Hallow
+5th-level Evocation
+Casting Time: 24 hours
+Range: Touch
+Components: V, S, M (1000gp of herbs, oils, incense; consumed)
+Duration: Until dispelled
+Touch an area. It can have a radius up to 60 feet, and the spell fails if the radius includes an area already affected by Hallow. The affected area is subject to the following effects. 
+Celestials, elementals, fey, fiends, and undead can't enter the area, nor can they charm, frighten, or possess creatures in it. Any creature under said effect(s) by them is no longer affected after entering the area. You can exclude types of creatures from this.
+You can bind an extra effect to the area. Choose an effect from the following list. When a creature that would be affected enters the spell's area for the first time or starts its turn there, it can make a Charisma save. On a success, the creature ignores the extra effect until it leaves.

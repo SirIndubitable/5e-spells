@@ -1,0 +1,8 @@
+Booming Blade
+Evocation cantrip
+Casting Time: 1 action
+Range: 5 feet
+Components: V, M (A weapon)
+Duration: 1 round
+Make a melee attack with a weapon. On hit, the target suffers the attack's normal effects and if it willingly moves before the end of your next turn, it takes 1d8 thunder damage and the spell ends.
+At 5th level, the melee attack deals an extra 1d8 thunder damage, and the moving damage increases to 2d8. Both damages increase by 1d8 at 11th and 17th level.

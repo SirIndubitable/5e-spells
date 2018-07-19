@@ -1,0 +1,7 @@
+Find Traps
+2nd-level Divination
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+You sense the presence of any trap within range that is within line of sight. A trap, for this spell, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended by its creator. This spell only reveals that a trap is present. You don't learn the location of each trap, but you do learn the general nature of the danger.

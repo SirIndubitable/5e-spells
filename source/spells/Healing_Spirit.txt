@@ -1,0 +1,9 @@
+Healing Spirit
+2nd-level Conjuration
+Casting Time: 1 bonus action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, Up to 1 minute
+You call an intangible spirit to a cubic 5-foot space you can see. Until the spell ends, when you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore 1d6 hit points to that creature, no action required. The spirit can't heal constructs or undead. 
+As a bonus action, you can move the spirit up to 30 feet to a space you can see.
+At Higher Levels: The healing increases by 1d6 for each slot level above 2nd.

@@ -1,0 +1,8 @@
+Lightning Lure
+Evocation cantrip
+Casting Time: 1 action
+Range: 15 feet
+Components: V
+Duration: Instantaneous
+The target must pass a Strength save or be pulled up to 10 feet in a straight line to you. If it's moved to within 5 feet of you, it takes 1d8 lightning damage.
+The damage increases by 1d8 when you reach 5th, 11th, and 17th level.

@@ -1,0 +1,7 @@
+Pass without Trace
+2nd-level Abjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (Mistletoe ashes, spruce)
+Duration: Concentration, Up to 1 hour
+Each creature you choose has a +10 to Stealth checks and can't be tracked except by magical means. This effect only applies if a creature is within 30 feet of you, both at the time of casting and for the duration. You can choose yourself as well. A creature that receives this bonus leaves behind no traces of its passage.
