@@ -10,7 +10,8 @@ def clean_string(string):
 
 def get_folder_path(folder_name):
     script_dir = os.path.dirname(__file__)  # <-- absolute dir the script is in
-    return os.path.join(script_dir, folder_name)
+    dir_path = os.path.join(script_dir, '..\\resources')
+    return os.path.join(dir_path, folder_name)
 
 
 def get_all_spells():

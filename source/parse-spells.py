@@ -100,7 +100,8 @@ def parse_spell_files():
 
 def get_dir_path(dir):
     script_dir = os.path.dirname(__file__)  # <-- absolute dir the script is in
-    dir_path = os.path.join(script_dir, dir)
+    dir_path = os.path.join(script_dir, '..\\resources')
+    dir_path = os.path.join(dir_path, dir)
     return dir_path
 
 
