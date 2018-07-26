@@ -1,0 +1,8 @@
+Wall of Force
+5th-level Evocation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (Clear gemstone powder)
+Duration: Concentration, Up to 10 minutes
+An invisible wall appears at a point you choose. It can be in any orientation, and can be free floating or on a surface. You can form it into a dome or sphere with a 10ft radius, or you can shape a flat surface made up of ten 10ft-by-10ft panels. Each panel must be attached to another panel. The wall is always 1/4 inch thick. If the wall is in a creature's space when it appears, the creature is pushed to a side of the wall that you choose. 
+Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by Dispel Magic. Disintegrate destroys the wall instantly, however. The wall also extends into the Ethereal Plane.

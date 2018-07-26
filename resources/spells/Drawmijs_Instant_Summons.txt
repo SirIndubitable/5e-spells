@@ -1,0 +1,9 @@
+Drawmij's Instant Summons
+6th-level Conjuration
+Casting Time: 1 minute (Ritual)
+Range: Touch
+Components: V, S, M (1000gp sapphire)
+Duration: Until dispelled
+You touch an object weighing at most 10 pounds and whose longest dimension is 6 feet or less. Each time you cast this spell, you must use a different sapphire.
+At any time thereafter, you can use your action to speak the item’s name and crush the sapphire. The item instantly appears in your hand and the spell ends. If another creature is carrying the item, crushing the sapphire instead causes you to learn who the creature possessing the object is and roughly where that creature is located at that moment.
+Dispel magic or a similar effect successfully applied to the sapphire ends this spell’s effect.

@@ -14,7 +14,10 @@
       "level": 1,
       "range": "Self",
       "school": "Abjuration",
-      "sources": []
+      "sources": [
+         "ee 15",
+         "xge 150"
+      ]
    },
    "Acid Splash": {
       "at_higher_levels": "",
@@ -46,7 +49,10 @@
       "level": 2,
       "range": "30 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 15",
+         "xge 150"
+      ]
    },
    "Aid": {
       "at_higher_levels": "",
@@ -499,7 +505,10 @@
       "level": 1,
       "range": "Touch",
       "school": "Divination",
-      "sources": []
+      "sources": [
+         "ee 15",
+         "xge 150"
+      ]
    },
    "Beast Sense": {
       "at_higher_levels": "",
@@ -704,7 +713,10 @@
       "level": 6,
       "range": "120 feet",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 15",
+         "xge 150"
+      ]
    },
    "Booming Blade": {
       "at_higher_levels": "",
@@ -720,7 +732,9 @@
       "level": 0,
       "range": "5 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "scag 142"
+      ]
    },
    "Branding Smite": {
       "at_higher_levels": "The extra damage increases by 1d6 for each slot level above 2nd.",
@@ -801,7 +815,10 @@
       "level": 1,
       "range": "60 feet",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 15",
+         "xge 150"
+      ]
    },
    "Catnap": {
       "at_higher_levels": "You can target one additional willing creature for each slot level above 3rd.",
@@ -817,7 +834,9 @@
       "level": 3,
       "range": "30 feet",
       "school": "Enchantment",
-      "sources": []
+      "sources": [
+         "xge 151"
+      ]
    },
    "Cause Fear": {
       "at_higher_levels": "You can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.",
@@ -832,7 +851,9 @@
       "level": 1,
       "range": "60 feet",
       "school": "Necromancy",
-      "sources": []
+      "sources": [
+         "xge 151"
+      ]
    },
    "Ceremony": {
       "at_higher_levels": "",
@@ -847,7 +868,9 @@
       "level": 1,
       "range": "Touch",
       "school": "Abjuration",
-      "sources": []
+      "sources": [
+         "xge 151"
+      ]
    },
    "Chain Lightning": {
       "at_higher_levels": "",
@@ -878,7 +901,9 @@
       "level": 1,
       "range": "120 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "xge 151"
+      ]
    },
    "Charm Monster": {
       "at_higher_levels": "You can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other.",
@@ -896,7 +921,9 @@
       "level": 4,
       "range": "30 feet",
       "school": "Enchantment",
-      "sources": []
+      "sources": [
+         "xge 151"
+      ]
    },
    "Charm Person": {
       "at_higher_levels": "",
@@ -1472,7 +1499,10 @@
       "level": 0,
       "range": "60 feet",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 16",
+         "xge 152"
+      ]
    },
    "Control Water": {
       "at_higher_levels": "",
@@ -1524,7 +1554,10 @@
       "level": 5,
       "range": "300 feet",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 16",
+         "xge 152"
+      ]
    },
    "Cordon of Arrows": {
       "at_higher_levels": "The amount of ammunition that can be affected increases by two for each slot above 2nd.",
@@ -1575,7 +1608,10 @@
       "level": 0,
       "range": "60 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "ee 16",
+         "xge 152"
+      ]
    },
    "Create Food and Water": {
       "at_higher_levels": "",
@@ -1606,7 +1642,9 @@
       "level": 6,
       "range": "Touch",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "xge 152"
+      ]
    },
    "Create Undead": {
       "at_higher_levels": "With a 7th-level spell slot, you can control up to four ghouls. With an 8th-level slot, five ghouls, or two ghasts or wights. With a 9th-level slot, six ghouls, three ghasts or wights, or two mummies.",
@@ -1693,7 +1731,9 @@
       "level": 7,
       "range": "Self",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "xge 152"
+      ]
    },
    "Crusader's Mantle": {
       "at_higher_levels": "",
@@ -1762,7 +1802,9 @@
       "level": 5,
       "range": "60 feet",
       "school": "Necromancy",
-      "sources": []
+      "sources": [
+         "xge 153"
+      ]
    },
    "Darkness": {
       "at_higher_levels": "",
@@ -1814,7 +1856,9 @@
       "level": 5,
       "range": "60 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "xge 153"
+      ]
    },
    "Daylight": {
       "at_higher_levels": "",
@@ -2202,7 +2246,25 @@
       "level": 2,
       "range": "Touch",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "xge 154"
+      ]
+   },
+   "Drawmij's Instant Summons": {
+      "at_higher_levels": "",
+      "casting_time": "1 minute (Ritual)",
+      "classes": [
+         "wizard"
+      ],
+      "components": "V, S, M (1000gp sapphire)",
+      "description": "You touch an object weighing at most 10 pounds and whose longest dimension is 6 feet or less. Each time you cast this spell, you must use a different sapphire.\nAt any time thereafter, you can use your action to speak the item\u2019s name and crush the sapphire. The item instantly appears in your hand and the spell ends. If another creature is carrying the item, crushing the sapphire instead causes you to learn who the creature possessing the object is and roughly where that creature is located at that moment.\nDispel magic or a similar effect successfully applied to the sapphire ends this spell\u2019s effect.",
+      "duration": "Until dispelled",
+      "level": 6,
+      "range": "Touch",
+      "school": "Conjuration",
+      "sources": [
+         "phb 235"
+      ]
    },
    "Dream": {
       "at_higher_levels": "",
@@ -2252,7 +2314,10 @@
       "level": 2,
       "range": "60 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "ee 17",
+         "xge 154"
+      ]
    },
    "Earth Tremor": {
       "at_higher_levels": "The damage increases by 1d6 for each slot level above 1st.",
@@ -2269,7 +2334,10 @@
       "level": 1,
       "range": "10 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 17",
+         "xge 155"
+      ]
    },
    "Earthbind": {
       "at_higher_levels": "",
@@ -2286,7 +2354,10 @@
       "level": 2,
       "range": "300 feet",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 17",
+         "xge 154"
+      ]
    },
    "Earthquake": {
       "at_higher_levels": "",
@@ -2336,7 +2407,10 @@
       "level": 4,
       "range": "90 feet",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 17",
+         "xge 155"
+      ]
    },
    "Elemental Weapon": {
       "at_higher_levels": "When you cast this spell using a 5th or 6th level spell slot, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4.",
@@ -2369,7 +2443,9 @@
       "level": 3,
       "range": "120 feet",
       "school": "Enchantment",
-      "sources": []
+      "sources": [
+         "xge 155"
+      ]
    },
    "Enervation": {
       "at_higher_levels": "The damage increases by 1d8 for each slot level above 5th.",
@@ -2385,7 +2461,9 @@
       "level": 5,
       "range": "60 feet",
       "school": "Necromancy",
-      "sources": []
+      "sources": [
+         "xge 155"
+      ]
    },
    "Enhance Ability": {
       "at_higher_levels": "You can target one additional creature for each slot level above 2nd.",
@@ -2486,7 +2564,10 @@
       "level": 3,
       "range": "120 feet",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 17",
+         "xge 155"
+      ]
    },
    "Etherealness": {
       "at_higher_levels": "",
@@ -2606,7 +2687,9 @@
       "level": 5,
       "range": "Self",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "xge 155"
+      ]
    },
    "Fear": {
       "at_higher_levels": "",
@@ -2692,7 +2775,9 @@
       "level": 4,
       "range": "30 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "xge 156"
+      ]
    },
    "Find Steed": {
       "at_higher_levels": "",
@@ -2864,7 +2949,10 @@
       "level": 3,
       "range": "Touch",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 18",
+         "xge 156"
+      ]
    },
    "Flame Blade": {
       "at_higher_levels": "The damage increases by 1d6 for every two slot levels above 2nd.",
@@ -3040,7 +3128,10 @@
       "level": 0,
       "range": "60 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 18",
+         "xge 156"
+      ]
    },
    "Gaseous Form": {
       "at_higher_levels": "",
@@ -3266,7 +3357,9 @@
       "level": 0,
       "range": "5 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "scag 143"
+      ]
    },
    "Guardian of Faith": {
       "at_higher_levels": "",
@@ -3297,7 +3390,9 @@
       "level": 4,
       "range": "Self",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "xge 157"
+      ]
    },
    "Guidance": {
       "at_higher_levels": "",
@@ -3363,7 +3458,10 @@
       "level": 0,
       "range": "30 feet",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 19",
+         "xge 157"
+      ]
    },
    "Gust of Wind": {
       "at_higher_levels": "",
@@ -3528,7 +3626,9 @@
       "level": 2,
       "range": "60 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "xge 157"
+      ]
    },
    "Healing Word": {
       "at_higher_levels": "When you cast this spell using a spell slot of 2nd level or higher, the Healing increases by 1d4 for each slot level above 1st.",
@@ -3700,7 +3800,9 @@
       "level": 5,
       "range": "Touch",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "xge 157"
+      ]
    },
    "Hunger of Hadar": {
       "at_higher_levels": "",
@@ -3767,7 +3869,10 @@
       "level": 1,
       "range": "60 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "ee 19",
+         "xge 157"
+      ]
    },
    "Ice Storm": {
       "at_higher_levels": "",
@@ -3835,7 +3940,10 @@
       "level": 5,
       "range": "90 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 19",
+         "xge 158"
+      ]
    },
    "Imprisonment": {
       "at_higher_levels": "",
@@ -3883,7 +3991,9 @@
       "level": 5,
       "range": "90 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "xge 158"
+      ]
    },
    "Infestation": {
       "at_higher_levels": "",
@@ -3900,7 +4010,9 @@
       "level": 0,
       "range": "30 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "xge 158"
+      ]
    },
    "Inflict Wounds": {
       "at_higher_levels": "",
@@ -4109,7 +4221,9 @@
       "level": 3,
       "range": "30 feet",
       "school": "Necromancy",
-      "sources": []
+      "sources": [
+         "xge 160"
+      ]
    },
    "Light": {
       "at_higher_levels": "",
@@ -4177,7 +4291,9 @@
       "level": 0,
       "range": "15 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "scag 143"
+      ]
    },
    "Locate Animals or Plants": {
       "at_higher_levels": "",
@@ -4270,7 +4386,10 @@
       "level": 5,
       "range": "120 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 20",
+         "xge 160"
+      ]
    },
    "Mage Armor": {
       "at_higher_levels": "",
@@ -4374,7 +4493,10 @@
       "level": 0,
       "range": "Touch",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 20",
+         "xge 160"
+      ]
    },
    "Magic Weapon": {
       "at_higher_levels": "",
@@ -4494,7 +4616,10 @@
       "level": 2,
       "range": "30 feet",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 20",
+         "xge 161"
+      ]
    },
    "Maze": {
       "at_higher_levels": "",
@@ -4558,7 +4683,10 @@
       "level": 3,
       "range": "Self",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 20",
+         "xge 161"
+      ]
    },
    "Mending": {
       "at_higher_levels": "",
@@ -4594,7 +4722,9 @@
       "level": 6,
       "range": "60 feet",
       "school": "Illusion",
-      "sources": []
+      "sources": [
+         "xge 161"
+      ]
    },
    "Message": {
       "at_higher_levels": "",
@@ -4645,7 +4775,9 @@
       "level": 2,
       "range": "60 feet",
       "school": "Divination",
-      "sources": []
+      "sources": [
+         "xge 162"
+      ]
    },
    "Minor Illusion": {
       "at_higher_levels": "",
@@ -4750,7 +4882,10 @@
       "level": 0,
       "range": "30 feet",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 21",
+         "xge 162"
+      ]
    },
    "Moonbeam": {
       "at_higher_levels": "The damage increases by 1d10 for each slot level above 2nd.",
@@ -4830,7 +4965,9 @@
       "level": 5,
       "range": "60 feet",
       "school": "Necromancy",
-      "sources": []
+      "sources": [
+         "xge 163"
+      ]
    },
    "Nondetection": {
       "at_higher_levels": "",
@@ -5194,7 +5331,9 @@
       "level": 0,
       "range": "Self",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "xge 163"
+      ]
    },
    "Produce Flame": {
       "at_higher_levels": "",
@@ -5301,7 +5440,9 @@
       "level": 9,
       "range": "90 feet",
       "school": "Enchantment",
-      "sources": []
+      "sources": [
+         "xge 163"
+      ]
    },
    "Puppet": {
       "at_higher_levels": "",
@@ -5351,7 +5492,10 @@
       "level": 2,
       "range": "60 feet",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 21",
+         "xge 163"
+      ]
    },
    "Raise Dead": {
       "at_higher_levels": "",
@@ -5677,6 +5821,24 @@
          "phb 274"
       ]
    },
+   "Seeming": {
+      "at_higher_levels": "",
+      "casting_time": "1 action",
+      "classes": [
+         "bard",
+         "sorcerer",
+         "wizard"
+      ],
+      "components": "V, S",
+      "description": "You make any amount of creatures you can see look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same limb arrangement. Otherwise, the extent of the illusion is up to you. If a creature is unwilling, it must pass a Charisma save to be unaffected.\nIf someone attempts to touch you or any disguised person, they will be able to pass through the illusion. Otherwise, to discern that you are disguised, a creature can use its action to make an\u00a0Investigation\u00a0check against your spell save DC.",
+      "duration": "8 hours",
+      "level": 5,
+      "range": "30 feet",
+      "school": "Illusion",
+      "sources": [
+         "phb 274"
+      ]
+   },
    "Sending": {
       "at_higher_levels": "",
       "casting_time": "1 action",
@@ -5725,7 +5887,9 @@
       "level": 2,
       "range": "Self",
       "school": "Illusion",
-      "sources": []
+      "sources": [
+         "xge 164"
+      ]
    },
    "Shadow of Moil": {
       "at_higher_levels": "",
@@ -5739,7 +5903,9 @@
       "level": 4,
       "range": "Self",
       "school": "Necromancy",
-      "sources": []
+      "sources": [
+         "xge 164"
+      ]
    },
    "Shape Water": {
       "at_higher_levels": "",
@@ -5755,7 +5921,10 @@
       "level": 0,
       "range": "30 feet",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 21",
+         "xge 164"
+      ]
    },
    "Shatter": {
       "at_higher_levels": "",
@@ -5873,7 +6042,9 @@
       "level": 4,
       "range": "120 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "xge 164"
+      ]
    },
    "Silence": {
       "at_higher_levels": "",
@@ -5911,6 +6082,24 @@
          "phb 276"
       ]
    },
+   "Skill Empowerment": {
+      "at_higher_levels": "",
+      "casting_time": "1 action",
+      "classes": [
+         "bard",
+         "sorcerer",
+         "wizard"
+      ],
+      "components": "V, S",
+      "description": "Touch a willing creature and choose a skill that the target is proficient in and doesn't already have an effect that doubles its bonus. Until the spell ends, it doubles its proficiency bonus for checks that use the skill.",
+      "duration": "Concentration, Up to 1 hour",
+      "level": 5,
+      "range": "Touch",
+      "school": "Transmutation",
+      "sources": [
+         "xge 165"
+      ]
+   },
    "Skywrite": {
       "at_higher_levels": "",
       "casting_time": "1 action (Ritual)",
@@ -5925,7 +6114,10 @@
       "level": 2,
       "range": "Sight",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "ee 22",
+         "xge 165"
+      ]
    },
    "Sleep": {
       "at_higher_levels": "",
@@ -5994,7 +6186,9 @@
       "level": 1,
       "range": "Touch",
       "school": "Abjuration",
-      "sources": []
+      "sources": [
+         "xge 165"
+      ]
    },
    "Snilloc's Snowball Swarm": {
       "at_higher_levels": "The damage increases by 1d6 for each slot level above 2nd.",
@@ -6009,7 +6203,10 @@
       "level": 2,
       "range": "90 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 22",
+         "xge 165"
+      ]
    },
    "Spare the Dying": {
       "at_higher_levels": "",
@@ -6176,7 +6373,9 @@
       "level": 5,
       "range": "30 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "xge 166"
+      ]
    },
    "Stinking Cloud": {
       "at_higher_levels": "",
@@ -6246,7 +6445,10 @@
       "level": 4,
       "range": "150 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 22",
+         "xge 166"
+      ]
    },
    "Sudden Awakening": {
       "at_higher_levels": "",
@@ -6297,7 +6499,9 @@
       "level": 4,
       "range": "60 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "xge 166"
+      ]
    },
    "Summon Lesser Demons": {
       "at_higher_levels": "You summon twice as many demons with a 6th or 7th-level slot. With 8th or 9th level, you summon three times as many.",
@@ -6312,7 +6516,9 @@
       "level": 3,
       "range": "60 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "xge 167"
+      ]
    },
    "Sunburst": {
       "at_higher_levels": "",
@@ -6362,7 +6568,9 @@
       "level": 0,
       "range": "5 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "scag 143"
+      ]
    },
    "Symbol": {
       "at_higher_levels": "",
@@ -6397,7 +6605,9 @@
       "level": 5,
       "range": "120 feet",
       "school": "Enchantment",
-      "sources": []
+      "sources": [
+         "xge 167"
+      ]
    },
    "Synchronicity": {
       "at_higher_levels": "",
@@ -6448,6 +6658,23 @@
          "phb 280"
       ]
    },
+   "Telekinesis": {
+      "at_higher_levels": "",
+      "casting_time": "1 action",
+      "classes": [
+         "sorcerer",
+         "wizard"
+      ],
+      "components": "V, S",
+      "description": "When you cast the spell, and as an action for the duration, you can cause one of the effects below on a creature or object that you can see. However, you cannot move anything beyond the spell's range. You can affect the same target, or choose a new one at any time. If you switch targets, the previous one is no longer affected by the spell.",
+      "duration": "Concentration, Up to 10 minutes",
+      "level": 5,
+      "range": "60 feet",
+      "school": "Transmutation",
+      "sources": [
+         "phb 280"
+      ]
+   },
    "Teleport": {
       "at_higher_levels": "",
       "casting_time": "1 action",
@@ -6464,6 +6691,24 @@
       "school": "Conjuration",
       "sources": [
          "phb 281"
+      ]
+   },
+   "Teleportation Circle": {
+      "at_higher_levels": "",
+      "casting_time": "1 minute",
+      "classes": [
+         "bard",
+         "sorcerer",
+         "wizard"
+      ],
+      "components": "V, M (Chalks, inks infused with 50gp gems; consumed)",
+      "description": "You draw a 10-foot-diameter circle on the ground that links your location to a permanent teleportation circle whose sigil sequence you know and that is on the same plane of existence. A portal opens in the circle and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination or in the nearest unoccupied space.\nWhen you first learn this spell, you learn the sigil sequences for two destinations on the material plane, chosen by the DM. You can learn additional sequences by studying it for 1 minute.\nYou can create a permanent teleportation circle by casting this spell in the same location every day for one year. You don't need to use the circle for it to become permanent.",
+      "duration": "1 round",
+      "level": 5,
+      "range": "10 feet",
+      "school": "Conjuration",
+      "sources": [
+         "phb 282"
       ]
    },
    "Tenser's Floating Disk": {
@@ -6528,7 +6773,9 @@
       "level": 3,
       "range": "90 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "xge 168"
+      ]
    },
    "Thunderclap": {
       "at_higher_levels": "",
@@ -6546,7 +6793,10 @@
       "level": 0,
       "range": "Self (5ft radius)",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 22",
+         "xge 168"
+      ]
    },
    "Thunderous Smite": {
       "at_higher_levels": "",
@@ -6597,7 +6847,10 @@
       "level": 3,
       "range": "120 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "ee 22",
+         "xge 168"
+      ]
    },
    "Time Stop": {
       "at_higher_levels": "",
@@ -6628,7 +6881,9 @@
       "level": 3,
       "range": "Touch",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "xge 168"
+      ]
    },
    "Toll the Dead": {
       "at_higher_levels": "",
@@ -6644,7 +6899,9 @@
       "level": 0,
       "range": "60 feet",
       "school": "Necromancy",
-      "sources": []
+      "sources": [
+         "xge 169"
+      ]
    },
    "Tongues": {
       "at_higher_levels": "",
@@ -6831,7 +7088,10 @@
       "level": 4,
       "range": "150 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 23",
+         "xge 170"
+      ]
    },
    "Wall of Fire": {
       "at_higher_levels": "",
@@ -6851,6 +7111,40 @@
          "phb 285"
       ]
    },
+   "Wall of Force": {
+      "at_higher_levels": "",
+      "casting_time": "1 action",
+      "classes": [
+         "wizard"
+      ],
+      "components": "V, S, M (Clear gemstone powder)",
+      "description": "An invisible wall appears at a point you choose. It can be in any orientation, and can be free floating or on a surface. You can form it into a dome or sphere with a 10ft radius, or you can shape a flat surface made up of ten 10ft-by-10ft panels. Each panel must be attached to another panel. The wall is always 1/4 inch thick. If the wall is in a creature's space when it appears, the creature is pushed to a side of the wall that you choose. \nNothing can physically pass through the wall. It is immune to all damage and can't be dispelled by Dispel Magic. Disintegrate destroys the wall instantly, however. The wall also extends into the Ethereal Plane.",
+      "duration": "Concentration, Up to 10 minutes",
+      "level": 5,
+      "range": "120 feet",
+      "school": "Evocation",
+      "sources": [
+         "phb 285"
+      ]
+   },
+   "Wall of Light": {
+      "at_higher_levels": "The damage increases by 1d8 for each slot level above 5th.",
+      "casting_time": "1 action",
+      "classes": [
+         "sorcerer",
+         "warlock",
+         "wizard"
+      ],
+      "components": "V, S, M (Hand mirror)",
+      "description": "A wall of light appears at a point you choose. It can be in any orientation, and can be free floating or on a surface. It can be up to 60 feet long, 10 feet high, and 5 feet thick. It blocks line of sight, but things can pass through it. It emits 120 feet of bright light and an additional 120 feet dim light.\nWhen the wall appears, each creature in its area must make a Constitution save. On a failed save, a creature takes 4d8 radiant damage and is blinded for 1 minute. On a success, it takes half damage and isn't blinded. A blinded creature can repeat the save at the end of its turns.\nA creature that ends its turn in the wall's area takes 4d8 radiant damage.\nYou can use an action to launch a laser from the wall at a creature you can see within 60 feet of it. Make a ranged spell attack. On hit, the target takes 4d8 radiant damage. Hit or miss, the wall's length is reduced by 10 feet. If the wall's length reaches 0 feet, the spell ends.",
+      "duration": "Concentration, Up to 10 minutes",
+      "level": 5,
+      "range": "120 feet",
+      "school": "Evocation",
+      "sources": [
+         "xge 170"
+      ]
+   },
    "Wall of Sand": {
       "at_higher_levels": "",
       "casting_time": "1 action",
@@ -6863,7 +7157,10 @@
       "level": 3,
       "range": "90 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 23",
+         "xge 170"
+      ]
    },
    "Wall of Stone": {
       "at_higher_levels": "",
@@ -6897,7 +7194,10 @@
       "level": 3,
       "range": "60 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 23",
+         "xge 170"
+      ]
    },
    "Warding Bond": {
       "at_higher_levels": "",
@@ -6930,7 +7230,10 @@
       "level": 2,
       "range": "Self",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "ee 23",
+         "xge 170"
+      ]
    },
    "Water Breathing": {
       "at_higher_levels": "",
@@ -6984,7 +7287,10 @@
       "level": 4,
       "range": "90 feet",
       "school": "Conjuration",
-      "sources": []
+      "sources": [
+         "ee 23",
+         "xge 170"
+      ]
    },
    "Web": {
       "at_higher_levels": "",
@@ -7065,7 +7371,9 @@
       "level": 0,
       "range": "5 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "xge 171"
+      ]
    },
    "Word of Recall": {
       "at_higher_levels": "",
@@ -7096,7 +7404,9 @@
       "level": 5,
       "range": "120 feet",
       "school": "Evocation",
-      "sources": []
+      "sources": [
+         "xge 171"
+      ]
    },
    "Wrathful Smite": {
       "at_higher_levels": "",
@@ -7126,7 +7436,9 @@
       "level": 1,
       "range": "Self",
       "school": "Transmutation",
-      "sources": []
+      "sources": [
+         "xge 171"
+      ]
    },
    "Zone of Truth": {
       "at_higher_levels": "",

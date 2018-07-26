@@ -1,0 +1,8 @@
+Seeming
+5th-level Illusion
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 8 hours
+You make any amount of creatures you can see look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same limb arrangement. Otherwise, the extent of the illusion is up to you. If a creature is unwilling, it must pass a Charisma save to be unaffected.
+If someone attempts to touch you or any disguised person, they will be able to pass through the illusion. Otherwise, to discern that you are disguised, a creature can use its action to make an Investigation check against your spell save DC.

@@ -1,0 +1,7 @@
+Telekinesis
+5th-level Transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, Up to 10 minutes
+When you cast the spell, and as an action for the duration, you can cause one of the effects below on a creature or object that you can see. However, you cannot move anything beyond the spell's range. You can affect the same target, or choose a new one at any time. If you switch targets, the previous one is no longer affected by the spell.

@@ -1,0 +1,11 @@
+Wall of Light
+5th-level Evocation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (Hand mirror)
+Duration: Concentration, Up to 10 minutes
+A wall of light appears at a point you choose. It can be in any orientation, and can be free floating or on a surface. It can be up to 60 feet long, 10 feet high, and 5 feet thick. It blocks line of sight, but things can pass through it. It emits 120 feet of bright light and an additional 120 feet dim light.
+When the wall appears, each creature in its area must make a Constitution save. On a failed save, a creature takes 4d8 radiant damage and is blinded for 1 minute. On a success, it takes half damage and isn't blinded. A blinded creature can repeat the save at the end of its turns.
+A creature that ends its turn in the wall's area takes 4d8 radiant damage.
+You can use an action to launch a laser from the wall at a creature you can see within 60 feet of it. Make a ranged spell attack. On hit, the target takes 4d8 radiant damage. Hit or miss, the wall's length is reduced by 10 feet. If the wall's length reaches 0 feet, the spell ends.
+At Higher Levels: The damage increases by 1d8 for each slot level above 5th.

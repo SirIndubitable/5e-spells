@@ -128,6 +128,7 @@ Dominate Beast
 Dominate Monster
 Dominate Person
 Dragon's Breath
+Drawmij's Instant Summons
 Dream
 Druidcraft
 Dust Devil
@@ -331,6 +332,7 @@ Scorching Ray
 Scrying
 Searing Smite
 See Invisibility
+Seeming
 Sending
 Sense Emotion
 Shadow Blade
@@ -345,6 +347,7 @@ Shutdown
 Sickening Radiance
 Silence
 Silent Image
+Skill Empowerment
 Skywrite
 Sleep
 Sleet Storm
@@ -377,7 +380,9 @@ Synaptic Static
 Synchronicity
 System Backdoor
 Tasha's Hideous Laughter
+Telekinesis
 Teleport
+Teleportation Circle
 Tenser's Floating Disk
 Thaumaturgy
 Thorn Whip
@@ -401,6 +406,8 @@ Vicious Mockery
 Virtue
 Vitriolic Sphere
 Wall of Fire
+Wall of Force
+Wall of Light
 Wall of Sand
 Wall of Stone
 Wall of Water

@@ -1,0 +1,9 @@
+Teleportation Circle
+5th-level Conjuration
+Casting Time: 1 minute
+Range: 10 feet
+Components: V, M (Chalks, inks infused with 50gp gems; consumed)
+Duration: 1 round
+You draw a 10-foot-diameter circle on the ground that links your location to a permanent teleportation circle whose sigil sequence you know and that is on the same plane of existence. A portal opens in the circle and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination or in the nearest unoccupied space.
+When you first learn this spell, you learn the sigil sequences for two destinations on the material plane, chosen by the DM. You can learn additional sequences by studying it for 1 minute.
+You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You don't need to use the circle for it to become permanent.
