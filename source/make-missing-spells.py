@@ -16,11 +16,12 @@ def get_folder_path(folder_name):
 
 def get_all_spells():
     all_spells = set()
-    spell_list_dir = get_folder_path('spellListByClass')
+    spell_list_dir = get_folder_path('spellsBySource')
     for file in os.listdir(spell_list_dir):
         filename = os.path.join(spell_list_dir, file)
         for file_line in open(filename, 'r', encoding="utf8"):
-            all_spells.add(file_line.strip())
+            spell_name, spell_page = file_line.split(': ')
+            all_spells.add(spell_name.strip())
     return all_spells
 
 

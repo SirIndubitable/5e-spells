@@ -1,0 +1,43 @@
+Abi-Dalzim's Horrid Wilting: 15
+Absorb Elements: 15
+Aganazzar's Scorcher: 15
+Beast Bond: 15
+Bones of the Earth: 15
+Catapult: 15
+Control Flames: 16
+Control Winds: 16
+Create Bonfire: 16
+Dust Devil: 17
+Earth Tremor: 17
+Earthbind: 17
+Elemental Bane: 17
+Erupting Earth: 17
+Flame Arrows: 18
+Frostbite: 18
+Gust: 19
+Ice Knife: 19
+Immolation: 19
+Investiture of Flame: 19
+Investiture of Ice: 19
+Investiture of Stone: 19
+Investiture of Wind: 20
+Maelstrom: 20
+Magic Stone: 20
+Maximilian's Earthen Grasp: 20
+Melf's Minute Meteors: 20
+Mold Earth: 21
+Primordial Ward: 21
+Pyrotechnics: 21
+Shape Water: 21
+Skywrite: 22
+Snilloc's Snowball Swarm: 22
+Storm Sphere: 22
+Thunderclap: 22
+Tidal Wave: 22
+Transmute Rock: 22
+Vitriolic Sphere: 23
+Wall of Sand: 23
+Wall of Water: 23
+Warding Wind: 23
+Watery Sphere: 23
+Whirlwind: 24

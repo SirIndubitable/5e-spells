@@ -1,0 +1,95 @@
+Abi-Dalzim's Horrid Wilting: 150
+Absorb Elements: 150
+Aganazzar's Scorcher: 150
+Beast Bond: 150
+Bones of the Earth: 150
+Catapult: 150
+Catnap: 151
+Cause Fear: 151
+Ceremony: 151
+Chaos Bolt: 151
+Charm Monster: 151
+Control Flames: 152
+Control Winds: 152
+Create Bonfire: 152
+Create Homunculus: 152
+Crown of Stars: 152
+Danse Macabre: 153
+Dawn: 153
+Dragon's Breath: 154
+Druid Grove: 154
+Dust Devil: 154
+Earthbind: 154
+Earth Tremor: 155
+Elemental Bane: 155
+Enemies Abound: 155
+Enervation: 155
+Erupting Earth: 155
+Far Step: 155
+Find Greater Steed: 156
+Flame Arrows: 156
+Frostbite: 156
+Guardian of Nature: 157
+Gust: 157
+Healing Spirit: 157
+Holy Weapon: 157
+Ice Knife: 157
+Illusory Dragon: 157
+Immolation: 158
+Infernal Calling: 158
+Infestation: 158
+Investiture of Flame: 159
+Investiture of Ice: 159
+Investiture of Stone: 159
+Investiture of Wind: 160
+Invulnerability: 160
+Life Transference: 160
+Maddening Darkness: 160
+Maelstrom: 160
+Magic Stone: 160
+Mass Polymorph: 160
+Maximilian's Earthen Grasp: 161
+Melf's Minute Meteors: 161
+Mental Prison: 161
+Mighty Fortress: 161
+Mind Spike: 162
+Mold Earth: 162
+Negative Energy Flood: 163
+Power Word Pain: 163
+Primal Savagery: 163
+Primordial Ward: 163
+Psychic Scream: 163
+Pyrotechnics: 163
+Scatter: 164
+Shadow Blade: 164
+Shadow of Moil: 164
+Shape Water: 164
+Sickening Radiance: 164
+Skill Empowerment: 165
+Skywrite: 165
+Snare: 165
+Snilloc's Snowball Swarm: 165
+Soul Cage: 165
+Steel Wind Strike: 166
+Storm Sphere: 166
+Summon Greater Demon: 166
+Summon Lesser Demons: 167
+Synaptic Static: 167
+Temple of the Gods: 167
+Tenser's Transformation: 168
+Thunder Step: 168
+Thunderclap: 168
+Tidal Wave: 168
+Tiny Servant: 168
+Toll the Dead: 169
+Transmute Rock: 169
+Vitriolic Sphere: 170
+Wall of Light: 170
+Wall of Sand: 170
+Wall of Water: 170
+Warding Wind: 170
+Watery Sphere: 170
+Whirlwind: 171
+Word of Radiance: 171
+Wrath of Nature: 171
+Zephyr Strike: 171

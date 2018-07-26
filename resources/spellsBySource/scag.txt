@@ -1,0 +1,4 @@
+Booming Blade: 142
+Green-Flame Blade: 143
+Lightning Lure: 143
+Sword Burst: 143
