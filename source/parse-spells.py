@@ -31,8 +31,8 @@ def get_alphanumeric_intersection(set1, set2):
 
     >>> s1 = set(['unique1', 'unique2', 'commons1', 'Common2'])
     >>> s2 = set(['unique3', 'unique4', "common's1", 'common2'])
-    >>> get_alphanumeric_intersection(s1, s2)
-    {'COMMON2', 'COMMONS1'}
+    >>> sorted(get_alphanumeric_intersection(s1, s2))
+    ['COMMON2', 'COMMONS1']
     """
     set1_clean = [x.upper() for x in set1]
     set2_clean = [x.upper() for x in set2]

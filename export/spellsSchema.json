@@ -1,0 +1,38 @@
+{
+   "$id": "https://example.com/geographical-location.schema.json",
+   "$schema": "http://json-schema.org/draft-07/schema#",
+   "title": "Spells",
+   "description": "A list of all of the d&d 5e spells",
+   "type" : "object",
+   "patternProperties": {
+      "[^\t]+": { "$ref": "#/definitions/spell" }
+   },
+
+   "definitions": {
+      "spell": {
+         "type": "object",
+         "properties": {
+            "at_higher_levels":  { "type": "string" },
+            "casting_time":      { "type": "string" },
+            "classes":           { "type": "array", "items": { "type": "string"}},
+            "components":        { "type": "string" },
+            "description":       { "type": "string" },
+            "duration":          { "type": "string" },
+            "level":             { "type": "integer" },
+            "range":             { "type": "string" },
+            "sources":           { "type": "array", "items": { "type": "string"}},
+            "school":            { "type": "string", "enum" : 
+                                    [ "Abjuration",
+                                      "Conjuration",
+                                      "Divination",
+                                      "Enchantment",
+                                      "Evocation",
+                                      "Illusion",
+                                      "Necromancy",
+                                      "Transmutation"]}
+         },
+         "required": ["casting_time", "classes", "components", "description", "duration", "level", "range", "sources", "school"],
+         "additionalProperties": false
+      }
+   }
+}
