@@ -145,18 +145,18 @@ if len(error_spells) > 0:
 
 
 if args.json_dest is not None:
-    f = open(args.json_dest, 'w')
+    f = open(args.json_dest, 'w+')
     f.write(json.dumps(spells_dict, cls=SpellEncoder, indent=3, sort_keys=True))
     f.close()
 
 if args.list_dest is not None:
-    f = open(args.list_dest, 'w')
+    f = open(args.list_dest, 'w+')
     for spell_name in sorted(spells_dict.keys()):
         f.write(spell_name + '\n')
     f.close()
 
 if args.class_dest is not None:
-    f = open(args.class_dest, 'w')
+    f = open(args.class_dest, 'w+')
     spell_level_string = {0: 'cantrip', 1: '1st', 2: '2nd', 3: '3rd', 4: '4th',
                           5: '5th', 6: '6th', 7: '7th', 8: '8th', 9: '9th'}
     spells_by_level = {0: [], 1: [], 2: [], 3: [], 4: [],
