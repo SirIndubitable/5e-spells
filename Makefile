@@ -2,20 +2,20 @@
  		   source/spell.py
 
 COPY_RESOURCE_FILES := spellsSchema.json
-COPY_DST_FILES := $(addprefix export/, $(COPY_RESOURCE_FILES))
+COPY_DST_FILES := $(addprefix build/, $(COPY_RESOURCE_FILES))
 
-all: parseTest export/spells.json $(COPY_DST_FILES) test
+all: parseTest build/spells.json $(COPY_DST_FILES) test
 
-export/spells.json: $(SOURCE) $(wildcard resources/*/*.txt)
+build/spells.json: $(SOURCE) $(wildcard resources/*/*.txt)
 	$(info )
 	$(info ************   Creating Json   ************)
-	mkdir -p export
-	python source/parse-spells.py -json="export/spells.json" -list="export/spelllist.txt" -class="export/List of all 5e spells.txt"
+	mkdir -p build
+	python source/parse-spells.py -json="build/spells.json" -list="build/spelllist.txt" -class="build/List of all 5e spells.txt"
 
-$(COPY_DST_FILES): export/% : resources/%
+$(COPY_DST_FILES): build/% : resources/%
 	$(info )
 	$(info ************ Copying Resources ************)
-	cp -f resources/spellsSchema.json export/spellsSchema.json
+	cp -f resources/spellsSchema.json build/spellsSchema.json
 
 test:
 	$(info )
