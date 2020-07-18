@@ -20,7 +20,7 @@ class Spell:
         self.Classes = list()
         self.Sources = list()
 
-    def set_level_and_school(self, level_and_school):
+    def _set_level_and_school(self, level_and_school):
         """
         'Conjuration cantrip' => 0, 'Conjuration'
         '2nd-level abjuration' => 2, 'Abjuration'
@@ -44,7 +44,7 @@ class Spell:
         else:
             return self._spell_level_string[self.Level] + '-level' + ' ' + self.School
 
-    def set_description(self, description_string):
+    def _set_description(self, description_string):
         description_parts = description_string.split('At Higher Levels:')
         self.Description = description_parts[0].strip()
         if (len(description_parts) > 1):
@@ -89,7 +89,19 @@ class Spell:
         print('Description: ' + self.Description)
         print('At Higher Levels: ' + self.AtHigherLevels)
 
-    # write the spell to a file in the format we expect to parse it in parse-spells.py
+
+    @staticmethod
+    def _parse_value(line, valueName):
+        """Parses the value out of the line
+
+        >>> _parse_value("Casting Time: 1 hour", "Casting Time")
+        '1 hour'
+        >>> _parse_value("Components: V, S, M", "Components")
+        'V, S, M'
+        """
+        return line.replace(valueName + ': ', '').strip()
+
+    # write the spell to a file in the format we expect to parse it in read()
     def write(self, file):
         file.write(self.Name + '\n')
         file.write(self.get_level_and_school() + '\n')
@@ -102,13 +114,26 @@ class Spell:
             file.write('\n' + 'At Higher Levels: ' + self.AtHigherLevels)
 
     @staticmethod
+    def read(file):
+        spell_iter = iter(file)
+        spell_name = next(spell_iter).strip()
+        spell = Spell(spell_name)
+        spell._set_level_and_school(next(spell_iter))
+        spell.CastTime = Spell._parse_value(next(spell_iter), 'Casting Time')
+        spell.Range = Spell._parse_value(next(spell_iter), 'Range')
+        spell.Components = Spell._parse_value(next(spell_iter), 'Components')
+        spell.Duration = Spell._parse_value(next(spell_iter), 'Duration')
+        spell._set_description("".join(spell_iter))
+        return spell
+
+    @staticmethod
     def parse_engl393(spell_name):
         this_spell = Spell(spell_name)
         try:
             soup = _scrape_engl393.get_soup(spell_name)
             this_spell._parse_info_dict(_scrape_engl393.get_info(soup))
-            this_spell.set_level_and_school(_scrape_engl393.get_level_and_type(soup))
-            this_spell.set_description(_scrape_engl393.get_description(soup))
+            this_spell._set_level_and_school(_scrape_engl393.get_level_and_type(soup))
+            this_spell._set_description(_scrape_engl393.get_description(soup))
         except Exception:
             import traceback
             print('generic exception: ' + traceback.format_exc())

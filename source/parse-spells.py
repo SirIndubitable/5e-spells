@@ -56,29 +56,10 @@ def get_next_spell(next_spell, spell_itr):
     return current_spell, next_spell
 
 
-def parse_value(line, valueName):
-    """Parses the value out of the line
-
-    >>> parse_value("Casting Time: 1 hour", "Casting Time")
-    '1 hour'
-    >>> parse_value("Components: V, S, M", "Components")
-    'V, S, M'
-    """
-    return line.replace(valueName + ': ', '').strip()
-
-
-def add_spell(spellDict, spell):
-    spell_iter = iter(spell)
-    spell_name = next(spell_iter).strip()
-    spell = Spell(spell_name)
-    spell.set_level_and_school(next(spell_iter))
-    spell.CastTime = parse_value(next(spell_iter), 'Casting Time')
-    spell.Range = parse_value(next(spell_iter), 'Range')
-    spell.Components = parse_value(next(spell_iter), 'Components')
-    spell.Duration = parse_value(next(spell_iter), 'Duration')
-    spell.set_description("".join(spell_iter))
-    spellDict[spell_name] = spell
-    created_spells.add(spell_name)
+def add_spell(spellDict, spell_file):
+    spell = Spell.read(spell_file)
+    spellDict[spell.Name] = spell
+    created_spells.add(spell.Name)
 
 
 @spell_list_parser('spellsBySource')
