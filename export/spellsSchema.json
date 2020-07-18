@@ -12,6 +12,7 @@
       "spell": {
          "type": "object",
          "properties": {
+            "name":              { "type": "string" },
             "at_higher_levels":  { "type": "string" },
             "casting_time":      { "type": "string" },
             "classes":           { "type": "array", "items": { "type": "string"}},

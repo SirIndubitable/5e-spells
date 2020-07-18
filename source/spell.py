@@ -146,6 +146,7 @@ class SpellEncoder(json.JSONEncoder):
     def default(self, obj):
         # return obj.__dict__
         return {
+            "name": obj.Name,
             "at_higher_levels": obj.AtHigherLevels,
             "casting_time": obj.CastTime,
             "classes": obj.Classes,
