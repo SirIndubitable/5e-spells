@@ -32,7 +32,7 @@ class Spell:
         # if the first word doesn't contain a number, it's probably a cantrip
         if re.search(r'\d', words[0]):
             self.Level = int(words[0][0])
-            self.School = words[1].capitalize()
+            self.School = words[-1].capitalize()
         else:
             self.Level = 0
             self.School = words[0].capitalize()
@@ -48,7 +48,7 @@ class Spell:
             return self._spell_level_string[self.Level] + '-level' + ' ' + self.School
 
     def _set_description(self, description_string):
-        description_parts = description_string.split('At Higher Levels:')
+        description_parts = description_string.replace('At Higher Levels.', 'At Higher Levels:').split('At Higher Levels:')
         self.Description = description_parts[0].strip()
         if (len(description_parts) > 1):
             self.AtHigherLevels = description_parts[1].strip()
