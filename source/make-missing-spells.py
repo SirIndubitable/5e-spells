@@ -1,7 +1,15 @@
 import os
 import re
+import logging
+from rich.progress import track 
+from rich.logging import RichHandler
 from spell import Spell
 
+logging.basicConfig(level=logging.INFO, format="%(message)s", datefmt="[%X]", handlers=[RichHandler(rich_tracebacks=True)])
+log = logging.getLogger(__name__)
+
+from rich.traceback import install
+install()
 
 def clean_string(string):
     upper_string = string.upper()
@@ -39,13 +47,14 @@ if __name__ == "__main__":
     all_available_spells = get_all_available_spells()
     clean_available_spells = list(map(clean_string, all_available_spells))
 
-    for spell_name in all_spells:
+    for spell_name in track(all_spells):
         if clean_string(spell_name) in clean_available_spells:
-            print('Skipping ' + spell_name)
+            log.debug(f'"{spell_name}": Skipped')
             continue
 
         current_spell = Spell.parse_engl393(spell_name)
         if current_spell is None:
+            log.info(f'"{spell_name}": [red]Failed[/red]', extra={"markup": True})
             continue
 
         spells_dir = get_folder_path('spells')
@@ -56,3 +65,4 @@ if __name__ == "__main__":
         f = open(abs_file_path, 'w', encoding="utf8")
         current_spell.write(f)
         f.close()
+        log.info(f'"{spell_name}": [bold green]Added[/bold green]', extra={"markup": True})

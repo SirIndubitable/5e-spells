@@ -1,7 +1,10 @@
 import _scrape_engl393
 import re
 import json
+import logging
+from urllib.error import HTTPError
 
+log = logging.getLogger(__name__)
 
 class Spell:
     _spell_level_string = {0: 'cantrip', 1: '1st', 2: '2nd', 3: '3rd', 4: '4th',
@@ -68,14 +71,14 @@ class Spell:
         return components
 
     def _parse_info_dict(self, info_dict):
-        if 'Casting Time' in info_dict:
-            self.CastTime = info_dict['Casting Time']
-        if 'Range' in info_dict:
-            self.Range = info_dict['Range']
-        if 'Components' in info_dict:
-            self.Components = self._parse_components_string(info_dict['Components'])
-        if 'Duration' in info_dict:
-            self.Duration = info_dict['Duration'].replace('Conc.', 'Concentration,')
+        if 'cast_time' in info_dict:
+            self.CastTime = info_dict['cast_time']
+        if 'range' in info_dict:
+            self.Range = info_dict['range']
+        if 'components' in info_dict:
+            self.Components = self._parse_components_string(info_dict['components'])
+        if 'duration' in info_dict:
+            self.Duration = info_dict['duration'].replace('Conc.', 'duration,')
 
     # print this spell for debugging purposes
     def print(self):
@@ -131,12 +134,15 @@ class Spell:
         this_spell = Spell(spell_name)
         try:
             soup = _scrape_engl393.get_soup(spell_name)
-            this_spell._parse_info_dict(_scrape_engl393.get_info(soup))
-            this_spell._set_level_and_school(_scrape_engl393.get_level_and_type(soup))
-            this_spell._set_description(_scrape_engl393.get_description(soup))
+            info = _scrape_engl393.parse_info(soup)
+            this_spell._parse_info_dict(info)
+            this_spell._set_level_and_school(info["level_and_type"])
+            this_spell._set_description(info["descr_n"])
+        except HTTPError:
+            log.info(f'"{spell_name}": Page not found')
+            return None
         except Exception:
-            import traceback
-            print('generic exception: ' + traceback.format_exc())
+            log.exception(f'"{spell_name}"')
             return None
         return this_spell
 
