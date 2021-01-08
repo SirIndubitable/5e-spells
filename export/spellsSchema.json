@@ -21,6 +21,7 @@
             "duration":          { "type": "string" },
             "level":             { "type": "integer" },
             "range":             { "type": "string" },
+            "ritual":            { "type": "boolean"},
             "sources":           { "type": "array", "items": { "type": "string"}},
             "school":            { "type": "string", "enum" : 
                                     [ "Abjuration",

@@ -48,6 +48,10 @@ class Spell:
         return self._jobj["range"]
 
     @property
+    def Ritual(self):
+        return self._jobj["ritual"]
+
+    @property
     def School(self):
         return self._jobj["school"]
 

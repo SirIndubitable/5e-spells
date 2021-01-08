@@ -23,12 +23,16 @@ def get_soup(spell_name):
     return BeautifulSoup(page, 'html.parser')
 
 
-def parse_info(soup):
-    info_box = soup.find('div', attrs={'class': 'mw-parser-output'})
-    if info_box is None:
-        return None
-    match = _format0.match(info_box.text)
+def parse_info(into_text):
+    match = _format0.match(into_text)
     if match is None:
         return None
     return { k:v.strip() for k, v in match.groupdict().items() }
 
+
+def get_soup_info(spell_name):
+    soup = get_soup(spell_name)
+    info_box = soup.find('div', attrs={'class': 'mw-parser-output'})
+    if info_box is None:
+        return None
+    return parse_info(info_box.text)

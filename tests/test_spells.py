@@ -25,5 +25,6 @@ def test_spells_decoder():
     assert fireballSpell.Level == 3
     assert fireballSpell.Name == "Fireball"
     assert fireballSpell.Range == "150 feet"
+    assert fireballSpell.Ritual == False
     assert fireballSpell.School == "Evocation"
     assert fireballSpell.Sources == [ "phb 241" ]

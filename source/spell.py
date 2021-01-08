@@ -22,12 +22,15 @@ class Spell:
         self.AtHigherLevels = ''
         self.Classes = list()
         self.Sources = list()
+        self.Ritual = False
 
     def _set_level_and_school(self, level_and_school):
         """
         'Conjuration cantrip' => 0, 'Conjuration'
         '2nd-level abjuration' => 2, 'Abjuration'
         """
+        self.Ritual = 'ritual' in level_and_school or 'Ritual' in level_and_school
+        level_and_school = level_and_school.replace("ritual", "").replace("Ritual", "").replace("()", "")
         words = level_and_school.split()
         # if the first word doesn't contain a number, it's probably a cantrip
         if re.search(r'\d', words[0]):
@@ -45,7 +48,7 @@ class Spell:
         if self.Level == 0:
             return self.School + ' ' + self._spell_level_string[self.Level]
         else:
-            return self._spell_level_string[self.Level] + '-level' + ' ' + self.School
+            return self._spell_level_string[self.Level] + '-level' + ' ' + self.School + ('(ritual)' if self.Ritual else '')
 
     def _set_description(self, description_string):
         description_parts = description_string.replace('At Higher Levels.', 'At Higher Levels:').split('At Higher Levels:')
@@ -131,16 +134,20 @@ class Spell:
 
     @staticmethod
     def parse_engl393(spell_name):
-        this_spell = Spell(spell_name)
         try:
-            soup = _scrape_engl393.get_soup(spell_name)
-            info = _scrape_engl393.parse_info(soup)
-            this_spell._parse_info_dict(info)
-            this_spell._set_level_and_school(info["level_and_type"])
-            this_spell._set_description(info["descr_n"])
+            info = _scrape_engl393.get_soup_info(spell_name)
         except HTTPError:
             log.info(f'"{spell_name}": Page not found')
             return None
+        return Spell.from_engl393(spell_name, info)
+
+    @staticmethod
+    def from_engl393(spell_name, spell_info):
+        this_spell = Spell(spell_name)
+        try:
+            this_spell._parse_info_dict(spell_info)
+            this_spell._set_level_and_school(spell_info["level_and_type"])
+            this_spell._set_description(spell_info["descr_n"])
         except Exception:
             log.exception(f'"{spell_name}"')
             return None
@@ -161,6 +168,7 @@ class SpellEncoder(json.JSONEncoder):
             "duration": obj.Duration,
             "level": obj.Level,
             "range": obj.Range,
+            "ritual": obj.Ritual,
             "school": obj.School,
             "sources": obj.Sources,
         }
